@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: deafult
 ---
 
 ## Table of Contents
