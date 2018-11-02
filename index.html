@@ -1,47 +1,18 @@
-<!doctype html>
+---
+layout: default
+---
 
-<html lang="en">
-<head>
-  
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127942415-1"></script>
-  <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-127942415-1');
-  </script>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-  <meta charset="utf-8">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-  <title>Nick Nichols - GitHub</title>
-  <meta name="description" content="Nick Nichols - Index">
-  <meta name="author" content="Nick Nichols">
-  <meta name="keywords" content="clojure, programmer, developer, resume, cv, nick nichols">
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-</head>
-
-<body>
-  <p> Hello, World! </p>
-  
-  <h3> Current Projects </h3>
-  <p> I currently work on the following projects:
-    <ul>
-      <li><a href="https://github.com/nnichols/rpg-story-bot">The RPG Story Bot</a></li>
-      <li><a href="https://github.com/nnichols/JGAP-Research">Elitist Schema Overlays</a></li>
-    </ul>
-  </p>
-  
-  <h3> Publications </h3>
-  <p> I am the author of the following articles:
-  <ul>
-    <li><a href="https://digitalcommons.iwu.edu/jwprc/2013/oralpres8/1/">Elitist Schema Overlays: A Multi-Parent Genetic Operator</a></li>
-  </ul>
-  And the following D&D Expansions:
-  <ul>
-    <li><a href="https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues">The Fey Knight Archetype for Rogues</a></li>
-    <li><a href="https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters">The Strider Archetype for Fighters</a></li>
-  </ul>  
-  </p>
-
-</body>
-</html>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
