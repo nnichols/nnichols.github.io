@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /index/
+permalink: /
 ---
 
 We're currently under construction.
