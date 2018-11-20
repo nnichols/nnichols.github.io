@@ -78,7 +78,7 @@ I want to pause and mention that this _is not_ the meant to be the same as Behav
     (is (< (add -1 -3) -1 -3))))    
 ```
 
-So, while we're still using enumerated, specified test cases, our testing rigor has increased. Why? Because we're testing _behaviors_ against eachother, not just values. In order to get _any_ value from randomized testing, we need to know and understand general behaviors of our programs.
+While we're still using enumerated, specified test cases, our testing rigor has increased. Why? Because we're testing _behaviors_ against eachother, not just values. In order to get _any_ value from randomized testing, we need to know and understand general behaviors of our programs.
 
 ```clojure
 (deftest even-better-test
@@ -100,8 +100,39 @@ Our new tests presuppose very little. We assert these behaviors are true for __a
 
 ### Property Testing
 
-In general, if we understand the behaviors of
+In general, if we understand the relationship between our inputs and outputs well enough, we should be able to assert general _properties_ of the function. We evolved from specific inputs rendering a specific output to a general type of input to a general type of output. Now we ask ourselves what must be true for _any_ input? What things do we know about the concept of addition that we can test against our implementation of addition? 
 
-he properties of commutativiy and associativity are true of addition, regardless of the values we use. 
+```clojure
+(deftest another-good-test
+  (let [a (pick-a-random-integer)
+        b (pick-a-random-integer)
+        c (pick-a-random-integer)]
+    (testing "Addition is commutative"
+      (is (= (add a b) (add b a))))
+    (testing "Addition is associative"
+      (is (= (add (add a b) c) (add a (add b c)))))
+    (testing "0 is the identity element for addition"
+      (is (= a (add 0 a))))))         
+```
 
-What things do we know about the concept of addition that we can test against our implementation of addition? 
+The properties of commutativity and associativity are true, regardless of the values, or even family of values, we use. The above tests are useful since they test the consistency of the function against strong, mathematical invariants. We're no longer tracking attributes of our test data, or making statements that are conditionally true. 
+
+### What's Next?
+
+So, we should burn down all of our tests and replace them with __Property Tests__, right? 
+
+Not exactly. Drastic action is rarely the answer. In truth, each of the three types of test above are good and necessary when used appropriately. The key is balancing work and payoff, and targeting techniques to fit the problems you're trying to solve. That's generally good advice, but here's how it specifically relates to the problem at hand.
+
+__Enumerative Testing__ is really good for quick sanity checks while coding. It helps you determine if you're on the right track and shows you what is actually happening. They're easy to do and expand upon. On top of that, I fully understand the use of paranoia/'Never Again!' test cases to make _absolutely_ certain the big, bad error never comes back. Been there, done that.
+
+The real benefit in persistent, enumerative tests are to track your edge cases. In the case of addition, the most common example is overflow. If our function handled floats and doubles, we'd also want some around rounding. If you know when a function breaks down, or where it _should_ break down, it's good to confirm that behavior. In the case of overflow, your implementation could throw an error, hard crash, or return the overflown result. It's useful to know the limitations of your code, and it helps detect underlying changes or assumptions you've made about your language and the metal it runs on. 
+
+__Property Testing__ is very strong, but often limited in another way. Most functions have few invariants. Testing them is a powerful and quick way to build surety, but they are few and far between. A lot of practical application needs lack features like commutativity, idempotency, and other $10 Computer Science terms. What holds true for _every_ possible `UPDATE` statement? 
+
+I'm not expecting an immediate answer. It's supposed to be a difficult question. These are hard to assert and hard to write, but they cover massive ground. If there are underlying issues in the implementation, the rigidity often causes them to be the first to break. 
+
+__Behavior Testing__ is the nice middle-ground that will capture most of your testing needs. 
+
+### Takeaways
+
+
