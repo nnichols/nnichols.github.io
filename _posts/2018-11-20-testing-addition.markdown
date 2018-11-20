@@ -27,8 +27,8 @@ So, let's assume we've been given the requirements to write the addition operato
 
 If we're being honest with ourselves, our first test cases probably look like this:
 
-'''clojure
+```clojure
 (defn dirty-test
   [a b]
   (println (add a b)))
-'''
+```
