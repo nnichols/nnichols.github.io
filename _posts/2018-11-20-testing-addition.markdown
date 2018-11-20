@@ -131,8 +131,10 @@ __Property Testing__ is very strong, but often limited in another way. Most func
 
 I'm not expecting an immediate answer. It's supposed to be a difficult question. These are hard to assert and hard to write, but they cover massive ground. If there are underlying issues in the implementation, the rigidity often causes them to be the first to break. 
 
-__Behavior Testing__ is the nice middle-ground that will capture most of your testing needs. 
+__Behavior Testing__ is the nice middle-ground that will capture most of your testing needs, and may or may not require randomized data. Testing a search with randomized strings probably won't get you very far, unless you're really interested in the 'Not Found' path of your application. On the flip side, testing a regex against a few hard-coded strings representative of 'likely' scenario families will probably [cause more problems](https://xkcd.com/1171/ "Obligatory xkcd") than it solves. 
 
 ### Takeaways
 
-
+1) A varied testing strategy will take you farther than dogma
+2) Write stronger tests before you just write more tests
+3) Use randomized data (and mutation testing, if you desire) to test the assumptions you make
