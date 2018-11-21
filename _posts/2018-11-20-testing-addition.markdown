@@ -30,7 +30,7 @@ So, let's assume we've been given the requirements to write the addition operato
 If we're being honest with ourselves, our first test cases probably looked like this:
 
 ```clojure
-(defn dirty-test
+(defn in-code-test
   [a b]
   (println (add a b)))
 ```
@@ -123,18 +123,22 @@ So, we should burn down all of our tests and replace them with __Property Tests_
 
 Not exactly. Drastic action is rarely the answer. In truth, each of the three types of test above are good and necessary when used appropriately. The key is balancing work and payoff, and targeting techniques to fit the problems you're trying to solve. That's generally good advice, but here's how it specifically relates to the problem at hand.
 
-__Enumerative Testing__ is really good for quick sanity checks while coding. It helps you determine if you're on the right track and shows you what is actually happening. They're easy to do and expand upon. On top of that, I fully understand the use of paranoia/'Never Again!' test cases to make _absolutely_ certain the big, bad error never comes back. Been there, done that.
+__Enumerative Testing__ is really good for quick sanity checks while coding. It helps you determine if you're on the right track and shows you what is actually happening. They're easy to do and expand upon. On top of that, I fully understand the use of paranoia/'Never Again!' test cases to make _absolutely_ certain the [big, bad bug](https://en.wikipedia.org/wiki/Big_Bad_Beetleborgs "The biggest and baddest bugs") never comes back. Been there, done that.
 
 The real benefit in persistent, enumerative tests are to track your edge cases. In the case of addition, the most common example is overflow. If our function handled floats and doubles, we'd also want some around rounding. If you know when a function breaks down, or where it _should_ break down, it's good to confirm that behavior. In the case of overflow, your implementation could throw an error, hard crash, or return the overflown result. It's useful to know the limitations of your code, and it helps detect underlying changes or assumptions you've made about your language and the metal it runs on. 
 
 __Property Testing__ is very strong, but often limited in another way. Most functions have few invariants. Testing them is a powerful and quick way to build surety, but they are few and far between. A lot of practical application needs lack features like commutativity, idempotency, and other $10 Computer Science terms. What holds true for _every_ possible `UPDATE` statement? 
 
-I'm not expecting an immediate answer. It's supposed to be a difficult question. These are hard to assert and hard to write, but they cover massive ground. If there are underlying issues in the implementation, the rigidity often causes them to be the first to break. 
+I'm not expecting an immediate answer. It's supposed to be a difficult question. These are hard to assert and hard to write, but they cover massive ground. If there are underlying issues in the implementation, the rigidity often causes them to be the first to break. For operations grounded in mathematics, there are usually plenty of theorems you can find on Wikipedia. For more practical operations, you'll be happier the closer your implementation is to the algorithm you're implementing.
 
-__Behavior Testing__ is the nice middle-ground that will capture most of your testing needs, and may or may not require randomized data. Testing a search with randomized strings probably won't get you very far, unless you're really interested in the 'Not Found' path of your application. On the flip side, testing a regex against a few hard-coded strings representative of 'likely' scenario families will probably [cause more problems](https://xkcd.com/1171/ "Obligatory xkcd") than it solves. 
+__Behavior Testing__ is the nice middle-ground that will capture most of your testing needs, and may or may not require randomized data. Testing a search feature with randomized strings probably won't get you very far, unless you're really interested in the 'Not Found' path of your application. On the flip side, testing a regex against a few hard-coded strings representative of 'likely' scenario families will probably [cause more problems](https://xkcd.com/1171/ "Obligatory xkcd") than it solves. 
+
+The relationship between input and output is where most coding starts, and it's a practical place to start your testing. The more your test cases represent behavioral scenarios, the better you'll understand the implementation and use of your functions. 
 
 ### Takeaways
 
 1) A varied testing strategy will take you farther than dogma
 2) Write stronger tests before you just write more tests
 3) Use randomized data (and mutation testing, if you desire) to test the assumptions you make
+
+As Dijkstra says, "Testing shows the presence, not the absence of bugs." Therefore, it's important to focus on tests that target likely weak points, make bold claims, and explore as much of the application's problem domain as possible. Humans make mistakes. Your code has bugs, and finding and squashing them is crucial. The point of these test cases isn't to nit-pick through everyone else's code or testing suites, but to help search for bugs wherever they made be found.
