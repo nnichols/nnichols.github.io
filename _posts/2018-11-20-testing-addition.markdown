@@ -137,8 +137,8 @@ The relationship between input and output is where most coding starts, and it's 
 
 ### Takeaways
 
-1) A varied testing strategy will take you farther than dogma
-2) Write stronger tests before you just write more tests
-3) Use randomized data (and mutation testing, if you desire) to test the assumptions you make
+1. A varied testing strategy will take you farther than dogma
+2. Write stronger tests before you just write more tests
+3. Use randomized data (and mutation testing, if you desire) to test the assumptions you make
 
 As Dijkstra says, "Testing shows the presence, not the absence of bugs." Therefore, it's important to focus on tests that target likely weak points, make bold claims, and explore as much of the application's problem domain as possible. Humans make mistakes. Your code has bugs, and finding and squashing them is crucial. The point of these test cases isn't to nit-pick through everyone else's code or testing suites, but to help search for bugs wherever they made be found.
