@@ -14,10 +14,10 @@ permalink: /sitemap
 
 
 
-## Tech Posts (Chronologically Ordered):
+## Tech Posts (Chronologically Ordered, Most Recent First):
 
-[Testing Addition]({{ site.baseurl }}{% post_url 2018-11-20-testing-addition %})
+[Testing Addition: 2018-11-20]({{ site.baseurl }}{% post_url 2018-11-20-testing-addition %})
 
 
 
-## D&D Posts (Chronologically Ordered):
+## D&D Posts (Chronologically Ordered, Most Recent First):
