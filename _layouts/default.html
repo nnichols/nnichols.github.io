@@ -47,36 +47,19 @@
           {% if site.github.is_user_page %}
           <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on GitHub</p>
           {% endif %}
-          <ul>
-            {% if site.twitter_username %}
-            <li>
+
               <a href="https://twitter.com/{{ site.twitter_username }}">
                 <i class="fa fa-twitter"></i> Twitter
               </a>
-            </li>
-            {% endif %}
-            {% if site.github_username %}
-            <li>
-              <a href="https://github.com/{{ site.github_username }}">
-                <i class="fa fa-github"></i> GitHub
-              </a>
-            </li>
-            {% endif %}
-            {% if site.linkedin_username %}
-            <li>
+| 
               <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
                 <i class="fa fa-linkedin"></i> LinkedIn
               </a>
-            </li>
-            {% endif %}
-            {% if site.instagram_username %}
-            <li>
+| 
               <a href="https://instagram.com/{{ site.instagram_username }}">
                 <i class="fa fa-instagram"></i> Instagram
               </a>
-            </li>
-            {% endif %}
-          </ul>
+
         </span>
         <span class="left-tail"></span>
         <span class="right-tail"></span>
