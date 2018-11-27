@@ -7,10 +7,12 @@ categories: json postgres psql upsert document mongo
 
 If you are one of the lucky ducks that uses PostgreSQL, you likely already know that as of <s>9.2</s> <s>err, 9.3</s> 9.4, that Binary JSON is fully supported! And NoSQL... sorta. We're still in Postgres, so maybe NotAllThatMuchSQL? In many applications, you'll find a structure kind of like this:
 
+```SQL
 | index | special_identifier | data                      |
 |-------|--------------------|---------------------------|
 | 1     | 1-a-sz-01          | `{"sub-head":"value"}     |
 | 2     | F-2-sz-01          | `{"title":"JSON Article"} |
+```
 
 And so on and so forth until we've had our fill of data.
 
@@ -59,11 +61,13 @@ I lack the emotional fortitude to jump into raw metal v metal performance <s>pis
 
 At some point, your table will need data. Otherwise, what's the point of a database? Additionally, the data you keep on hand has a nasty tendency to grow over time. Let's build a table to have a more concrete reference point for this article. To honor database education traditions, let's call it `users.`
 
+```SQL
 | unique_index | name  | age | actions                               |
 |--------------|-------|-----|---------------------------------------|
 | 1            | Nick  | 27  | NULL                                  |
 | 2            | Sasha | 28  | '{"account-activated":"2018-05-20"}'  |
 | 3            | Lily  | 27  | '{"account-dectivated":"2017-04-01"}' |
+```
 
 Eventually, Trey comes along and wants to sign up for the amazing service we're providing.
 
@@ -73,7 +77,8 @@ VALUES ('Trey', 30, '{"signup-email":"fake@madeup.org"}'::jsonb);
 ```
 
 The unique_index automagically increments for us, and Trey is added to our table.
-```
+
+```SQL
 | unique_index | name  | age | actions                               |
 |--------------|-------|-----|---------------------------------------|
 | 1            | Nick  | 27  | NULL                                  |
