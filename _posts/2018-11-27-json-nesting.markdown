@@ -73,10 +73,11 @@ VALUES ('Trey', 30, '{"signup-email":"fake@madeup.org"}'::jsonb);
 ```
 
 The unique_index automagically increments for us, and Trey is added to our table.
-
+```
 | unique_index | name  | age | actions                               |
 |--------------|-------|-----|---------------------------------------|
 | 1            | Nick  | 27  | NULL                                  |
 | 2            | Sasha | 28  | '{"account-activated":"2018-05-20"}'  |
 | 3            | Lily  | 27  | '{"account-dectivated":"2017-04-01"}' |
 | 4            | Trey  | 30  | '{"signup-email":"fake@madeup.org"}'  |
+```
