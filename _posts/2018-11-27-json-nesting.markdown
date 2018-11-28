@@ -8,10 +8,10 @@ categories: json postgres psql upsert document mongo
 If you are one of the lucky ducks that uses PostgreSQL, you likely already know that as of <s>9.2</s> <s>err, 9.3</s> 9.4, that Binary JSON is fully supported! And NoSQL... sorta. We're still in Postgres, so maybe NotAllThatMuchSQL? In many applications, you'll find a structure kind of like this:
 
 ```SQL
-| index | special_identifier | data                      |
-|-------|--------------------|---------------------------|
-| 1     | 1-a-sz-01          | `{"sub-head":"value"}     |
-| 2     | F-2-sz-01          | `{"title":"JSON Article"} |
+| index | special_identifier | data                       |
+|-------|--------------------|----------------------------|
+| 1     | S-a-sz-01          | '{"sub-head":"value"}'     |
+| 2     | F-2-sz-01          | '{"title":"JSON Article"}' |
 ```
 
 And so on and so forth until we've had our fill of data.
@@ -86,3 +86,74 @@ The unique_index automagically increments for us, and Trey is added to our table
 | 3            | Lily  | 27  | '{"account-dectivated":"2017-04-01"}' |
 | 4            | Trey  | 30  | '{"signup-email":"fake@madeup.org"}'  |
 ```
+
+No big deal, right? It's a simple insertion, so nothing complex changes. We've added a lot of flexibility in terms of trackable actions, and, so far, there's no cost.
+
+The next logical step is to tackle `UPDATE`. Trey obviously signed up with a fake email, so let's correct it.
+
+```SQL
+UPDATE users SET actions = '{"signup-email":"real@real.gov"}'::jsonb
+WHERE unique_index = 4;
+```
+
+```SQL
+| unique_index | name  | age | actions                               |
+|--------------|-------|-----|---------------------------------------|
+| 1            | Nick  | 27  | NULL                                  |
+| 2            | Sasha | 28  | '{"account-activated":"2018-05-20"}'  |
+| 3            | Lily  | 27  | '{"account-dectivated":"2017-04-01"}' |
+| 4            | Trey  | 30  | '{"signup-email":"real@real.gov"}'    |
+```
+
+This looks right, right? We wanted to replace the email Trey signed up with, so we did. Now, like most websites, we want to send out an activation email and track when he first signed up.
+
+```SQL
+UPDATE users SET actions = '{"account-activated":"2018-11-27"}'::jsonb
+WHERE unique_index = 4;
+```
+
+```SQL
+| unique_index | name  | age | actions                               |
+|--------------|-------|-----|---------------------------------------|
+| 1            | Nick  | 27  | NULL                                  |
+| 2            | Sasha | 28  | '{"account-activated":"2018-05-20"}'  |
+| 3            | Lily  | 27  | '{"account-dectivated":"2017-04-01"}' |
+| 4            | Trey  | 30  | '{"account-activated":"2018-11-27"}'  |
+```
+
+So, we just lost his email. This makes sense in Postgres- we're updating the entire column. It doesn't care what the type of that column is as long as the value supplied can land there. I bring this up because it may seem intuitive to treat a new JSON key as a sub-column and to append the value as a default for JSON columns. It's an easy mistake to make, and easy to correct too. Here's the query to append:
+
+```SQL
+UPDATE users SET actions = users.actions || '{"account-activated":"2018-11-27"}'::jsonb
+WHERE unique_index = 4;
+```
+
+For a simple add/replace, the JSON operators are pretty smooth. They syntactically stand out from the rest of PSQL, but I'm okay with that. If you're shifting paradigms, it's useful to have a visual indicator of what is what. The JSON(B) functions are all clearly labeled as such, so you should always know what to expect.
+
+Should.
+
+Let's say our site has grown to include a social aspect. It's 2018, so it was only inevitable. Our users now have the ability to list out their interests. The categories and lists on our front end changes daily, and we, the lowly back-end developers, decide to throw it in a document column.
+
+Here's what some sample data could look like:
+
+```SQL
+'{"shows":
+  '{"comedy":
+      '{"Arrested Development":"2015-08-12",
+        "scrubs":"2017-11-01"}',
+    "news":
+      '{"The Daily Show":"2014-03-13"}'
+    }',
+  '{"movies": ...}'
+}'
+```
+
+As categories get added, it's simple enough to append them. We can use the same query as above to list out all of the anime series, video games, and ice cream flavors Trey feels like divulging to our organization. Fantastic.
+
+Oh no. Wait a minute. Humans are fickle beings, and our interests change all of the time. One morning, Trey decides he has had it up to here with American comedies, and binge watches a ton of Asian Rom-Coms. He has to tell the world about it, our website included. So, how do we a show in the comedy category? With our large, growing website and the possibility of shared accounts, we want to make sure it's simple, thread-safe, and doesn't rely on *a priori* information.
+
+So, how do we do it?
+
+--JSON EDIT MONSTER--
+
+The multi-paradigm approach is awkward, especially in the case of a true update. As many Java developers can tell you, it *is* possible for one framework/technology/language to support too many paradigms. In fact, any number greater than one is usually too much. Using the right technology is better than using *the* technology. In short: If you care about the structure of your data, use a structured format.
