@@ -40,7 +40,7 @@ SELECT count(*) FROM table WHERE index > 10;
 SELECT count(*) FROM table WHERE data ? 'title';
 ```
 
-We can index!
+We can even index!
 
 **The SQL They Taught Your Dad**
 ```SQL
@@ -55,7 +55,7 @@ CREATE INDEX jsonidx ON table ((data->>'title'));
 Okay, from a syntactic point of view, not a lot has changed. Our data is still in a table, after all. So, what's the big deal? Why do we want large, unstructured blocks of data in a paradigm based on structure and relationships? Well, if you've ever read a MongoDB forum, or visited a Slack channel for web developers, or happened to be at a bus stop with a developer who has, at one point, heard of NoSQL, you'll invariably hear one of three answers:
 1. Minimize relationship complexity
 2. Maximize schema flexibility
-3. [It scales right up](https://www.youtube.com/watch?v=b2F-DItXtZs "Every MongoDB argument to date")
+3. [You turn it on and it scales right up](https://www.youtube.com/watch?v=b2F-DItXtZs "Every MongoDB argument to date")
 
 I lack the emotional fortitude to jump into raw metal v metal performance <s>pissing contests</s> discussions. We can analyze the first two points at a syntactic and ideologic level, without having to worry (too much) about configurations. With everything above in mind, lets talk about `INSERT.`
 
@@ -132,7 +132,7 @@ For a simple add/replace, the JSON operators are pretty smooth. They syntactical
 
 Should.
 
-Let's say our site has grown to include a social aspect. It's 2018, so it was only inevitable. Our users now have the ability to list out their interests. The categories and lists on our front end changes daily, and we, the lowly back-end developers, decide to throw it in a document column.
+Let's say our site has grown to include a social aspect. It's 2018, so it was only inevitable. Our users now have the ability to list out their interests. The categories and lists on our front end changes daily, and we, the lowly back-end developers, decide to throw it in a new document column.
 
 Here's what some sample data could look like:
 
@@ -150,10 +150,62 @@ Here's what some sample data could look like:
 
 As categories get added, it's simple enough to append them. We can use the same query as above to list out all of the anime series, video games, and ice cream flavors Trey feels like divulging to our organization. Fantastic.
 
-Oh no. Wait a minute. Humans are fickle beings, and our interests change all of the time. One morning, Trey decides he has had it up to here with American comedies, and binge watches a ton of Asian Rom-Coms. He has to tell the world about it, our website included. So, how do we a show in the comedy category? With our large, growing website and the possibility of shared accounts, we want to make sure it's simple, thread-safe, and doesn't rely on *a priori* information.
+Oh no. Wait a minute. Humans are fickle beings, and our interests change all of the time. One morning, Trey decides he has had it up to here with American comedies, and binge watches a ton of Asian Rom-Coms. He has to tell the world about it, our website included. So, how do we add a show in the comedy category? With our large, growing website and the possibility of shared accounts, we want to make sure it's simple, thread-safe, and doesn't rely on *a priori* information.
 
-So, how do we do it?
+So, how do we do it? Typically, these scenarios call for the Postgres portmanteau [upsert](https://en.wiktionary.org/wiki/upsert). We've already seen the insert side:
 
---JSON EDIT MONSTER--
+```SQL
+INSERT INTO users (name, age, actions, likes)
+VALUES ('Trey', 30, '{"signup-email":"fake@madeup.org"}'::jsonb, '{"shows":{"comedy":{"Good Morning Call":"2017-11-27"}}}'::jsonb);
+```
 
-The multi-paradigm approach is awkward, especially in the case of a true update. As many Java developers can tell you, it *is* possible for one framework/technology/language to support too many paradigms. In fact, any number greater than one is usually too much. Using the right technology is better than using *the* technology. In short: If you care about the structure of your data, use a structured format.
+Now we just need to determine the conflict conditions and our update statement. For the sake of this article, let's assume, for whatever statistically impossible scenario this would pop up in, that name and age, as a pair, act as a unique index. Yes, I know that is A) never going to be true and B) dumb; however, this isn't an article on key/constraint selection. So, where are we at?
+
+```SQL
+INSERT INTO users (name, age, actions, likes)
+VALUES ('Trey', 30, '{"signup-email":"fake@madeup.org"}'::jsonb, '{"shows":{"comedy":{"Good Morning Call":"2017-11-27"}}}'::jsonb)
+ON CONFLICT (name, age)
+DO UPDATE SET likes = users.likes || '{"shows":{"comedy":{"Good Morning Call":"2017-11-27"}}}'::jsonb;
+```
+
+This looks right. We want to add Good Morning Call to the comedy category of shows of likes, so, why wouldn't we append it? Because it isn't a deep operation. So, the top-level key `shows` in `users.likes` will be **entirely replaced** by our update. We don't want to rely on the client sending the full blurb, since we'd lose thread safety. Additionally, this operation **is not** safe! If `users.likes` is `NULL`, the columns value will remain `NULL`. So, how do we actually perform a deep insert?
+
+```SQL
+INSERT INTO users (name, age, actions, likes)
+VALUES ('Trey', 30, '{"signup-email":"fake@madeup.org"}'::jsonb, '{"shows":{"comedy":{"Good Morning Call":"2017-11-27"}}}'::jsonb)
+ON CONFLICT (name, age)
+DO UPDATE SET likes = jsonb_set(likes, '{shows, comedy, Good Morning Call}', '2017-11-27');
+```
+
+Great, `jsonb_set` will drill into our structure with the provided path and upsert the value we gave it. Well, maybe. While upserting, it's important to differentiate between the row we're trying to insert and the row we're conflicting with. In Postgres, this is done with a special keyword `EXCLUDED` or the dot notation seen above `users.likes`, respectively.
+
+Wait.
+
+That didn't work for you?
+
+It didn't.
+
+Know why?
+
+In the `jsonb_set` function, we have to specify the path of the data we're updating. Since we could be referring to two different rows (the one in the table and the one we tried to insert), Postgres will throw its hands up and let you know there's an unresolvable ambiguity. Programming is fun, isn't it?
+
+Don't worry, this line of thought was doomed from the beginning anyway. The function we relied on upon, `jsonb_set` follows a path, then tries to land a value there. Which doesn't work if the path doesn't exist, because you'd be associating data to a null key.
+
+So, now we have to introduce a sub-SELECT clause to handle the ambiguity of the update and we have to build a path traversal clause by hamming together `coalesce` and `jsonb_set`. I'll skip the step-by-step approach and vomit that out here:
+
+```SQL
+INSERT INTO users (name, age, actions, likes)
+VALUES ('Trey', 30, '{"signup-email":"fake@madeup.org"}'::jsonb, '{"shows":{"comedy":{"Good Morning Call":"2017-11-27"}}}'::jsonb)
+ON CONFLICT (name, age)
+DO UPDATE SET likes =
+    (SELECT coalesce( jsonb_set( likes, '{shows, comedy, Good Morning Call}', '2017-11-27'),
+                      jsonb_set( likes, '{shows, comedy}', '{"Good Morning Call":"2017-11-27"}'),
+                      jsonb_set( likes, '{shows}', '{"comedy":{"Good Morning Call":"2017-11-27"}}'),
+                      '{"shows":{"comedy":{"Good Morning Call":"2017-11-27"}}}'::jsonb)
+     FROM users
+     WHERE (name = 'Trey' AND age = 30))
+```
+
+In short: If you care about the structure of your data, use a structured format. In the name of never doing another join again, we've created an absolute disaster. Is this type of querying worth the flexibility when spinning up resources is so simple?
+
+The multi-paradigm approach is awkward, especially in the case of a true update. As many Java developers can tell you, it *is* possible for one framework/technology/language to support too many paradigms. In fact, any number greater than one is usually too much. Remember, using the right technology is better than using *the* technology.
