@@ -16,8 +16,9 @@ permalink: /sitemap
 
 ## Tech Posts (Chronologically Ordered, Most Recent First):
 
-[Testing Addition: 2018-11-20]({{ site.baseurl }}{% post_url 2018-11-20-testing-addition %})
+[Postgres JSON Nesting: 2018-11-27]({{ site.baseurl }}{% post_url 2018-11-27-json-nesting.markdown %})
 
+[Testing Addition: 2018-11-20]({{ site.baseurl }}{% post_url 2018-11-20-testing-addition %})
 
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
