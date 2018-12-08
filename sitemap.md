@@ -16,6 +16,8 @@ permalink: /sitemap
 
 ## Tech Posts (Chronologically Ordered, Most Recent First):
 
+[First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five/)
+
 [Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/json-nesting/)
 
 [Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition/)
