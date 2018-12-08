@@ -37,7 +37,7 @@ In most cases **2** is a good idea poorly executed. Most organizations of scale 
 
 The core issues span both sides of the spectrum: people lie and metrics for this problem domain are ill-defined at best.
 
-So, what incentivises people to lie during an exit interview?
+So, what incentivizes people to lie during an exit interview?
 1. Things may not work out at their new job, life phase, etc. and they want an open door to come back through
 2. They don't believe the organization is capable of change
 3. They're so mentally and emotionally "over it" that they'll choose the path of least resistance
@@ -50,21 +50,47 @@ Category **1** is probably the most common, and, if you're looking at addressing
 
 This is where things become difficult. When handling in-person exit interviews, you, and your organization, are responsible for eliminating the fear of reproach. If people are lying during your exit interviews, it is because your organization creates and fosters a hostile environment for the truth. This is, arguably, when an employee is the freest and most able to speak their mind, and anything inhibiting that discussion falls squarely in your domain. In fact, it's probably one of the core problems you need to solve.
 
-It's not worth talking about electronic and paper surveys. If you want to understand the motivating emotional and cognitive factors behind an employee's decision to leave your organization voluntarily, you need to engage with them on an emotional and cognitive level. This is the time to ask the questions you **should** have been along the way:
-+ How good are our positions compared to our competition?
-+ How would you change our organization?
-+ When and how did we fail you?
+It's not even worth talking about electronic and paper surveys, as nothing say "We really don't give a shit" quite like a SurveyMonkey link sent on your last day in the office. If you want to understand the motivating emotional and cognitive factors behind an employee's decision to leave your organization voluntarily, you need to engage with them on an emotional and cognitive level. This is the time to ask the questions you **should** have been along the way:
++ How did you feel working here? Are you glad to be leaving?
++ Did you feel included in the organization? Did we do **anything** keeping you from feeling that way?
++ When and how did we fail you? What motivated you to leave?
 
 I know. You're feeling defensive, aren't you?
 
 *They're* the one leaving after all. It's a terrible decision on *their* part.
 
-This type of pride is similar to that which separates patriotism and nationalism. One is healthy and normal, the other is evil.
+This type of pride is similar to that which separates patriotism and nationalism. One is healthy and normal, the other is psychotic and self-serving.
 
-We're humans. Things go wrong. We do things poorly. Our cognition is riddled with biases. This only perpetuates further when we act as groups. Remember, there is a stark difference between your organization and the people leaving it. It is your responsibility to understand that difference if you want to keep your workforce happy. What is our value system? How does it play out in practice? What gaps exist? How does our value system differ from our employees'?
+We're humans. Things go wrong. We do things poorly. Our cognition is riddled with biases. This only perpetuates further when we act as groups. Remember, there is a stark difference between your organization and the people leaving it. It is your responsibility to understand that difference if you want to keep your workforce happy. What is our value system? How does it play out in practice? What gaps exist? How does our value system differ from our employees'? It will take a lot of time, personal energy, and honesty. This isn't easy, on-the-side work.
 
-If people leave your organization because your values and behaviors don't align, you need to know that. If people leave your organization because your values and their values don't align, you need to know that. When you start to find meaningful answers to these questions, you can start to address your problems. Yes, you have them too. We all do. A long, hard look in the mirror, without any sugar coating, is the place to start. If there are intentional differences you believe make you stand out, make sure people know it's a core value to you. If there are practices and behaviors, **especially** informal ones, that undermine or conflict with your values you either need new values or different behaviors. Either way, your organization is dishonest at best.
+If people leave your organization because your values and behaviors don't align, you need to know that. If people leave your organization because your values and their values don't align, you need to know that. When you start to find meaningful answers to these questions, you can start to address your problems. Yes, you have them too. We all do. A long, hard look in the mirror, without any sugar coating, is the place to start. If there are intentional differences you believe make you stand out, make sure people know it's a core value to you. If there are practices and behaviors, **especially** informal ones, that undermine or conflict with your values you either need new values or different behaviors. Either way, there is a cognitive division that needs to be solved.
 
-The exit interview is only the starting point. This conversation and introspection should happen before the two week notice. It needs to be honest, eliminate the fear of reproach, and actually drive action. If any element of this is lacking, all you have is masturbatory navel gazing.
+The exit interview is only the starting point. This conversation and introspection should happen before the two week notice. It needs to be honest, eliminate the fear of reproach, and actually drive action. If any element of this is lacking, all you have is masturbatory navel gazing. You need to take a good, hard look at your weaknesses, knowing that you'll subconsciously try to sugarcoat or minimize each one.
 
-This is where we come back to interns. They're perfect pilots for this type of work. They have recent experience and exposure to social plasticity, the lack of "old fashioned business sense", and, most importantly, hope to say what's really on their minds. If your intern turnover rate is terrible, there are probably systemic employee engagement issues too. They're social canaries, if you will. Have them observe the culture as medium-term insiders. Hell, hire an anthropology or sociology student to specifically focus on it- they're the experts in this field. Find out **why** they want to come back, **why** they declined your offer, **why** they think your company is the way it is. 
+This is where we come back to interns. They're perfect pilots for this type of work. They have recent experience and exposure to social plasticity, the lack of "old fashioned business sense", and, most importantly, still have the hope in the system to say what's really on their minds. If your intern turnover rate is terrible, there are probably systemic employee engagement issues too. They're social canaries, if you will. Have them observe the culture as medium-term insiders. Hell, hire an anthropology or sociology student to specifically focus on it- they're the experts in this field. Find out **why** they want to come back, **why** they declined your offer, and **why** they think your company is the way it is.
+
+## Hi, Hi, Hi
+
+Now, a happier subject: hiring! New employees means your business is growing, you're finding great matches, and people want to work for you. It's a great time for all, an even better time to learn, and why I named this post the way I did.
+
+New employees, like interns, have a unique perspective on your organization. They have recent, memorable experience at a comparable job, and, with a little time, have a solid contextual understanding of your work and organization. How long does this take? Well, it obviously varies, but, as you can probably guess, I'm going to arbitrarily throw out forty-five days as a reasonable timeframe. Does the exact time matter? Not really, as long as it's measurable in days to weeks. That being said, "First Forty-Five" has a nice ring to it as an Outlook invitation.
+
+I can't take credit for this idea: my new boss tried me as a guinea pig for this, and I'm merely advocating for it as a useful exercise with minimal overhead and commitment. The idea is simple enough, and takes at most an hour. In your initial one-on-one meetings with a new employee, task them with observing the culture, workflow, and social norms of their new environment. Have them consider their new position to their old. Let them integrate themselves, but keep the mindset of an observer. After the allotted time has passed, call your team together for an informal, hour-ish meeting.
+
+In this meeting, it's important that anyone with elevated status or power (be it perceived or organizationally enforced) to ensure that everyone feels comfortable being honest **without fear of reproach for being honest**. Often, this means listening and not speaking. Once that's out of the way, set the following ground rules:
+1. Everyone should act in good faith, and believe whatever is said, even if they disagree
+2. Do your best to build off of other's examinations in a "Yes, and..." fashion
+3. Don't get defensive, attempt to quell discussion, or distracted.
+
+From there, kick off the first few questions to start discussion. Once everyone hits a self-sustaining level of dialogue, back off. There's no need to finish every question or to hit a certain time limit. Leave well enough alone. Here are some example questions:
+1. How has your first << Insert timeframe here >> gone?
+2. What do we do well? What do we do poorly?
+3. How was your last organization, job, etc. compared to your current one?
+4. What would you change, stop, or start if you could?
+5. What was difficult about on-boarding? What went well? Are you settling in okay?
+
+The discussion can go in *a lot* of different directions, but, regardless of what is said, there is one thing that must be done. **Notes must be taken and followed up on.** You, as a team, have to make a commitment to addressing what is brought up. This is vital. Without action, this becomes just another navel-gazing circle-jerk. During my discussion, we found action items to be owned and handled by a swath of people. I'm re-writing a few training documents to get rid of repetitive segments. My boss is looking into a few of our rituals/meetings for new employees. My team is re-inspecting how it handles our product model. From there, it falls into your work management flow of choice: kanban, agile, etc.
+
+## Why, Why, Why
+
+So, what did we learn? Culture is built by people, and understanding the behaviors and motivations of people takes **work.** It's not something you can get with a simple survey, a "feeling", or from a 1 week extensive consultancy that cost $3.5 million. No, it takes persistent, involved work. Work that involves personal connections, difficult conversations, and answers you don't want to hear. Work that involves dissolving the (feelings of) hierarchy in your organization, eliminating the fear of reproach, and, more than anything, honesty. All too often, the cognitive primers from even thinking the phrase "Human Resources" degrades the mental vision of real human experience into the impersonal and vague question, "Why don't people want to work here?" It's time to change that perception, and your organization.
