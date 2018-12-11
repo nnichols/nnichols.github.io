@@ -16,6 +16,8 @@ permalink: /sitemap
 
 ## Tech Posts (Chronologically Ordered, Most Recent First):
 
+[All Aboard]
+
 [First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five/)
 
 [Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/json-nesting/)
@@ -24,3 +26,8 @@ permalink: /sitemap
 
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
+
+
+## Legacy Posts (Undated):
+
+[Halloween]
