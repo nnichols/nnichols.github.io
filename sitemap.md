@@ -24,3 +24,11 @@ permalink: /sitemap
 
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
+
+## D&D Campaign Logs (Reverse Chronologically Ordered, Most Recent Last):
+
+### The Great And Mighty Grok (Reverse Chronologically Ordered, Most Recent Last):
+
+### Imperial Nights (Reverse Chronologically Ordered, Most Recent Last):
+
+1. [Where All Roads Lead: 2018-12-15](https://nnichols.github.io/where-all-roads-lead/)
