@@ -49,9 +49,9 @@ After administering a small herbal remedy, Tlareg wakes Gertruda up. They ask a 
 Gertruda admits she has recently taken quite ill, and has experienced fainting spells, headaches, and a general malaise. Upon seeing the mask, she confirms the party's suspicions, and tells them about the Shadow Mastiff that has been seen near Grezjit. When asked about her boyfriend, she explains that Zherulius is a kind soul, but his work in the capital has made his visits irregular. As a trader, he can often only stay for a few hours overnight. The party suspects he is connected to the beasts, but needs to get more information. They ask her to visit them at the Rounded Antlers Inn that evening, and Thaelen asks her to buy drinks. She agrees.
 
 Over the next few hours, the party discusses their plans and begins contemplating how they can find an audience with Count Strahd. As they pass the time, Lise offers to read their fortunes. The nameless human agrees, and she quickly a deck of tarot cards. Tlareg stares on suspiciously and silently. Thaelen drinks heavily. Krug tries his hardest to remember his own name. Eventually she draws the following cards, representing the three phases of life- Past, Present, and Future.
-1. The Page of Wands - He has a strange enthusiasm and eagerness, and a willingness to learn what most would ignore or fear. While there are some scars from this time, they will heal into something greater.
-2. The High Priestess - His insight into the souls of others is a source of power rarely shared. While he says little, he knows much. He acts as a benign aide to those in need, if they deserve it.
-3. The Magician - Studiousness is rewarded, and in the arcane, it can mean nearly limitless power; however, it comes from a temperamental source. Should he falter, he may peak early or far worse.
+1. **The Page of Wands** - He has a strange enthusiasm and eagerness, and a willingness to learn what most would ignore or fear. While there are some scars from this time, they will heal into something greater.
+2. **The High Priestess** - His insight into the souls of others is a source of power rarely shared. While he says little, he knows much. He acts as a benign aide to those in need, if they deserve it.
+3. **The Magician** - Studiousness is rewarded, and in the arcane, it can mean nearly limitless power; however, it comes from a temperamental source. Should he falter, he may peak early or far worse.
 
 Tlareg asks Lise about her knowledge of the arcane, but she responds coyly. Their is a slight unease, and the party decides to drink it off.
 
