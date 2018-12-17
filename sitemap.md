@@ -12,11 +12,9 @@ permalink: /sitemap
 
 [GitHub Profile](https://github.com/nnichols)
 
-
-
 ## Engineering And Culture Posts (Chronologically Ordered, Most Recent First):
 
-[All Aboard]
+[All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
 
 [First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five/)
 
@@ -24,10 +22,21 @@ permalink: /sitemap
 
 [Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition/)
 
+### Legacy Posts (Undated):
+
+[Halloween](https://nnichols.github.io/)
+
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
 
+[The Fey Knight](https://nnichols.github.io/)
 
-## Legacy Posts (Undated):
+## D&D Campaign Logs (Play Order):
 
-[Halloween]
+### The Great And Mighty Grok:
+
+1. [Alcoholic Amnesiac](https://nnichols.github.io/alcoholic-amnesiac)
+
+### Imperial Nights:
+
+1. [Where All Roads Lead](https://nnichols.github.io/where-all-roads-lead/)
