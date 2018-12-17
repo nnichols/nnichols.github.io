@@ -12,8 +12,6 @@ permalink: /sitemap
 
 [GitHub Profile](https://github.com/nnichols)
 
-
-
 ## Tech Posts (Chronologically Ordered, Most Recent First):
 
 [First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five/)
@@ -25,10 +23,12 @@ permalink: /sitemap
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
 
-## D&D Campaign Logs (Reverse Chronologically Ordered, Most Recent Last):
+## D&D Campaign Logs (Play Order):
 
-### The Great And Mighty Grok (Reverse Chronologically Ordered, Most Recent Last):
+### The Great And Mighty Grok:
 
-### Imperial Nights (Reverse Chronologically Ordered, Most Recent Last):
+1. [Alcoholic Amnesiac](https://nnichols.github.io/alcoholic-amnesiac)
 
-1. [Where All Roads Lead: 2018-12-15](https://nnichols.github.io/where-all-roads-lead/)
+### Imperial Nights:
+
+1. [Where All Roads Lead](https://nnichols.github.io/where-all-roads-lead/)
