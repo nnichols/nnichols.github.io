@@ -13,10 +13,10 @@ In truth, there is no universal measure for how long your new employees will spe
 
 Wait, what?
 
-You heard me right, your team, as a whole unit, will probably suffer a 10-20% drop in efficiency when a new team member joins. This drop can last anywhere from 2-6 weeks or 3-4 months, even though the long term velocity will trend up. Assuming the burden of on-boarding falls squarely on your HR department, the hiring manager, or a mentor is a very common fallacy. The impacts are far more distributed than you may realize.
+You heard me right, your team, as a whole unit, will probably suffer a 10-20% drop in efficiency when a new team member joins. This drop can last anywhere from [2-7 weeks or 2-7 months](https://sloanreview.mit.edu/article/getting-new-hires-up-to-speed-quickly/), even though the long term velocity will trend up. Assuming the burden of on-boarding falls squarely on your HR department, the hiring manager, or a mentor is a very common fallacy. The impacts are far more distributed than you may realize.
 
 ### The Organization
 
-Employee acquisition
+Employee acquisition costs real dollars, about [4,000](https://www.glassdoor.com/employers/blog/calculate-cost-per-hire/) of them, [give or take](https://www.shrm.org/about-shrm/press-room/press-releases/pages/human-capital-benchmarking-report.aspx). This is the cost to even start talking about the money you're paying them as an employee.
 
 Training importance, decreasing velocity, etc.
