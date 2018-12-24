@@ -12,7 +12,9 @@ permalink: /sitemap
 
 [GitHub Profile](https://github.com/nnichols)
 
-## Tech Posts (Chronologically Ordered, Most Recent First):
+## Engineering And Culture Posts (Chronologically Ordered, Most Recent First):
+
+[All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
 
 [First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five/)
 
@@ -20,8 +22,11 @@ permalink: /sitemap
 
 [Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition/)
 
+### Legacy Posts (Undated):
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
+
+[The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
 
 ## D&D Campaign Logs (Play Order):
 
