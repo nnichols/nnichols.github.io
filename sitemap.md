@@ -24,9 +24,6 @@ permalink: /sitemap
 
 ### Legacy Posts (Undated):
 
-[Halloween](https://nnichols.github.io/)
-
-
 ## D&D Posts (Chronologically Ordered, Most Recent First):
 
 [The Fey Knight](https://nnichols.github.io/)
