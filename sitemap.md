@@ -26,6 +26,8 @@ permalink: /sitemap
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
 
+[The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
+
 [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
 
 ## D&D Campaign Logs (Play Order):
