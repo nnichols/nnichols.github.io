@@ -26,7 +26,7 @@ permalink: /sitemap
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
 
-[The Fey Knight](https://nnichols.github.io/)
+[The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
 
 ## D&D Campaign Logs (Play Order):
 
