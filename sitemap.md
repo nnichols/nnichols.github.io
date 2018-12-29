@@ -35,6 +35,7 @@ permalink: /sitemap
 ### The Great And Mighty Grok:
 
 1. [Alcoholic Amnesiac](https://nnichols.github.io/alcoholic-amnesiac)
+2. [A Serious Problem In Cirrus](https://nnichols.github.io/serious-cirrus/)
 
 ### Imperial Nights:
 
