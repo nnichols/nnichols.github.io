@@ -3,6 +3,8 @@ layout: post
 title:  "A Serious Problem In Cirrus"
 date:   2018-12-28 23:03:51 -0600
 categories: dungeons dragons campaign log
+permalink: /dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus
+description: "Now on the mainland, Sif deals with a band of bandits, and a far more dangerous foe"
 ---
 
 Having found his way back to Dorek's tavern, Sif spends his last few copper refilling his flask. Dorek asks him about the rumors of gang activity, but Sif believes the goblins were too disorganized to be acting in a group. He does his best to calm the bartender's fears, in the not-too-subtle expectation of a free drink. After caving, Dorek mumbles to himself about the lack of "good coin" in Longview. Sif agrees, takes a long sip, and begins looking over the maps he got from Aelith.

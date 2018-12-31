@@ -3,6 +3,8 @@ layout: post
 title:  "Where All Roads Lead"
 date:   2018-12-15 07:07:45 -0600
 categories: dungeons dragons campaign log
+permalink: /dnd/imperial-nights/where-all-roads-lead
+description: "Lost on a road leading out of the Idravalli Empire, four unusual souls begin their journey together"
 ---
 
 ## Preamble

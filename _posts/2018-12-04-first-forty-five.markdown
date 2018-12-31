@@ -3,6 +3,7 @@ layout: post
 title:  "First Forty-Five"
 date:   2018-12-04 07:07:45 -0600
 categories: development organizational culture competitive edge
+description: "Starting a new job is hard, and teaches a lot of lessons. Be sure to learn something from them."
 ---
 
 I somewhat recently (within the last quarter) made a career jump; however, *my* transition is not what I want to talk about. No, today I want to talk about on-boarding and off-boarding from the perspective of an organization.

@@ -3,6 +3,7 @@ layout: post
 title:  "All Aboard"
 date:   2018-12-13 09:09:22 -0600
 categories: development organizational culture competitive edge training employee agile
+description: "A new employee is a large investment. Make sure you know just how large that investment is."
 ---
 
 So, you finally got that new developer you've been looking for! This is fantastic! You'll be able to chip away at your backlog (which has been growing out of control lately), get a flood of new ideas, and bring your product forward by leaps and bounds!

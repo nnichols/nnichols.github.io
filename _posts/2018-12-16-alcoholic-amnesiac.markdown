@@ -3,6 +3,8 @@ layout: post
 title:  "The Alcoholic Amnesiac"
 date:   2018-12-16 20:43:01 -0600
 categories: dungeons dragons campaign log
+permalink: /dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac
+description: "On a quiet, secluded island, an unlikely hero makes a stand. A keg stand."
 ---
 
 ## Preamble
