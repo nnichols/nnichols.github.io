@@ -24,7 +24,7 @@ Why do I bring this up? To underscore the concept of a front-end load investment
 Once your employees walk through the door, you'll continue to have costs. Here are a few quick examples that, while mostly focused on developers, span most functions and job duties:
 1. Industry Education - What does your company do? How does it accomplish that? What data matters?
 2. Mandated Training - HIPAA, RESPA, or anything else the government generally requires of your industry
-3. Team Training - How do we contribute to the company? What software/platforms/etc. do we use? How are responsibilities shared?
+3. Team Training - How do we contribute to the company? What software/platforms/etc do we use? How are responsibilities shared?
 4. Individual Training - What frameworks/tools do I need to learn? What skills do I need to sharpen? What habits do I need to break?
 5. Day-to-Day Adjustments - Where do I get coffee? Who runs the retirement plan? How often do I meet with my boss?
 

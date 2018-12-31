@@ -1,4 +1,5 @@
 pom.xml
+Gemfile.lock
 pom.xml.asc
 *.jar
 *.class
