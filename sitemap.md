@@ -25,14 +25,14 @@ permalink: /sitemap
 ## Library Pages (Tree Ordered)
 
 * [nature](https://github.com/nnichols/nature)
-  * [Introduction](https://nnichols.github.io/nature/intro)
-  * [Evolution Mechanics](https://nnichols.github.io/nature/evolution-mechanics)
-    * [Initialization](https://nnichols.github.io/nature/initialization)
-    * [Fitness Evaluation](https://nnichols.github.io/nature/fitness-evaluation)
-    * [Selection](https://nnichols.github.io/nature/selection)
-    * [Reproduction](https://nnichols.github.io/nature/reproduction)
-    * [Mutation](https://nnichols.github.io/nature/mutation)
-    * [Generation Advancement and Termination](https://nnichols.github.io/nature/termination)
+  * [Introduction](https://nnichols.github.io/nature-code/intro)
+  * [Evolution Mechanics](https://nnichols.github.io/nature-code/evolution-mechanics)
+    * [Initialization](https://nnichols.github.io/nature-code/initialization)
+    * [Fitness Evaluation](https://nnichols.github.io/nature-code/fitness-evaluation)
+    * [Selection](https://nnichols.github.io/nature-code/selection)
+    * [Reproduction](https://nnichols.github.io/nature-code/reproduction)
+    * [Mutation](https://nnichols.github.io/nature-code/mutation)
+    * [Generation Advancement and Termination](https://nnichols.github.io/nature-code/termination)
 
 ### Legacy Posts (Undated):
 
