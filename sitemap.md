@@ -52,3 +52,4 @@ permalink: /sitemap
 ### Imperial Nights:
 
 1. [Where All Roads Lead](https://nnichols.github.io/dnd/imperial-nights/where-all-roads-lead)
+2. [Friends With Benefits](https://nnichols.github.io/dnd/imperial-nights/friends-with-benefits)

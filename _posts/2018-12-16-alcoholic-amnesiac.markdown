@@ -35,4 +35,4 @@ Sif is disappointed that the box only contained a small, polished black stone, b
 
 Now docked at the other island, Sif decides to investigate his nautical companion and knocks on the door. The standoffish elf introduces himself as Aelith, a treasure hunter. Sif asks him if he knows of any cool places to visit, or, failing that, if he could buy a map. Aelith agrees, but for the price of 5 copper pieces. Sif shows him the stone, and Aelith, with a look of utter shock, immediately agrees to trade the stone for one of his maps. Sif asks to celebrate over a drink, and Aelith includes an extremely rare bottle of wine in the trade. Thoroughly pleased with the greatest deal of the century, Sif wanders back to the tavern to drink his wine, among other things.
 
-[Next Chapter: A Serious Problem In Cirrus >](https://nnichols.github.io/serious-cirrus/)
+[Next Chapter: A Serious Problem In Cirrus >](https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
