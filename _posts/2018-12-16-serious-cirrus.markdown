@@ -27,4 +27,4 @@ Panicked, Sif stabilizes the gnome with *Spare the Dying* and hides him in a dit
 
 The next morning, Sif dons a disguise and sneaks into the back of a local tavern, the **Red Rooster Inn.** The Innkeeper, an old human named Kip, is disgruntled by the outsider with no money to spend. Sif explains that he is trying to help the town, but Kip believes all hope is lost. The soldiers have been stationed in the village for almost a year, and the last time someone tried to get involved, they were beaten half to death. Dismayed, Sif asks if he could at least help out to earn a room to stay in for the night. The innkeeper directs him to the most dire and pressing work in town: clearing his basement of rats.
 
-[< Previous Chapter: The Alcoholic Amnesiac](https://nnichols.github.io/alcoholic-amnesiac/)
+[< Previous Chapter: The Alcoholic Amnesiac](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)

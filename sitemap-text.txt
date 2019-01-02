@@ -16,3 +16,4 @@ https://nnichols.github.io/nature-code/selection
 https://nnichols.github.io/nature-code/reproduction
 https://nnichols.github.io/nature-code/mutation
 https://nnichols.github.io/nature-code/termination
+https://nnichols.github.io/dnd/imperial-nights/friends-with-benefits
