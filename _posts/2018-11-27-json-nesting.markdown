@@ -3,6 +3,7 @@ layout: post
 title:  "JSON Nesting"
 date:   2018-11-27 17:19:19 -0600
 categories: json postgres psql upsert document mongo
+description: "Postgres now supports jsonb! But, it has plenty of complexities under the hood."
 ---
 
 If you are one of the lucky ducks that uses PostgreSQL, you likely already know that as of <s>9.2</s> <s>err, 9.3</s> 9.4, that Binary JSON is fully supported! And NoSQL... sorta. We're still in Postgres, so maybe NotAllThatMuchSQL? In many applications, you'll find a structure kind of like this:
