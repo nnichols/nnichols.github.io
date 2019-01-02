@@ -144,7 +144,7 @@ Once again, this is accompanied by a furious scribbling from the man without a n
 Leaving a symbol known to his associates, Thaelen searches the city for any clues or contacts that might lead them to a hideout.
 They eventually see a response indicating the open streets aren't safe for business at the moment; however, it does point them to somebody who knows somebody who knows somebody.
 After establishing contact, they follow a series of coded directions to the back room of a bar on the nearest creek.
-After greasing a few palms, they are lead down a spiral staircase to a secret phobiition storage room turned bar filled with goblins, a few halflings, and at least one kenku.
+After greasing a few palms, they are lead down a spiral staircase to a secret prohibition storage room turned bar filled with goblins, a few halflings, and at least one kenku.
 They are greeted by an all-too-friendly triton man lounging in a "mostly" clean chair.
 A tabaxi stands guard behind him, awaiting the next session.
 
