@@ -4,11 +4,9 @@
 <head>
   <meta charset='utf-8'>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=640">
-
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
-  <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
-  <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+  <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <link rel="shortcut icon" type="image/x-icon" href="https://favicon-generator.org/favicon-generator/htdocs/favicons/2014-11-26/30407b45ee70897cd4de8d1e2f883f73.ico">
@@ -26,50 +24,43 @@
 </head>
 
 <body>
-  <div class="shell">
+  <header>
+    <div class="inner">
+      <h1><a href="https://nnichols.github.io/">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+    </div>
+  </header>
 
-    <header>
-      <span class="ribbon-outer">
-        <span class="ribbon-inner">
-          <h1><a href="https://nnichols.github.io/">{{ site.title | default: site.github.repository_name }}</a></h1>
-          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        </span>
-        <span class="left-tail"></span>
-        <span class="right-tail"></span>
-      </span>
-    </header>
+  <div id="content-wrapper">
+    <div class="inner clearfix">
+      <section id="main-content">
+        {{ content }}
 
-    <section id="main_content">
-      {{ content }}
-    </section>
-
-    <footer>
-      <span class="ribbon-outer">
-        <span class="ribbon-inner">
-          {% if site.github.is_user_page %}
-          <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on GitHub</p>
-          {% endif %}
-
+        <footer>
+          <span class="ribbon-outer">
+            <span class="ribbon-inner">
               <a href="https://twitter.com/{{ site.twitter_username }}">
                 <i class="fa fa-twitter"></i> Twitter
               </a>
-|
+              |
               <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
                 <i class="fa fa-linkedin"></i> LinkedIn
               </a>
-|
+              |
               <a href="https://instagram.com/{{ site.instagram_username }}">
                 <i class="fa fa-instagram"></i> Instagram
               </a>
 
-        </span>
-        <span class="left-tail"></span>
-        <span class="right-tail"></span>
-      </span>
-      <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-      <span class="octocat"></span>
-    </footer>
+            </span>
+            <span class="left-tail"></span>
+            <span class="right-tail"></span>
+          </span>
+          <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Architect</p>
+          <span class="octocat"></span>
+        </footer>
+      </section>
 
+    </div>
   </div>
 
   {% if site.google_analytics %}
