@@ -12,16 +12,6 @@ permalink: /sitemap
 
 [GitHub Profile](https://github.com/nnichols)
 
-## Engineering And Culture Posts (Chronologically Ordered, Most Recent First):
-
-[All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
-
-[First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five)
-
-[Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/json-nesting)
-
-[Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition)
-
 ## Library Pages (Tree Ordered)
 
 * [nature](https://github.com/nnichols/nature)
@@ -33,6 +23,16 @@ permalink: /sitemap
     * [Reproduction](https://nnichols.github.io/nature-code/reproduction)
     * [Mutation](https://nnichols.github.io/nature-code/mutation)
     * [Generation Advancement and Termination](https://nnichols.github.io/nature-code/termination)
+
+## Engineering And Culture Posts (Chronologically Ordered, Most Recent First):
+
+[All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
+
+[First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five)
+
+[Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/json-nesting)
+
+[Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition)
 
 ### Legacy Posts (Undated):
 
