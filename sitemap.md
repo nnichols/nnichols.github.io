@@ -6,11 +6,9 @@ permalink: /sitemap
 
 ## Static Pages:
 
-[Index/Home](https://nnichols.github.io/index)
-
-[About Me](https://nnichols.github.io/about)
-
-[GitHub Profile](https://github.com/nnichols)
+* [Index/Home](https://nnichols.github.io/index)
+* [About Me](https://nnichols.github.io/about)
+* [GitHub Profile](https://github.com/nnichols)
 
 ## Library Pages (Tree Ordered)
 
@@ -26,25 +24,21 @@ permalink: /sitemap
 
 ## Engineering And Culture Posts (Chronologically Ordered, Most Recent First):
 
-[All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
-
-[First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five)
-
-[Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/json-nesting)
-
-[Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition)
+* [All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
+* [First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five)
+* [Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/json-nesting)
+* [Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition)
 
 ### Legacy Posts (Undated):
 
-[Tis The Season](https://nnichols.github.io/legacy/tis-the-season)
-[Survive. Adapt. Evolve.](https://nnichols.github.io/legacy/survive-adapt-evolve)
-[Pay It Back by Paying It Forward](https://nnichols.github.io/legacy/payback)
+* [Tis The Season](https://nnichols.github.io/legacy/tis-the-season)
+* [Survive. Adapt. Evolve.](https://nnichols.github.io/legacy/survive-adapt-evolve)
+* [Pay It Back by Paying It Forward](https://nnichols.github.io/legacy/payback)
 
 ## D&D Posts (Chronologically Ordered, Most Recent First):
 
-[The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
-
-[The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
+* [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
+* [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
 
 ## D&D Campaign Logs (Play Order):
 
