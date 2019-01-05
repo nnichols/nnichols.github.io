@@ -36,6 +36,10 @@ permalink: /sitemap
 
 ### Legacy Posts (Undated):
 
+[Tis The Season](https://nnichols.github.io/legacy/tis-the-season)
+[Survive. Adapt. Evolve.](https://nnichols.github.io/legacy/survive-adapt-evolve)
+[Pay It Back by Paying It Forward](https://nnichols.github.io/legacy/payback)
+
 ## D&D Posts (Chronologically Ordered, Most Recent First):
 
 [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
