@@ -22,7 +22,7 @@ permalink: /sitemap
     * [Mutation](https://nnichols.github.io/nature-code/mutation)
     * [Generation Advancement and Termination](https://nnichols.github.io/nature-code/termination)
 
-## Engineering And Culture Posts (Chronologically Ordered, Most Recent First):
+## Engineering And Culture Posts (Chronologically Ordered):
 
 * [All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
 * [First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five)
@@ -35,7 +35,7 @@ permalink: /sitemap
 * [Survive. Adapt. Evolve.](https://nnichols.github.io/legacy/survive-adapt-evolve)
 * [Pay It Back by Paying It Forward](https://nnichols.github.io/legacy/payback)
 
-## D&D Posts (Chronologically Ordered, Most Recent First):
+## D&D Posts (Chronologically Ordered):
 
 * [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
 * [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
@@ -46,6 +46,7 @@ permalink: /sitemap
 
 1. [Alcoholic Amnesiac](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
 2. [A Serious Problem In Cirrus](https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
+3. [The Punch Heard Round The World](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
 
 ### Imperial Nights:
 

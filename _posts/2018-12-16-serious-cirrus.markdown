@@ -61,3 +61,5 @@ Dismayed, Sif asks if he could at least help out to earn a room to stay in for t
 The innkeeper directs him to the most dire and pressing work in town: clearing his basement of rats.
 
 [< Previous Chapter: The Alcoholic Amnesiac](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
+|
+[Next Chapter: The Punch Heard Round The World >](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)

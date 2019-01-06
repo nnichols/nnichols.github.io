@@ -37,6 +37,8 @@ At the core, Genetic Algorithms can be thought of as multiple, composite functio
 * One or More Individuals -> One or More Individuals (Reproduction)
 * Individual -> Individual (Mutation)
 * Population -> Population (Generation Advancement)
+
+
 With well-defined expectations of the domain and range, these functions become much easier to decompose and examine as individual elements.
 Changing how your Genetic Algorithm goes about its business is simple a process of supplying different functions that adhere to the same promises.
 The reproduction implementation can easily exist without having to know, care, or behave around things like typing of alleles.

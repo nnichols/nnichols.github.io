@@ -16,3 +16,4 @@ pom.xml.asc
 _site
 .sass-cache
 .jekyll-metadata
+*.bkp

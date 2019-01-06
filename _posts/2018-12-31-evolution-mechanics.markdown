@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "nature: Genetic Algorithms Primer"
+title:  "Genetic Algorithms Primer"
 date:   2018-12-31 13:53:02 -0600
 categories: nature genetic algorithms clojure open source free
 description: "A high-level overview of the phases that make up Genetic Algorithms"

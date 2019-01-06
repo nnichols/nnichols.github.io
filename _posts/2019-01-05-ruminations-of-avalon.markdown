@@ -59,7 +59,7 @@ description: "The lessons of a man whose life was dedicated to the gods"
 * In nature we find worldly heavens, but the two must coexist, each chasing the tail of the other, like koi in a pond
 
 
-# The Seer of the Void: Nabenki, God of Knowledge
+# The Seer of the Void: Hermaeus, God of Knowledge
 
 * True knowledge is not sought, but found  
 * Those who know do not speak. Those who speak do not know

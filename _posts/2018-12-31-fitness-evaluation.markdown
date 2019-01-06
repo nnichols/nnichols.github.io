@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "nature: Fitness Evaluation"
+title:  "Fitness Evaluation"
 date:   2018-12-31 13:53:02 -0600
 categories: nature genetic algorithms clojure open source free
 description: "How nature scores individuals and assigns fitness scores"
