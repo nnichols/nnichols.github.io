@@ -13,27 +13,27 @@ permalink: /sitemap
 ## Library Pages (Tree Ordered)
 
 * [nature](https://github.com/nnichols/nature)
-  * [Introduction](https://nnichols.github.io/nature-code/intro)
-  * [Evolution Mechanics](https://nnichols.github.io/nature-code/evolution-mechanics)
-    * [Initialization](https://nnichols.github.io/nature-code/initialization)
-    * [Fitness Evaluation](https://nnichols.github.io/nature-code/fitness-evaluation)
-    * [Selection](https://nnichols.github.io/nature-code/selection)
-    * [Reproduction](https://nnichols.github.io/nature-code/reproduction)
-    * [Mutation](https://nnichols.github.io/nature-code/mutation)
-    * [Generation Advancement and Termination](https://nnichols.github.io/nature-code/termination)
+  * [Introduction](https://nnichols.github.io/code/nature/intro)
+  * [Evolution Mechanics](https://nnichols.github.io/code/nature/evolution-mechanics)
+    * [Initialization](https://nnichols.github.io/code/nature/initialization)
+    * [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
+    * [Selection](https://nnichols.github.io/code/nature/selection)
+    * [Reproduction](https://nnichols.github.io/code/nature/reproduction)
+    * [Mutation](https://nnichols.github.io/code/nature/mutation)
+    * [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
 
 ## Engineering And Culture Posts (Chronologically Ordered):
 
-* [All Aboard: 2018-12-17](https://nnichols.github.io/all-aboard)
-* [First Forty-Five: 2018-12-04](https://nnichols.github.io/first-forty-five)
-* [Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/json-nesting)
-* [Testing Addition: 2018-11-20](https://nnichols.github.io/testing-addition)
+* [All Aboard: 2018-12-17](https://nnichols.github.io/blog/all-aboard)
+* [First Forty-Five: 2018-12-04](https://nnichols.github.io/blog/first-forty-five)
+* [Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/blog/json-nesting)
+* [Testing Addition: 2018-11-20](https://nnichols.github.io/blog/testing-addition)
 
 ### Legacy Posts (Undated):
 
-* [Tis The Season](https://nnichols.github.io/legacy/tis-the-season)
-* [Survive. Adapt. Evolve.](https://nnichols.github.io/legacy/survive-adapt-evolve)
-* [Pay It Back by Paying It Forward](https://nnichols.github.io/legacy/payback)
+* [Tis The Season](https://nnichols.github.io/blog/legacy/tis-the-season)
+* [Survive. Adapt. Evolve.](https://nnichols.github.io/blog/legacy/survive-adapt-evolve)
+* [Pay It Back by Paying It Forward](https://nnichols.github.io/blog/legacy/payback)
 
 ## D&D Posts (Chronologically Ordered):
 

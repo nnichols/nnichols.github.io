@@ -3,7 +3,7 @@ layout: post
 title:  "Survive. Adapt. Evolve."
 date:   2019-01-05 15:34:34 -0600
 categories: fear work culture empowerment zerg starcraft
-permalink: /legacy/survive-adapt-evolve
+permalink: /blog/legacy/survive-adapt-evolve
 description: "What can Blizzard's Starcraft teach us about the future"
 ---
 

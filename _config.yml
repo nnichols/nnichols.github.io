@@ -2,6 +2,7 @@ theme: jekyll-theme-architect
 title: Nick Nichols
 description: [Clojure Developer and Dungeon Master]
 google_analytics: [UA-127942415-1]
+repository: nnichols/nnichols.github.io
 
 # Name is required
 author:
@@ -17,6 +18,7 @@ social:
     - https://twitter.com/brainlessmunkey
     - https://www.linkedin.com/in/nickanichols
     - https://github.com/nnichols
+    - https://www.facebook.com/nick.a.nichols
 
 github_username: nnichols
 twitter_username: Brainlessmunkey

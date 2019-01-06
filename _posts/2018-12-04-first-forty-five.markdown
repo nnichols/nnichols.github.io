@@ -3,6 +3,7 @@ layout: post
 title:  "First Forty-Five"
 date:   2018-12-04 07:07:45 -0600
 categories: development organizational culture competitive edge
+permalink: /blog/first-forty-five
 description: "Starting a new job is hard, and teaches a lot of lessons. Be sure to learn something from them."
 ---
 
