@@ -29,26 +29,25 @@ To the best of Sif's knowledge, Cirrus would fall within the borders of the **Ki
 Confused, he decides to investigate further.
 
 The captain, a dwarven man in full ornamental uniform, greets Sif with a strong sense of suspicion.
-The captain believes he is being unduly investigated and that is men aren't supported by the army proper.
-Sif decides to play ignorant, and explains that he is interested in joining the army.
-To prove his skills as a healer, he cures several ailing farm animals.
+The captain believes he is being unduly investigated and improperly supported.
+Sif decides to play ignorant, and explains that he is vaguely interested in joining the army.
 Orrinstander is impressed with Sif enough to let him stick around town, but only if he contributes to the militia's defense fund.
 Completely broke, Sif is temporarily banished from town.
 
 While being escorted out, Sif notices some of Orrinstander's soldiers shaking down the locale populace.
-A young man and his son are also unable to pay into the defense fund, and a locket of theirs' is taken as collateral.
+A young man and his son are also unable to pay into the defense fund, and a gold locket is taken as collateral.
 Sif manages to overhear the locket will be kept for "safekeeping" in a small encampment in the forest to the south.
 At this moment, Sif quits resisting his banishment and leaves town quickly.
 
 After a few hours on the road, Sif finds a worn down path into the forest.
 He decides follow the trail from a distance, and sneaks further in.
 He eventually finds a wooden palisade encircling a small military camp at the foot of a hill.
-He notices 3-4 tents, a guard tower, and a mining path cut into the hill.
+The camp consists of 3-4 tents, a guard tower, and a mining path cut into the hill.
 For the next few hours, a total of 5 soldiers come and go, each bringing sacks of coin or other valuables.
 From his observations, Sif assumes the soldiers are running a racketeering ring.
 
 That night, while formulating his next move, Sif hears a twig snap.
-He bolts up, and sees a gnome dressed in all black hightailing it from the edge of the fort.
+He bolts up, and sees a bald gnome dressed in all black hightailing it from the edge of the fort.
 There appears to be a commotion and several soldiers running out, so Sif darts off too.
 The two eventually run into each other, and, due to a series of quick and incorrect assumptions by both parties, Sif ends up knocking the gnome out with his mace Estelle.
 
@@ -64,3 +63,5 @@ Dismayed, Sif asks if he could at least help out to earn a room to stay in for t
 The innkeeper directs him to the most dire and pressing work in town: clearing his basement of rats.
 
 [< Previous Chapter: The Alcoholic Amnesiac](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
+|
+[Next Chapter: The Punch Heard Round The World >](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)

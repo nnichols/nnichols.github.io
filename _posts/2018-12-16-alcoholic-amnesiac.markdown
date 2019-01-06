@@ -37,9 +37,8 @@ They carry worried looks on their faces, and tell Sif that Tim, an elderly human
 While they'd normally chalk it up to his forgetfulness, they've also heard rumors of a small time gang taking up residence on one of the islands.
 
 Sif agrees to look into the problem immediately, and Jac offers him a ride to the other island.
-Sif, horrified of the open waters, asks to lock himself in the boat's quarters; however, Jac informs him that a strange elven man has paid handsomely for privacy as he tours the islands.
+Sif, horrified of the open waters, asks to lock himself in the boat's quarters; however, Jac informs him that a strange Elven man has paid handsomely for privacy as he tours the islands.
 Dismayed, Sif boards the ship, and swallows a massive lump in his throat as he sees a storm roll in.
-
 During the horrendous trip, Sif throws up several times before attempting to cure his sea-sickness with alcohol.
 
 It doesn't work.
@@ -48,7 +47,7 @@ After braving the weather, they dock up at the small island Tim calls home.
 Jac mentions the elf had also requested to visit this very island, so Sif immediately waves goodbye and walks directly towards Tim's house.
 
 Upon arriving at Tim's worn down cabin, Sif is immediately greeted by tried-and-true complaints such as, "It took them long enough to check in on me," "Nobody has time to stop by anymore," and "In my day, you had to swim between these island."
-Sif chimes in, and further complains about how easy everything is.
+Sif chimes in, and further complains about how easy everything is in the current day and age.
 The two curmudgeons then discuss the real cause of Sif's visits- the missing tools.
 Tim stands in his doorway while his new friend investigates the area.
 A brief search uncovers tiny footprints scurrying about, and many broken handles to rakes, hoes, and other gardening tools with dual-purpose names.
@@ -68,7 +67,7 @@ Inside, he encounters two more goblins.
 The first one is quickly incinerated by *Sacred Flame*, and the other one is given a good taste of Estelle.
 With his foes defeated, Sif discovers why the tools had been stolen.
 All of the metal had, in a very haphazard fashion, been used to further seal shut a small crate in the corner of the cave.
-When he picks the crate up, a chill runs down his spine before he immediately bashes it open.
+When he picks the crate up, a chill runs down his spine before he immediately bashes it open with a rock.
 
 Sif is disappointed that the box only contained a small, polished black stone, but decides to keep it because it "looks cool."
 He rushes back to tell Tim that all his problems are solved, except for his lack of tools.
@@ -77,8 +76,8 @@ Sif tries to offer him a drink, but, when he declines, takes both for himself.
 His work done, and his flask empty, Sif returns to Jac's boat and catches another ride to Longview.
 Jac asks Sif if he saw his mysterious passenger on the island, but Sif shrugs his shoulders.
 
-Now docked at the other island, Sif decides to investigate his nautical companion and knocks on the door.
-The standoffish elf introduces himself as Aelith, a treasure hunter.
+Now docked at Longview, Sif decides to investigate his nautical companion and knocks on the door.
+The standoffish yet very well-dressed elf introduces himself as Aelith, a treasure hunter.
 Sif asks him if he knows of any cool places to visit, or, failing that, if he could buy a map.
 Aelith agrees, but for the price of 5 copper pieces.
 Sif shows him the stone, and Aelith, with a look of utter shock, immediately agrees to trade the stone for one of his maps.
