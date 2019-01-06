@@ -9,7 +9,7 @@ description: "On a quiet, secluded island, an unlikely hero makes a stand. A keg
 
 ## Preamble
 
-It is the 952nd year in the Second Age, Ivalion remains at war.
+It is the 952nd year in the Second Age, and Ivalion remains at war.
 For nearly 800 continuous years, The Empire of the First Sun, the Kingdom of the Red Lion, and the Eternal Horde have fought and bled over their shared continent.
 Few remember how the fighting began, but all know the price it bears.
 For the last century, the conflict has turned into a prolonged stalemate, and people have fallen into an uncomfortable lull.
@@ -30,8 +30,8 @@ Sif picks up his meager possessions, chief among them his trust mace Estelle, an
 
 ## The Alcoholic Amnesiac
 
-At a brisk 5:30 AM, Sif takes a modest swig from the flask on his hip, as is his custom.
-As the sweet and soulful taste of wormwood coats his throat, he makes his way towards town.
+At a brisk 5:30 AM, Sif takes a modest swig of Maltört from the flask on his hip, as is his custom.
+As the sweet and soulful taste of wormwood and juniper berries coats his throat, he makes his way towards town.
 As he approaches the bar, he encounters Dorek, the bartender, and Jac, the captain of the boat that delivers supplies to each of the local islands.
 They carry worried looks on their faces, and tell Sif that Tim, an elderly human not too far away, has reported many of his farming tools as missing or destroyed.
 While they'd normally chalk it up to his forgetfulness, they've also heard rumors of a small time gang taking up residence on one of the islands.
@@ -77,7 +77,7 @@ His work done, and his flask empty, Sif returns to Jac's boat and catches anothe
 Jac asks Sif if he saw his mysterious passenger on the island, but Sif shrugs his shoulders.
 
 Now docked at Longview, Sif decides to investigate his nautical companion and knocks on the door.
-The standoffish yet very well-dressed elf introduces himself as Aelith, a treasure hunter. 
+The standoffish yet very well-dressed elf introduces himself as Aelith, a treasure hunter.
 Sif asks him if he knows of any cool places to visit, or, failing that, if he could buy a map.
 Aelith agrees, but for the price of 5 copper pieces.
 Sif shows him the stone, and Aelith, with a look of utter shock, immediately agrees to trade the stone for one of his maps.

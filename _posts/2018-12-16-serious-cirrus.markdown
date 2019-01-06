@@ -11,7 +11,9 @@ Having found his way back to Dorek's tavern, Sif spends his last few copper refi
 Dorek asks him about the rumors of gang activity, but Sif believes the goblins were too disorganized to be acting in a group.
 He does his best to calm the bartender's fears, in the not-too-subtle expectation of a free drink.
 After caving, Dorek mumbles to himself about the lack of "good coin" in Longview.
-Sif nods and agrees, takes a long sip, and begins looking over the maps he got from Aelith.
+Sif agrees, and takes a long sip.
+They stand in silence for a minute before Dorek decides it is time to clean up some dishes.
+Sif begins looking over the maps he got from Aelith.
 
 While looking over the mainland, Sif is immediately drawn to two locales: **Blackrock Heights** and the **Silvermoon Forest**.
 Silvermoon Forest draws his attention as the home of his god Odo, the great white elk.
