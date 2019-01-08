@@ -7,14 +7,158 @@ description: "A high-level overview of the phases that make up Genetic Algorithm
 permalink: /code/nature/evolution-mechanics
 ---
 
-As promised on the [README](https://github.com/nnichols/nature), nature aims to be "A simple genetic algorithms library for Clojure."
+Genetic Algorithms are simply programs that approximate solutions to mathematically difficult questions by simulating biology.
+I know, "simply" is a strong word to use in this case; however, the processes involved are strikingly similar to those you already know.
+To explain, let's start with an example not too far away from daily life: shopping.
 
-In either case, nature exists, and we can learn from it.
-If Genetic Algorithms are new to you, a primer on [evolution mechanics](https://nnichols.github.io/code/nature/evolution-mechanics) is helpful pre-reading.
-Below, you'll find the core phases of a Genetic Algorithm side-by-side with our implementation.
-1. [Initialization](https://nnichols.github.io/code/nature/initialization)
-2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
-3. [Selection](https://nnichols.github.io/code/nature/selection)
-4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
-6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+In my hometown, there was a hardware store that held a unique sale every year.
+When you walked in, you were given a brown paper grocery bag and a few simple rules:
+1. At checkout time, any item in the bag would be marked down by 11%
+2. The items in the bag couldn't pile out over the top
+3. The bag had to remain intact
+4. The offer was only good for tangible items in the store on the day of the sale
+
+So, being well-educated consumers, we want to get the best discount possible.
+How should we formulate a strategy for picking items to go in the bag?
+In real life, we tend to use a guiding rules to help make our shopping decisions.
+Imagine evaluating how "good" the discount is for various items:
+* Cotton stuffing takes up a lot of space, and is very cheap.
+* Weed killer is expensive, but might weigh more than the bag can support.
+* A ladder can't fit in a grocery bag
+* Specialty drill bits are expensive, small, and light.
+
+This type of reasoning, which I like to call "napkin math," guides many of our real-life decisions: navigating, shopping, packing.
+With a bit of rigor, we can model this problem with mathematics.
+So, how do we quantify "good" and "bad" solutions?
+Let's assume we have access to the store's inventory, and can easily model each item in the store.
+For example:
+```
+{item-name: "Precision Screwdriver",
+ value: $7.99,
+ size: 2.3 cubic inches
+ weight: 0.32 ounces
+ current-stock: 8}
+```
+
+From here, we could compute a relationship weighing each items value against the how much it impacts the bag's ability to fit more items.
+For example, we could say the *Precision Screwdriver* has a value of ```$7.99``` and a weighted cost of ```0.736 = 2.3 * 0.32```.
+And now all we have to do is find the set of items with the highest value with a weighted cost that doesn't cross a specified threshold.
+Easy, right?
+
+Well, unfortunately not.
+The above is an example of the [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem), which belongs to a set of problems in Computer Science known as [NP-Complete](https://en.wikipedia.org/wiki/NP-completeness).
+They model many real-world optimization problems, but it is currently unknown if efficient algorithms exist to solve them.
+So, what are we to do, and how do Genetic Algorithms fit in?
+Let's find out.
+
+## [Initialization](https://nnichols.github.io/code/nature/initialization)
+
+A lot of the actual work that goes into initialization happens long before the first line of code processes.
+Modeling a problem like "How do I get the best deal from a sale?" and the relevant data, like the value:cost pairs above, informs how initialization actually works.
+Instead of multiplying size and weight, we could have added them, or a million different operations.
+Likewise, how we choose to incorporate the stock of each item is an important consideration to make beforehand.
+Once we finish that, we need to decide how we wish to encode potential solutions to our problem.
+
+For example, how do I, in data, express a bag filled with 9 hammers?
+3 screwdrivers?
+A ladder, 4 rolls of duct tape, 2 packs of nails, and a candy bar?
+Since we're working with Genetic Algorithms, let's try to model them like our own DNA.
+
+In our cells, each "piece" of our genetic code is marked with one of four nucleobases: adenine, cytosine, guanine, or thymine.
+You may remember seeing something like this in a Biology class:
+```
+1: A
+2: C
+3: C
+4: G
+5: C
+6: T
+...
+```
+Often, you'd be asked to find the matching pairs; however, we can use something similar to build a genome to model solutions to our problem.
+```
+Hammers: 0
+Screwdrivers: 2
+Nails: 50
+Saw Blades: 2
+Sandpaper Sheets: 0
+...
+```
+
+From here, it's very easy to imagine generating tens, hundreds, or thousands of these candidate solutions randomly.
+
+| Solution ID | Hammers | Screwdrivers | Nails | ... |
+| :---------- | :------ | :----------- | :---- | :-- |
+| 01224465655 | 0       | 2            | 50    | ... |
+| 91982371644 | 7       | 0            | 50    | ... |
+| 71222225632 | 1       | 100          | 0     | ... |
+
+Often, these are known as *Individuals*, and their collection is referred to as a *Population*.
+Once we have these solutions, we need to do something with them.
+
+## [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
+
+Obviously, having a potential solution to a problem helps us very little if we don't know how good that solution is.
+In the Knapsack Problem, we need to grade our solutions with respect to the value of all items included, how likely they are to break the bag, and if the store has enough items in stock.
+So, given each individual's genetic sequence, how can we create a relative measure of quality?
+A pseudocode evaluation function might look like the following:
+```
+score = SUM(items, ((item.count * item.value) / (item.count * item.weight)))
+```
+
+In the above example, we would highly value things like portable electronics and lowly value items like insulation.
+The relationship you establish between all of your data points is crucial, because it is the criteria we're optimizing against.
+For example, the above function does not take into account the limits of our bag.
+During initialization, we may have added constraints to prevent bag-breaking solutions or more items than there are available for purchase; however, most evaluation functions allow room for solutions past problem boundaries for two reasons:
+1. The creation and modification of individuals may easily allow solutions to fall out of bounds
+2. Out-of-bound solutions may contain useful information
+
+That isn't to say they're allowed to cheat and get scored highly.
+In those instances, a penalty is often applied.
+For example, we could update our above score to account for the bag's weight:
+```
+score = score / (bag.capacity - items.weight)
+```
+
+Obviously, this solution needs to account for dividing by 0; however, it now **greatly** favors solutions close to, but under, the weight limit.
+This could be further modified to account for item inventory, or adjusted with weights to each component of a solution differently.
+Tuning evaluation functions depends greatly upon the genome and problem on hand.
+Mathematic optimization functions involve simple calculations like the above, optimization functions based on real world data with constraints and other considerations is far more difficult.
+
+In parallel in biology would be very hard to compute.
+*Fitness Functions* are named as such because they model the probability an organism can survive long enough to reproduce.
+Creating a model to determine *that* probability would be very difficult, and is why Actuarial Science has spun off into its own entire field.
+Plugging the numbers into an existing model is very easy to do.
+As was the case with **Initialization**, a lot of the work is done before coding begins.
+Thankfully, using our data model is far easier than creating it.
+
+## [Selection](https://nnichols.github.io/code/nature/selection)
+
+If *Fitness Functions* are the probability model that an organism can survive long enough to reproduce, then *Selection* is the use of that model.
+By using the fitness scores we assigned in the prior phase, we have a great tool to sample our solution pool.
+For example, a solution with a very high value and little weight is more important to hold on to a bag full of hammers.
+In most implementations, each individual is selected fairly with a probability of their fitness score against the aggregate fitness score of the entire population.
+
+It's as easy as that.
+
+## [Reproduction](https://nnichols.github.io/code/nature/reproduction)
+
+This is where the real value comes in for Genetic Algorithms.
+The individuals we selected likely model good solutions to our problem.
+In turn, each part of their genetic sequence probably solves part of our problem well.
+Within the realm of our example, a bag worth $500 under the weight limit is probably full of items that min-max weight:value, like batteries.
+The amount of each item we've taken contributes to the overall quality of the solution, and we want to use that meta-information to build better solutions.
+
+At a conceptual level, *Reproduction* is the name for the class of functions from 2 or more individuals mapping to 1 or more individuals.
+Much like actual biology, we use information from multiple genomes to construct a new genome that is (hopefully) more adept at survival.
+To ground it back in a tangible example, by knowing the quantity of portable electronics and batteries purchased in two high-quality solutions, we could hypothesize a new shopping list containing both.
+
+Reproduction takes many forms, and, lacking the physical and chemical constraints of biology, we're free to dream up and invent whatever functions we please. 
+
+### Crossover
+### Fitness Based Scanning
+### Multi-Parent Methods
+
+## [Mutation](https://nnichols.github.io/code/nature/mutation)
+
+## [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
