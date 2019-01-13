@@ -7,16 +7,34 @@ description: "How nature tweaks and mutates individuals"
 permalink: /code/nature/mutation
 ---
 
-As promised on the [README](https://github.com/nnichols/nature), nature aims to be "A simple genetic algorithms library for Clojure."
+In biology, errors happen all the time.
+When our genetic sequences are copied are transferred, things can go wrong and a different allele can be encoded.
+If we write our programs well and make strong functional contracts, we don't have to worry about these types of problems; unless we choose to.
 
-In either case, nature exists, and we can learn from it.
-If Genetic Algorithms are new to you, a primer on [evolution mechanics](https://nnichols.github.io/code/nature/evolution-mechanics) is helpful pre-reading.
+In Generic Algorithms, mutation is nigh-ubiquitous.
+At a high level, mutation is any function from a single individual to another individual.
+Since many genetic sequences are binary, this is accomplished through a flipping operator.
+Given the legal values of an allele, if that allele is selected for mutation, its value is randomly swapped with another random legal value.
+That being said, any allele-centric function may be used.
+In the case of an integer genome, like the one in our example, we could exchange it with an incrementing or decrementing function.
+In either case, this is what the result could look like:
 
+| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :----------- | :------ | :----------- | :----- | :----------- | :----- |
+| *Original*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| **Mutant**   | **1**   | **2**        | **50** | **10**       | **4**  |
+
+<br />
+Note that the genetic sequences are nearly identical.
+This is intentional, as many Genetic Algorithms choose a mutation rate equal to 1 divided by the length of the genetic sequence; however, [better strategies may exist.](http://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/Needle/back.pdf)
+Mutation, as a class of operators, serves the purpose of breaking out of local optima.
+As successful genetic patterns are copied, they may begin to prematurely converge towards a good-but-not-great region.
+With small, infrequent changes, solutions may hop towards nearby potential regions that could have been ignored.
 
 #### Genetic Algorithm Phases:
 1. [Initialization](https://nnichols.github.io/code/nature/initialization)
 2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
 3. [Selection](https://nnichols.github.io/code/nature/selection)
 4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
+5. **Mutation**
 6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
