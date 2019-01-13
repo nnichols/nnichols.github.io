@@ -9,6 +9,8 @@ permalink: /sitemap
 * [Index/Home](https://nnichols.github.io/index)
 * [About Me](https://nnichols.github.io/about)
 * [GitHub Profile](https://github.com/nnichols)
+* [Code of Conduct](https://nnichols.github.io/coc)
+* [Contributions](https://nnichols.github.io/contribute)
 
 ## Library Pages (Tree Ordered)
 
