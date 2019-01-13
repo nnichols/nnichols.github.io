@@ -2,7 +2,7 @@
 layout: post
 title:  "Genetic Algorithms Primer"
 date:   2018-12-31 13:53:02 -0600
-categories: nature genetic algorithms clojure open source free
+tags: nature genetic algorithms clojure open source free
 description: "A high-level overview of the phases that make up Genetic Algorithms"
 permalink: /code/nature/evolution-mechanics
 ---
@@ -93,6 +93,7 @@ From here, it's very easy to imagine generating tens, hundreds, or thousands of 
 | 91982371644 | 7       | 0            | 50    | ... |
 | 71222225632 | 1       | 100          | 0     | ... |
 
+<br />
 Often, these are known as *Individuals*, and their collection is referred to as a *Population*.
 Once we have these solutions, we need to do something with them.
 
@@ -153,12 +154,119 @@ At a conceptual level, *Reproduction* is the name for the class of functions fro
 Much like actual biology, we use information from multiple genomes to construct a new genome that is (hopefully) more adept at survival.
 To ground it back in a tangible example, by knowing the quantity of portable electronics and batteries purchased in two high-quality solutions, we could hypothesize a new shopping list containing both.
 
-Reproduction takes many forms, and, lacking the physical and chemical constraints of biology, we're free to dream up and invent whatever functions we please. 
+Reproduction takes many forms, and, lacking the physical and chemical constraints of biology, we're free to dream up and invent whatever functions we please.
 
 ### Crossover
+
+In the biology we're familiar with, that is human biology, reproduction takes a complete, unmatched group of chromosomes from two parents and fuses them into the complete genetic makeup for a new individual.
+We can abstract this concept and turn it into a function that works against our digital genetic sequences.
+To make our work simple, we'll take half of the genetic sequence from parent A and merge it with half of the genetic sequence from parent B.
+In the interest of minimizing complexity, this is usually done by splitting sequences evenly down the middle.
+So, let's look at how this function may work with out shopping example.
+
+| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :----------- | :------ | :----------- | :----- | :----------- | :----- |
+| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
+| Child        | *0*     | *2*          | *50*   | **4**        | **10** |
+
+<br />
+As you can see, the child inherits the first three alleles (Hammers, Screwdrivers, and Nails) from parent A.
+Parent B contributes two alleles (AA Batteries and Screws).
+In cases off odd-length genomes, rounding is just as common as random tie-breakers; however, the primary function remains intact.
+Additionally, to save computational effort, generally two complementary individuals will be created.
+
+| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :----------- | :------ | :----------- | :----- | :----------- | :----- |
+| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
+| Child C      | *0*     | *2*          | *50*   | **4**        | **10** |
+| Child D      | **7**   | **0**        | **25** | *10*         | *4*    |
+
 ### Fitness Based Scanning
-### Multi-Parent Methods
+
+Fitness based scanning attempts to make the process of reproduction smarter, while still maintaining a probabilistic nature.
+As my [research advisor](https://sun.iwu.edu/~mliffito/) always said, "It's always more efficient to reuse information you already have."
+In this case, the fitness score is a prime candidate for reuse.
+We already know that solutions with better fitness scores are more likely to be selected from the population, but what if individual alleles were more likely to be chosen too?
+
+Given the following parents:
+
+| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :----------- | :------ | :----------- | :----- | :----------- | :----- |
+| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
+
+<br />
+Assume that parent A has a fitness score of 75, and that parent B has a fitness score of 50.
+Now, we can pick alleles with a weighted probability of 75:50, or 60% and 40% respectively.
+Unlike crossover, we have no guarantees about contributions by each parent.
+It is possible, however unlikely it may be in a given scenario, that we end up with alleles from one parent alone.
+Like selection, we're relying on the natural pressures asserted by probability alone.
+
+| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :----------- | :------ | :----------- | :----- | :----------- | :----- |
+| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
+| Child        | *0*     | **0**        | *50*   | *10*         | **10** |
 
 ## [Mutation](https://nnichols.github.io/code/nature/mutation)
 
+In biology, errors happen all the time.
+When our genetic sequences are copied are transferred, things can go wrong and a different allele can be encoded.
+If we write our programs well and make strong functional contracts, we don't have to worry about these types of problems; unless we choose to.
+
+In Generic Algorithms, mutation is nigh-ubiquitous.
+At a high level, mutation is any function from a single individual to another individual.
+Since many genetic sequences are binary, this is accomplished through a flipping operator.
+Given the legal values of an allele, if that allele is selected for mutation, its value is randomly swapped with another random legal value.
+That being said, any allele-centric function may be used.
+In the case of an integer genome, like the one in our example, we could exchange it with an incrementing or decrementing function.
+In either case, this is what the result could look like:
+
+| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :----------- | :------ | :----------- | :----- | :----------- | :----- |
+| *Original*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| **Mutant**   | **1**   | **2**        | **50** | **10**       | **4**  |
+
+<br />
+Note that the genetic sequences are nearly identical.
+This is intentional, as many Genetic Algorithms choose a mutation rate equal to 1 divided by the length of the genetic sequence; however, [better strategies may exist.](http://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/Needle/back.pdf)
+Mutation, as a class of operators, serves the purpose of breaking out of local optima.
+As successful genetic patterns are copied, they may begin to prematurely converge towards a good-but-not-great region.
+With small, infrequent changes, solutions may hop towards nearby potential regions that could have been ignored.
+
 ## [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+
+Once a sufficiently large pool of individuals has been created by reproducing other solutions and mutating the results, we repeat ourselves.
+The new solutions must be scored, selected, reproduced, and then mutated.
+This cycle is ultimate architecture pattern of Genetic Algorithms.
+The passing of each generator can include transition functions of its own, this time on the scale of entire populations.
+
+To preserve the best solution(s), and ensure the algorithm's quality does not decrease over time, the elite individual from each generation is typically copied into the next generation.
+This may be further extended, copying the top *n* individuals between generations, but this must be balanced between preserving quality and premature convergence.
+
+In either case, this process often repeats until one of three criteria is met:
+1. A pre-determined number of generations has passed
+2. A fitness threshold is crossed by the elite or by the average individual
+3. Convergence
+
+The first criteria is straightforward.
+Without intervention, this cycle could execute indefinitely, and execution time can easily be controlled artificially.
+The number of generations varies from application to application, but often reaches into the hundreds.
+Likewise, the second criteria is pretty straightforward.
+We're only interested in solutions that beat a benchmark we know or have hypothesized.
+Keep in mind that this criteria may lead to infinite execution if the criteria is unachievable or if the solutions converge beforehand.
+
+So, what is convergence?
+It is the state when every individual in a population inherits the same genetic sequence and every solution is identical.
+This is a very hard state to break out of.
+Reproduction operators, like crossover and fitness based scanning, will return identical solutions, adding to the problem.
+Mutation operators may change very small portions of solutions, but the probability of those differences propagating is small.
+Why?
+Well, unless the fitness score of a modified solution is extreme,  the selection process will still be heavily weighted towards the convergent solution.
+
+It should be noted that convergence is not necessarily a bad thing.
+If the optimal, or a near-optimal, solution has been found, we want our genetic sequences to begin mirroring traits of that solution.
+However, we want to balance this desire with a need for a wide and diverse gene pool.
+If our solutions are converging towards good-but-not-great solutions, we need genetic diversity to help draw our population towards other promising regions of our search space.

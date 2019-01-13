@@ -1,6 +1,15 @@
 https://nnichols.github.io/index
 https://nnichols.github.io/about
 https://nnichols.github.io/sitemap
+https://nnichols.github.io/twitter
+https://nnichols.github.io/dnd
+https://nnichols.github.io/dnd/the-great-and-mighty-grok
+https://nnichols.github.io/dnd/imperial-nights
+https://nnichols.github.io/curriculum-vitae
+https://nnichols.github.io/code
+https://nnichols.github.io/code/nature
+https://nnichols.github.io/blog
+https://nnichols.github.io/blog/legacy
 https://nnichols.github.io/blog/first-forty-five
 https://nnichols.github.io/blog/json-nesting
 https://nnichols.github.io/blog/testing-addition
