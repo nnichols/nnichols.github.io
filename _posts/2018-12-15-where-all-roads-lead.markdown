@@ -77,7 +77,7 @@ Mikhail, the Inn's proprietor, pays them additional 12 gold and points to a smal
 The party discusses their options:
 1. An oddly lucrative contract for any and all adventurers on a jungle island in the north
 2. The **Ordo Inquisitas** offering bounties on any and all heretics
-3. A missing person case in Ravensloft, the capital of Barovia
+3. A missing person case in **Ravensloft**, the capital of Barovia
 4. An opportunity to mediate a dispute between a logging company and some local druids
 5. Guard work for the **Ordo Administorum**
 

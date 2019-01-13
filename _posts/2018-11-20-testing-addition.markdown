@@ -3,6 +3,7 @@ layout: post
 title:  "Testing Addition"
 date:   2018-11-20 08:42:26 -0600
 categories: testing BDD TDD property test code programming
+permalink: /blog/testing-addition
 description: "A discussion of testing practices starting from a ludicrous example"
 ---
 
@@ -14,15 +15,15 @@ I know what you're thinking, "It's such a primitive language feature! Why would 
 
 Before we begin, take this reflective assignment as a context primer. Think over your last year of coding, QA testing, product support, etc. Now, ask yourself the three following questions:
 1. How many bugs/errors did I discover?
-2. How many were caused by trivial or dumb mistakes?
+2. How many were caused by trivial or silly mistakes?
 3. How many could have been caught with 1-2 more test cases?
 
 If your experience has been anything like mine, your answers will probably look something like this:
 1. How many bugs/errors did I discover? _A handful each sprint_
-2. How many were caused by trivial or dumb mistakes? _Most, maybe 80%_
+2. How many were caused by trivial or silly mistakes? _Most, maybe 80%_
 3. How many could have been caught with 1-2 more test cases? _Most, maybe 80%_
 
-Obviously, your mileage may vary. The main observation is twofold: Most bugs are caused by accidents and dumb mistakes, and, once corrected, a test case is usually added to ensure they never come back. Given the amount of concurrent work most systems experience, this is a decent pattern for correction; however, I'd rather talk about prevention.
+Obviously, your mileage may vary. The main observation is twofold: Most bugs are caused by accidents and silly mistakes, and, once corrected, a test case is usually added to ensure they never come back. Given the amount of concurrent work most systems experience, this is a decent pattern for correction; however, I'd rather talk about prevention.
 
 So, let's assume we've been given the requirements to write the addition operator. It's an easy enough task, and we finish before it's time to think about where we should get lunch today. Now, all we have to do is test it and ship it. So, where do we begin?
 
@@ -55,7 +56,7 @@ This question is the core of each testing philosophy: If I run my test cases, wh
     (is (= 4 (add 4 0)))))
 ```
 
-I think we all see where this is going. In order to get a high degree of confidence, we have to write and execute an _insane_ amount of test cases. So, in practice, it never happens. Writing and executing the tests, that is. __Enumerative testing__ is _far, far more common_ than anyone wants to admit to, because we all know it's the quick and dirty solution that we swear we're only going to do this one time because the deadlines are tight and our users are breathing down our necks. They __really, really__ want to add things, dude.
+I think we all see where this is going. In order to get a high degree of confidence, we have to write and execute an _insane_ amount of test cases. So, in practice, it never happens. Writing and executing the tests, that is. __Enumerative testing__ is _far, far more common_ than anyone wants to admit to, because we all know it's the quick and dirty solution that we swear we're only going to do this one time because the deadlines are tight and our users are breathing down our necks. They __really, really__ want to add things together.
 
 Additionally, each test case is very weak. They naively cover single problem instances, and there's no direction or reason behind each one aside from, "Well, it's something the user could want to do." The two most glaring issues with that sentiment are:
 1) They rely on the programmer to anticipate user behaviors
@@ -120,7 +121,7 @@ The properties of commutativity and associativity are true, regardless of the va
 
 ### What's Next?
 
-So, we should burn down all of our tests and replace them with __Property Tests__, right?
+So, we should strip out all of our tests and replace them with __Property Tests__, right?
 
 Not exactly. Drastic action is rarely the answer. In truth, each of the three types of test above are good and necessary when used appropriately. The key is balancing work and payoff, and targeting techniques to fit the problems you're trying to solve. That's generally good advice, but here's how it specifically relates to the problem at hand.
 

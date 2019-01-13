@@ -3,7 +3,7 @@ layout: post
 title:  "Pay It Back By Paying It Forward"
 date:   2019-01-05 16:15:01 -0600
 categories: fear work culture empowerment payback pay it forward
-permalink: /legacy/payback
+permalink: /blog/legacy/payback
 description: "How paying it forward can help you  pay it back"
 ---
 

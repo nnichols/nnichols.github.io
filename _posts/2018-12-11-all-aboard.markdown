@@ -3,6 +3,7 @@ layout: post
 title:  "All Aboard"
 date:   2018-12-13 09:09:22 -0600
 categories: development organizational culture competitive edge training employee agile
+permalink: /blog/all-aboard
 description: "A new employee is a large investment. Make sure you know just how large that investment is."
 ---
 

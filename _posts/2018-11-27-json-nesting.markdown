@@ -3,6 +3,7 @@ layout: post
 title:  "JSON Nesting"
 date:   2018-11-27 17:19:19 -0600
 categories: json postgres psql upsert document mongo
+permalink: /blog/json-nesting
 description: "Postgres now supports jsonb! But, it has plenty of complexities under the hood."
 ---
 

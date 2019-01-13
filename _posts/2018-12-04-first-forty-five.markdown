@@ -3,6 +3,7 @@ layout: post
 title:  "First Forty-Five"
 date:   2018-12-04 07:07:45 -0600
 categories: development organizational culture competitive edge
+permalink: /blog/first-forty-five
 description: "Starting a new job is hard, and teaches a lot of lessons. Be sure to learn something from them."
 ---
 
@@ -26,7 +27,7 @@ A little deeper.
 
 Okay, you're fine now.
 
-Whether it's because they quit, retired, got fired, or whatever, eventually everyone working "with" (to use the term loosely) you will eventually stop doing that. That isn't a bad thing either. Sometimes better opportunities pop up in that cool city up the road. Sometimes people decide to become full-time fathers. Sometimes people just want to turn around, pop both middle fingers high in the air, and tell you to fuck off. In any case, people leave jobs all the time.
+Whether it's because they quit, retired, got fired, or whatever, eventually everyone working "with" (to use the term loosely) you will eventually stop doing that. That isn't a bad thing either. Sometimes better opportunities pop up in that cool city up the road. Sometimes people decide to become full-time parents. Sometimes people just want to turn around, pop both middle fingers high in the air, and tell you to fuck off. In any case, people leave jobs all the time.
 
 As most businesses probably say, we should seize every opportunity we can. In most organizations, voluntary termination takes one of two forms:
 1. Piling on the hardest, shittiest, most repetitive work

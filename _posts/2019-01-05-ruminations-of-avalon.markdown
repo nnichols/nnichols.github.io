@@ -3,7 +3,7 @@ layout: post
 title:  "Ruminations of Avalon of the Black Rocks"
 date:   2019-01-05 15:24:45 -0600
 categories: dungeons dragons campaign avalon monk lore
-permalink: /dnd/imperial-nights/ruminations-of-avalon
+permalink: /dnd/ruminations-of-avalon
 description: "The lessons of a man whose life was dedicated to the gods"
 ---
 

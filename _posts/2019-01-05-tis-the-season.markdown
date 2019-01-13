@@ -3,7 +3,7 @@ layout: post
 title:  "Tis The Season"
 date:   2019-01-05 15:24:45 -0600
 categories: fear work culture empowerment
-permalink: /legacy/tis-the-season
+permalink: /blog/legacy/tis-the-season
 description: "Fear, Halloween, and the power of conquest"
 ---
 
