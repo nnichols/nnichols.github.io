@@ -4,17 +4,23 @@ title: Site Map
 permalink: /sitemap
 ---
 
-## Static Pages:
+## Static Pages and Roots:
 
 * [Index/Home](https://nnichols.github.io/index)
+* [Curriculum Vitae](https://nnichols.github.io/curriculum-vitae)
 * [About Me](https://nnichols.github.io/about)
+* [Dungeons & Dragons](https://nnichols.github.io/dnd)
+* [Project Documentation](https://nnichols.github.io/code)
+* [Blog](https://nnichols.github.io/blog)
+* [Legacy Blog](https://nnichols.github.io/blog/legacy)
 * [GitHub Profile](https://github.com/nnichols)
 * [Code of Conduct](https://nnichols.github.io/coc)
 * [Contributions](https://nnichols.github.io/contribute)
 
-## Library Pages (Tree Ordered)
 
-* [nature](https://github.com/nnichols/nature)
+## Library Pages
+
+* [nature](https://nnichols.github.io/code/nature)
   * [Introduction](https://nnichols.github.io/code/nature/intro)
   * [Evolution Mechanics](https://nnichols.github.io/code/nature/evolution-mechanics)
     * [Initialization](https://nnichols.github.io/code/nature/initialization)
@@ -31,7 +37,7 @@ permalink: /sitemap
 * [Postgres JSON Nesting: 2018-11-27](https://nnichols.github.io/blog/json-nesting)
 * [Testing Addition: 2018-11-20](https://nnichols.github.io/blog/testing-addition)
 
-### Legacy Posts (Undated):
+### Legacy Posts:
 
 * [Tis The Season](https://nnichols.github.io/blog/legacy/tis-the-season)
 * [Survive. Adapt. Evolve.](https://nnichols.github.io/blog/legacy/survive-adapt-evolve)
@@ -44,13 +50,13 @@ permalink: /sitemap
 
 ## D&D Campaign Logs (Play Order):
 
-### The Great And Mighty Grok:
+### [The Great And Mighty Grok:](https://nnichols.github.io/dnd/the-great-and-mighty-grok)
 
 1. [Alcoholic Amnesiac](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
 2. [A Serious Problem In Cirrus](https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
 3. [The Punch Heard Round The World](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
 
-### Imperial Nights:
+### [Imperial Nights:](https://nnichols.github.io/dnd/imperial-nights)
 
 1. [Where All Roads Lead](https://nnichols.github.io/dnd/imperial-nights/where-all-roads-lead)
 2. [Friends With Benefits](https://nnichols.github.io/dnd/imperial-nights/friends-with-benefits)
