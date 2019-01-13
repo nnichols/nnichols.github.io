@@ -65,8 +65,8 @@ Once created, `build-individual` will evaluate the **genetic-sequence** against 
 
 #### Genetic Algorithm Phases:
 1. **Initialization**
-2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
-3. [Selection](https://nnichols.github.io/code/nature/selection)
-4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
-6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. [Selection](/code/nature/selection)
+4. [Reproduction](/code/nature/reproduction)
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)

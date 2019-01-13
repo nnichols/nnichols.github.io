@@ -5,4 +5,4 @@ permalink: /code
 ---
 
 ## Current Repositories:
-* [nature](https://nnichols.github.io/code/nature)
+* [nature](/code/nature)

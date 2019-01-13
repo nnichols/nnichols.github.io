@@ -84,4 +84,4 @@ Sif shows him the stone, and Aelith, with a look of utter shock, immediately agr
 Sif asks to celebrate over a drink, and Aelith includes an extremely rare bottle of wine in the trade.
 Thoroughly pleased with the greatest deal of the century, Sif wanders back to the tavern to drink his wine, among other things.
 
-[Next Chapter: A Serious Problem In Cirrus >](https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
+[Next Chapter: A Serious Problem In Cirrus >](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)

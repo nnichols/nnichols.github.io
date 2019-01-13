@@ -10,7 +10,7 @@ If you are generating new pages, please attribute yourself as the primary author
 If you are editing a page, especially one related to project documentation, please let me know, and I will make sure you are credited for your contributions as well.
 Because this site is meant to represent myself professionally across multiple communities, the pull request will have more rigid parameters set around language, authorship and
 
-Please note I have a [code of conduct](https://nnichols.github.io/coc), please follow it in all your interactions with the project.
+Please note I have a [code of conduct](/coc), please follow it in all your interactions with the project.
 
 ## Pull Requests
 
@@ -26,4 +26,4 @@ Improving documentation or adding examples as you learn a new project can is an 
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-A full copy of our [code of conduct may be found here.](https://nnichols.github.io/coc)
+A full copy of our [code of conduct may be found here.](/coc)

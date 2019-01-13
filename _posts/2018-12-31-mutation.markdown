@@ -32,9 +32,9 @@ As successful genetic patterns are copied, they may begin to prematurely converg
 With small, infrequent changes, solutions may hop towards nearby potential regions that could have been ignored.
 
 #### Genetic Algorithm Phases:
-1. [Initialization](https://nnichols.github.io/code/nature/initialization)
-2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
-3. [Selection](https://nnichols.github.io/code/nature/selection)
-4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. [Selection](/code/nature/selection)
+4. [Reproduction](/code/nature/reproduction)
 5. **Mutation**
-6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+6. [Generation Advancement and Termination](/code/nature/termination)

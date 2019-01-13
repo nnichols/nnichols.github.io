@@ -183,4 +183,4 @@ He gives them a few provisions to make the journey south, including a bottle of 
 Thaelen asks if they can get "one for the road," and Otto falls into a fit of high-pitched laughter.
 The party joins in for a hefty chuckle, and then poses for a freeze-framed high-five to wait until the next session.
 
-[< Previous Chapter: Where All Roads Lead](https://nnichols.github.io/dnd/imperial-nights/where-all-roads-lead)
+[< Previous Chapter: Where All Roads Lead](/dnd/imperial-nights/where-all-roads-lead)
