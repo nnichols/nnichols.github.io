@@ -62,6 +62,6 @@ The soldiers have been stationed in the village for almost a year, and the last 
 Dismayed, Sif asks if he could at least help out to earn a room to stay in for the night.
 The innkeeper directs him to the most dire and pressing work in town: clearing his basement of rats.
 
-[< Previous Chapter: The Alcoholic Amnesiac](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
+[< Previous Chapter: The Alcoholic Amnesiac](/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
 |
-[Next Chapter: The Punch Heard Round The World >](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
+[Next Chapter: The Punch Heard Round The World >](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)

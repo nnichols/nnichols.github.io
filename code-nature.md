@@ -49,11 +49,11 @@ Because they rely on some form of entropy, they're non-deterministic, and theref
 Sure, you could make an argument about seeding, pseudorandom number generation, or a deterministic universe, but those are weak arguments in the realm of conceptual mathematics.
 
 In either case, nature exists, and we can learn from it.
-If Genetic Algorithms are new to you, a primer on [evolution mechanics](https://nnichols.github.io/code/nature/evolution-mechanics) is helpful pre-reading.
+If Genetic Algorithms are new to you, a primer on [evolution mechanics](/code/nature/evolution-mechanics) is helpful pre-reading.
 Below, you'll find the core phases of a Genetic Algorithm side-by-side with our implementation.
-1. [Initialization](https://nnichols.github.io/code/nature/initialization)
-2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
-3. [Selection](https://nnichols.github.io/code/nature/selection)
-4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
-6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. [Selection](/code/nature/selection)
+4. [Reproduction](/code/nature/reproduction)
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)

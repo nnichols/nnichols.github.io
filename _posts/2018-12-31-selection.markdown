@@ -7,16 +7,17 @@ description: "How nature nominates individuals for reproduction"
 permalink: /code/nature/selection
 ---
 
-As promised on the [README](https://github.com/nnichols/nature), nature aims to be "A simple genetic algorithms library for Clojure."
+If *Fitness Functions* are the probability model that an organism can survive long enough to reproduce, then *Selection* is the use of that model.
+By using the fitness scores we assigned in the prior phase, we have a great tool to sample our solution pool.
+For example, a solution with a very high value and little weight is more important to hold on to a bag full of hammers.
+In most implementations, each individual is selected fairly with a probability of their fitness score against the aggregate fitness score of the entire population.
 
-In either case, nature exists, and we can learn from it.
-If Genetic Algorithms are new to you, a primer on [evolution mechanics](https://nnichols.github.io/code/nature/evolution-mechanics) is helpful pre-reading.
-
+It's as easy as that.
 
 #### Genetic Algorithm Phases:
-1. [Initialization](https://nnichols.github.io/code/nature/initialization)
-2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
 3. **Selection**
-4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
-6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+4. [Reproduction](/code/nature/reproduction)
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)

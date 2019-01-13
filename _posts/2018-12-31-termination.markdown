@@ -41,9 +41,9 @@ However, we want to balance this desire with a need for a wide and diverse gene 
 If our solutions are converging towards good-but-not-great solutions, we need genetic diversity to help draw our population towards other promising regions of our search space.
 
 #### Genetic Algorithm Phases:
-1. [Initialization](https://nnichols.github.io/code/nature/initialization)
-2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
-3. [Selection](https://nnichols.github.io/code/nature/selection)
-4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. [Selection](/code/nature/selection)
+4. [Reproduction](/code/nature/reproduction)
+5. [Mutation](/code/nature/mutation)
 6. **Generation Advancement and Termination**

@@ -86,4 +86,4 @@ The cleric eagerly shares his experiences of "smashing gobbies" in Longview.
 They make a deal, and Aryn says the, quite possibly, most important words in all of Eibellion's history:
 "Perfect. It sounds like you'll get along great with the other fella too. Hey Grok, come meet our new friend."
 
-[< Previous Chapter: A Serious Problem in Cirrus](https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
+[< Previous Chapter: A Serious Problem in Cirrus](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)

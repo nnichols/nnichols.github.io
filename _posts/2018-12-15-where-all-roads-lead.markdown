@@ -148,4 +148,4 @@ After greasing a few palms, they are lead down a spiral staircase to a secret pr
 They are greeted by an all-too-friendly triton man lounging in a "mostly" clean chair.
 A tabaxi stands guard behind him, awaiting the next session.
 
-[Next Chapter: Friends With Benefits >](https://nnichols.github.io/dnd/imperial-nights/friends-with-benefits)
+[Next Chapter: Friends With Benefits >](/dnd/imperial-nights/friends-with-benefits)

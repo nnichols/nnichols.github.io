@@ -43,9 +43,9 @@ Thankfully, using our data model is far easier than creating it.
 
 
 #### Genetic Algorithm Phases:
-1. [Initialization](https://nnichols.github.io/code/nature/initialization)
+1. [Initialization](/code/nature/initialization)
 2. **Fitness Evaluation**
-3. [Selection](https://nnichols.github.io/code/nature/selection)
-4. [Reproduction](https://nnichols.github.io/code/nature/reproduction)
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
-6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+3. [Selection](/code/nature/selection)
+4. [Reproduction](/code/nature/reproduction)
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)

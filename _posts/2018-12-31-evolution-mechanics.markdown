@@ -51,7 +51,7 @@ They model many real-world optimization problems, but it is currently unknown if
 So, what are we to do, and how do Genetic Algorithms fit in?
 Let's find out.
 
-## [Initialization](https://nnichols.github.io/code/nature/initialization)
+## [Initialization](/code/nature/initialization)
 
 A lot of the actual work that goes into initialization happens long before the first line of code processes.
 Modeling a problem like "How do I get the best deal from a sale?" and the relevant data, like the value:cost pairs above, informs how initialization actually works.
@@ -97,7 +97,7 @@ From here, it's very easy to imagine generating tens, hundreds, or thousands of 
 Often, these are known as *Individuals*, and their collection is referred to as a *Population*.
 Once we have these solutions, we need to do something with them.
 
-## [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
+## [Fitness Evaluation](/code/nature/fitness-evaluation)
 
 Obviously, having a potential solution to a problem helps us very little if we don't know how good that solution is.
 In the Knapsack Problem, we need to grade our solutions with respect to the value of all items included, how likely they are to break the bag, and if the store has enough items in stock.
@@ -133,7 +133,7 @@ Plugging the numbers into an existing model is very easy to do.
 As was the case with **Initialization**, a lot of the work is done before coding begins.
 Thankfully, using our data model is far easier than creating it.
 
-## [Selection](https://nnichols.github.io/code/nature/selection)
+## [Selection](/code/nature/selection)
 
 If *Fitness Functions* are the probability model that an organism can survive long enough to reproduce, then *Selection* is the use of that model.
 By using the fitness scores we assigned in the prior phase, we have a great tool to sample our solution pool.
@@ -142,7 +142,7 @@ In most implementations, each individual is selected fairly with a probability o
 
 It's as easy as that.
 
-## [Reproduction](https://nnichols.github.io/code/nature/reproduction)
+## [Reproduction](/code/nature/reproduction)
 
 This is where the real value comes in for Genetic Algorithms.
 The individuals we selected likely model good solutions to our problem.
@@ -210,7 +210,7 @@ Like selection, we're relying on the natural pressures asserted by probability a
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
 | Child        | *0*     | **0**        | *50*   | *10*         | **10** |
 
-## [Mutation](https://nnichols.github.io/code/nature/mutation)
+## [Mutation](/code/nature/mutation)
 
 In biology, errors happen all the time.
 When our genetic sequences are copied are transferred, things can go wrong and a different allele can be encoded.
@@ -236,7 +236,7 @@ Mutation, as a class of operators, serves the purpose of breaking out of local o
 As successful genetic patterns are copied, they may begin to prematurely converge towards a good-but-not-great region.
 With small, infrequent changes, solutions may hop towards nearby potential regions that could have been ignored.
 
-## [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+## [Generation Advancement and Termination](/code/nature/termination)
 
 Once a sufficiently large pool of individuals has been created by reproducing other solutions and mutating the results, we repeat ourselves.
 The new solutions must be scored, selected, reproduced, and then mutated.

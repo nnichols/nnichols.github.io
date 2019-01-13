@@ -74,9 +74,9 @@ Like selection, we're relying on the natural pressures asserted by probability a
 | Child        | *0*     | **0**        | *50*   | *10*         | **10** |
 
 #### Genetic Algorithm Phases:
-1. [Initialization](https://nnichols.github.io/code/nature/initialization)
-2. [Fitness Evaluation](https://nnichols.github.io/code/nature/fitness-evaluation)
-3. [Selection](https://nnichols.github.io/code/nature/selection)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. [Selection](/code/nature/selection)
 4. **Reproduction**
-5. [Mutation](https://nnichols.github.io/code/nature/mutation)
-6. [Generation Advancement and Termination](https://nnichols.github.io/code/nature/termination)
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)
