@@ -22,7 +22,6 @@ However, a new town brings new dangers head-to-head with our brave cleric.
 With danger around every corner, how will Sif find his way to safety and spirits?
 What new threat grows on the horizon?
 
-
 ## [Chapter 3: The Punch Heard Round The World](https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
 The dangers in Cirrus continue to grow, but so does Sif's power.
 With a mixture of might, magic, and cunning, our hero manages to fight back against the powers set against him.

@@ -17,7 +17,6 @@ permalink: /sitemap
 * [Code of Conduct](https://nnichols.github.io/coc)
 * [Contributions](https://nnichols.github.io/contribute)
 
-
 ## Library Pages
 
 * [nature](https://nnichols.github.io/code/nature)
