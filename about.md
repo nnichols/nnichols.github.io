@@ -9,3 +9,5 @@ permalink: /about
 [Stack Overflow](https://stackoverflow.com/users/10446899/nick-nichols)
 
 [Dungeon Masters Guild](https://www.dmsguild.com/browse.php/?author=Nick%20Nichols)
+
+[Clojurists Together](https://www.clojuriststogether.org/members/)
