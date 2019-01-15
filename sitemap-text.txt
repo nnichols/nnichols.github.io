@@ -33,12 +33,6 @@ https://nnichols.github.io/blog/legacy/tis-the-season
 https://nnichols.github.io/blog/legacy/survive-adapt-evolve
 https://nnichols.github.io/blog/legacy/payback
 https://nnichols.github.io/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world
-https://nnichols.github.io/nature/api/index.html
-https://nnichols.github.io/nature/api/nature.core.html
-https://nnichols.github.io/nature/api/nature.genetic-operators.html
-https://nnichols.github.io/nature/api/nature.population-operators.html
-https://nnichols.github.io/nature/api/nature.population-presets.html
-https://nnichols.github.io/nature/api/nature.spec.html
 https://nnichols.github.io/nature/coverage/index.html
 https://nnichols.github.io/nature/coverage/nature/core.clj.html
 https://nnichols.github.io/nature/coverage/nature/genetic_operators.clj.html
