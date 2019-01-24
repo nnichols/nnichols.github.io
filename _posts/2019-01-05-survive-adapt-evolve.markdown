@@ -14,7 +14,7 @@ Today, I’d like to clear up some of the mechanics of evolution, and talk about
 
 To begin, think of the ultimate predator.
 The absolute top of the food-chain.
-I'm talking about the  pinnacle of evolution: a massive, razor- toothed insectoid – the Hydralisk.
+I'm talking about the pinnacle of evolution: a massive, razor- toothed insectoid – the Hydralisk.
 For a teenager who grew up on Star Wars and Super Metroid, the box art of Blizzard’s Starcraft was enamoring.
 Now, I know the game widely abuses the term “evolution,” but it’s what got me interested in the subject.
 It’s a series that I’ve brought forward into my adult life, and little did I know, that a single line of descriptive flavor text buried in one of the research consoles in the Hyperion would change my outlook on life: “It's survival of the fittest on the cellular level.”
@@ -144,7 +144,7 @@ The biological corollary is ancestry.
 
 Think about how similar you are to your mother.
 Think about how similar your mother and grandmother look, and so on and so forth.
-Each generation looks very similar to the one before it, and if we go far enough back we reach Homo habilis some 2.5 million years ago.
+Each generation looks very similar to the one before it, and if we go far enough back, we reach Homo habilis some 2.5 million years ago.
 Even during my life, my DNA will change from encoding errors, virophages, and even my stress levels.
 The two ends of the spectrum are very different, but each step looks nearly invisible.
 Evolution and speciation are continuous gradients, not discrete categories and definitely not full of hard shifts.

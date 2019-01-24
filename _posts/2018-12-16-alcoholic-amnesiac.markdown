@@ -34,7 +34,7 @@ At a brisk 5:30 AM, Sif takes a modest swig of Maltört from the flask on his hi
 As the sweet and soulful taste of wormwood and juniper berries coats his throat, he makes his way towards town.
 As he approaches the bar, he encounters Dorek, the bartender, and Jac, the captain of the boat that delivers supplies to each of the local islands.
 They carry worried looks on their faces, and tell Sif that Tim, an elderly human not too far away, has reported many of his farming tools as missing or destroyed.
-While they'd normally chalk it up to his forgetfulness, they've also heard rumors of a small time gang taking up residence on one of the islands.
+While they'd normally chalk it up to his forgetfulness, they've also heard rumors of a small-time gang taking up residence on one of the islands.
 
 Sif agrees to look into the problem immediately, and Jac offers him a ride to the other island.
 Sif, horrified of the open waters, asks to lock himself in the boat's quarters; however, Jac informs him that a strange Elven man has paid handsomely for privacy as he tours the islands.
@@ -46,7 +46,7 @@ It doesn't work.
 After braving the weather, they dock up at the small island Tim calls home.
 Jac mentions the elf had also requested to visit this very island, so Sif immediately waves goodbye and walks directly towards Tim's house.
 
-Upon arriving at Tim's worn down cabin, Sif is immediately greeted by tried-and-true complaints such as, "It took them long enough to check in on me," "Nobody has time to stop by anymore," and "In my day, you had to swim between these island."
+Upon arriving at Tim's worn-down cabin, Sif is immediately greeted by tried-and-true complaints such as, "It took them long enough to check in on me," "Nobody has time to stop by anymore," and "In my day, you had to swim between these islands."
 Sif chimes in, and further complains about how easy everything is in the current day and age.
 The two curmudgeons then discuss the real cause of Sif's visits- the missing tools.
 Tim stands in his doorway while his new friend investigates the area.

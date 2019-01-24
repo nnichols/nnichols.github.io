@@ -25,8 +25,8 @@ These have always been elective duties.
 Why?
 
 ## [All Aboard](/blog/all-aboard)
-o, you finally got that new developer you’ve been looking for!
-This is fantastic! 
+So, you finally got that new developer you’ve been looking for!
+This is fantastic!
 You’ll be able to chip away at your backlog (which has been growing out of control lately), get a flood of new ideas, and bring your product forward by leaps and bounds!
 Well, maybe not right away.
 After all, they haven’t gotten a hang of the ropes yet.

@@ -68,12 +68,12 @@ Krug gives a look of disappointment.
 Acknowledging his fault, the wizard conjures up a strangely gaunt *Mage Hand* and slaps himself in the face to sober up.
 
 While approaching the large yellow and red canvas tents, Thaelen passes out a silver-backed playing card to each of his associates to use as a fake ticket.
-The con-at-heart slips past the admission gate unnoticed, but the rest of the group is stopped by a seven foot tall orc wearing a purple and black striped vest and a clown's nose.
+The con-at-heart slips past the admission gate unnoticed, but the rest of the group is stopped by a seven-foot-tall orc wearing a purple and black striped vest and a clown's nose.
 The orc sells them up on the promises of mystical wonders beyond the comprehension of mere mortals, the finest food in all of Barovia, and a main act so intense, it has allegedly killed three people.
 The rest of the group decides to buy the cheapest tickets, until the promises of mystic animals and drink tickets goad them into upgrading.
 Wide-eyed, Tlareg throws down enough coin to buy the unlimited gold pass.
 
-As they walk into the see of amusements, tents, and children sprinting around, they decide to split up based on their interests.
+As they walk into the sea of amusements, tents, and children sprinting around, they decide to split up based on their interests.
 The tiefling woman cons a teenaged, pimple-faced human into giving her free popcorn.
 Beanstalk, Krug, and 6 decide to investigate the animals and promises of being able to pet them.
 Thaelen decides to look for carnival games, and Tlareg wants to get his fortune told.
@@ -101,7 +101,7 @@ He presses her for further details, but her glimpse into the future is cut short
 On the other side of the carnival, the tiefling woman decides she wants to pet animals while eating her popcorn.
 The four find themselves in a long tent housing an owlbear, an axe beak, several pseudodragons, and a gazer.
 While the rest continue oohing and aahing, the thin, nameless man slinks around, looking for clues.
-He notices several of the canvas flaps aren't fully tied down, leaving a three to four foot entrance in a few panels.
+He notices several of the canvas flaps aren't fully tied down, leaving a three- to four-foot entrance in a few panels.
 While Krug and 6 yell at each other from across the room, he slips through the crack and finds himself near the housing portion of the carnival.
 He sneaks around a few of the tents before finding one covered in mud.
 
@@ -121,7 +121,7 @@ They stack up at the front of the tent, and the tall man rips open the flaps.
 **"ARE YOU LITTLE BOYS BEING NAUGHTY?"**
 
 Frightened, the two Darklings try to dart away.
-The tall man casts *Eldritch Blast* and knocks the wind out of one of his foes, and yells, "Keep one safe so we can find out whose been naughty and nice!"
+The tall man casts *Eldritch Blast* and knocks the wind out of one of his foes, and yells, "Keep one safe so we can find out who's been naughty and nice!"
 The tiefling chases after him as he tries to escape, and hefts him off the ground.
 Krug hefts 6 into the tent, and 6 attempts to tackle the other darkling.
 After seeing his half-orc brother in arms fall flat on his face, Krug roars and flies into a rage.
@@ -129,7 +129,7 @@ The other darkling starts running away, but 6 lands a strike from the ground and
 
 With the remaining Darkling bound in canvas and rope, they begin interrogating him.
 After seeing his impaled friend, he immediately tells the party where they can find the painting.
-They are lead along the creek's path for nearly a mile, before they find a boat tied up on the shore.
+They are led along the creek's path for nearly a mile, before they find a boat tied up on the shore.
 The thin man lifts a piece of canvas, and find several boxes of ceremonial tattoo ink, and a very large portrait of a woman that looks strikingly similar to Gertruda.
 6 asks if it's the right painting, and the thin man assumes the Strahd would highly value the portrait of his late wife.
 He checks for a signature on the back of the canvas and finds the name Childris Westerwilt.

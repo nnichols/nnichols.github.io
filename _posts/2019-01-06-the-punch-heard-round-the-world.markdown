@@ -47,7 +47,7 @@ They're both heavily bruised, the human has a broken leg, and the young man is u
 "Please. Help. I don't know what he did to Terris, but he won't wake up."
 
 Sif casts *Cure Wounds* and the man begins to regain consciousness.
-As he wakes up he mutters something about seeing two fish swimming in a circle over and over, and claims to have watched his soul get knocked from his body.
+As he wakes up, he mutters something about seeing two fish swimming in a circle over and over, and claims to have watched his soul get knocked from his body.
 The two soldiers embrace, and Sif asks what happened.
 A single human monk, dressed in solid black robes came to the camp in search of a magic torch Orrinstander owned.
 After the captain refused, the monk offered them one day to reconsider.

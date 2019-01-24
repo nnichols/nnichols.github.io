@@ -20,7 +20,7 @@ You live as you did before, and the Ordo Administorum takes but a humble tithe o
 You follow its laws, worship its god, and bow before your respective leadership.
 In return, citizens are protected from the chaotic horrors and scattered evils that stalk the edges of civilization.
 Tensions brew beneath the watch of the Inquisition, every temple is government owned and run, and worship outside the approved idolatry is met with imprisonment and cries of heresy.
-The forced annexation of Sembal at the northern coast has many common folk on edge.
+The forced annexation of Sembal at the northern coast has many common folks on edge.
 
 Our story, however, begins much smaller and much simpler.
 Here in the Southern Reaches of the Idravalli Empire and its border with Barovia, far beyond the shadows cast by the Heavenly Peaks, are the crooked and overgrown roads connecting these two lands.
@@ -63,7 +63,7 @@ A quick flourish of his blade cracks the mask in two, and dissipates the shadows
 Adrian and Elena cower behind their wagon for the next few minutes.
 
 Krug ties the mask to his back as his party inspects it.
-Through their collective knowledge of the arcane, they know these entities are summoned as servants from the Shadowfel.
+Through their collective knowledge of the arcane, they know these entities are summoned as servants from the Shadowfell.
 While easy to conjure, they can be difficult to control for novices, and most end up wandering of their own accord.
 The elf, who finally introduces himself as Tlareg, believes it is the work of a witch he is hunting.
 Thaelen believes it is more likely an arcane mishap.
@@ -83,7 +83,7 @@ The party discusses their options:
 
 Realizing they aren't familiar with the current state of affairs in Barovia, they ask Mikhail for his thoughts.
 He warns the group that nobody has ever been seen coming back from the first contract, and that it is likely a scam; however, he seems hesitant to discuss local matters.
-After some coaxing, he reveals things in Barovia have taken a turn for thee worse.
+After some coaxing, he reveals things in Barovia have taken a turn for the worse.
 While Grezjit and his family are alright, strange chills can be felt in the dark.
 Count Strahd has become reclusive, strange beasts haunt the lands, and a local woman, Gertruda Janovic, has recently fallen very ill after courting a man working for the Count.
 Krug shows him the mask, and he admits he has seen something similar following Gertruda.
@@ -144,7 +144,7 @@ Once again, this is accompanied by a furious scribbling from the man without a n
 Leaving a symbol known to his associates, Thaelen searches the city for any clues or contacts that might lead them to a hideout.
 They eventually see a response indicating the open streets aren't safe for business at the moment; however, it does point them to somebody who knows somebody who knows somebody.
 After establishing contact, they follow a series of coded directions to the back room of the **Blood on the Vine** tavern on the nearest creek.
-After greasing a few palms, they are lead down a spiral staircase to a secret prohibition storage room turned bar filled with goblins, a few halflings, and at least one kenku.
+After greasing a few palms, they are led down a spiral staircase to a secret prohibition storage room turned bar filled with goblins, a few halflings, and at least one kenku.
 They are greeted by an all-too-friendly triton man lounging in a "mostly" clean chair.
 A tabaxi stands guard behind him, awaiting the next session.
 

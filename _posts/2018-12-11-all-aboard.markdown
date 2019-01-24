@@ -15,7 +15,7 @@ In truth, there is no universal measure for how long your new employees will spe
 
 Wait, what?
 
-You heard me right, your team, as a whole unit, will probably suffer a 10-20% drop in efficiency when a new team member joins. This drop can last anywhere from [2-7 weeks or 2-7 months](https://sloanreview.mit.edu/article/getting-new-hires-up-to-speed-quickly/), even though the long term velocity will trend up. Assuming the burden of on-boarding falls squarely on your HR department, the hiring manager, or a mentor is a very common fallacy. The impacts are far more distributed than you may realize.
+You heard me right, your team, as a whole unit, will probably suffer a 10-20% drop in efficiency when a new team member joins. This drop can last anywhere from [2-7 weeks or 2-7 months](https://sloanreview.mit.edu/article/getting-new-hires-up-to-speed-quickly/), even though the long-term velocity will trend up. Assuming the burden of on-boarding falls squarely on your HR department, the hiring manager, or a mentor is a very common fallacy. The impacts are far more distributed than you may realize.
 
 ### The Organization
 

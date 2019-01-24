@@ -59,7 +59,7 @@ Okay, from a syntactic point of view, not a lot has changed. Our data is still i
 2. Maximize schema flexibility
 3. [You turn it on and it scales right up](https://www.youtube.com/watch?v=b2F-DItXtZs "Every MongoDB argument to date")
 
-I lack the emotional fortitude to jump into raw metal v metal performance <s>pissing contests</s> discussions. We can analyze the first two points at a syntactic and ideologic level, without having to worry (too much) about configurations. With everything above in mind, lets talk about `INSERT.`
+I lack the emotional fortitude to jump into raw metal v metal performance <s>pissing contests</s> discussions. We can analyze the first two points at a syntactic and ideologic level, without having to worry (too much) about configurations. With everything above in mind, let's talk about `INSERT.`
 
 At some point, your table will need data. Otherwise, what's the point of a database? Additionally, the data you keep on hand has a nasty tendency to grow over time. Let's build a table to have a more concrete reference point for this article. To honor database education traditions, let's call it `users.`
 
@@ -130,11 +130,17 @@ UPDATE users SET actions = users.actions || '{"account-activated":"2018-11-27"}'
 WHERE unique_index = 4;
 ```
 
-For a simple add/replace, the JSON operators are pretty smooth. They syntactically stand out from the rest of PSQL, but I'm okay with that. If you're shifting paradigms, it's useful to have a visual indicator of what is what. The JSON(B) functions are all clearly labeled as such, so you should always know what to expect.
+For a simple add/replace, the JSON operators are pretty smooth.
+They syntactically stand out from the rest of PSQL, but I'm okay with that.
+If you're shifting paradigms, it's useful to have a visual indicator of what is what.
+The JSON(B) functions are all clearly labeled as such, so you should always know what to expect.
 
 Should.
 
-Let's say our site has grown to include a social aspect. It's 2018, so it was only inevitable. Our users now have the ability to list out their interests. The categories and lists on our front end changes daily, and we, the lowly back-end developers, decide to throw it in a new document column.
+Let's say our site has grown to include a social aspect.
+It's 2018, so it was only inevitable.
+Our users now have the ability to list out their interests.
+The categories and lists on our front-end changes daily, and we, the lowly back-end developers, decide to throw it in a new document column.
 
 Here's what some sample data could look like:
 
@@ -150,11 +156,21 @@ Here's what some sample data could look like:
 }'
 ```
 
-As categories get added, it's simple enough to append them. We can use the same query as above to list out all of the anime series, video games, and ice cream flavors Trey feels like divulging to our organization. Fantastic.
+As categories get added, it's simple enough to append them.
+We can use the same query as above to list out all of the anime series, video games, and ice cream flavors Trey feels like divulging to our organization.
+Fantastic.
 
-Oh no. Wait a minute. Humans are fickle beings, and our interests change all of the time. One morning, Trey decides he has had it up to here with American comedies, and binge watches a ton of Asian Rom-Coms. He has to tell the world about it, our website included. So, how do we add a show in the comedy category? With our large, growing website and the possibility of shared accounts, we want to make sure it's simple, thread-safe, and doesn't rely on *a priori* information.
+Oh no.
+Wait a minute.
+Humans are fickle beings, and our interests change all of the time.
+One morning, Trey decides he has had it up to here with American comedies, and binge watches a ton of Asian Rom-Coms.
+He has to tell the world about it, our website included.
+So, how do we add a show in the comedy category?
+With our large, growing website and the possibility of shared accounts, we want to make sure it's simple, thread-safe, and doesn't rely on *a priori* information.
 
-So, how do we do it? Typically, these scenarios call for the Postgres portmanteau [upsert](https://en.wiktionary.org/wiki/upsert). We've already seen the insert side:
+So, how do we do it?
+Typically, these scenarios call for the Postgres portmanteau [upsert](https://en.wiktionary.org/wiki/upsert).
+We've already seen the insert side:
 
 ```SQL
 INSERT INTO users (name, age, actions, likes)

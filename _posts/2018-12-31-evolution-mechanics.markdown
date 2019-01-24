@@ -20,7 +20,7 @@ When you walked in, you were given a brown paper grocery bag and a few simple ru
 
 So, being well-educated consumers, we want to get the best discount possible.
 How should we formulate a strategy for picking items to go in the bag?
-In real life, we tend to use a guiding rules to help make our shopping decisions.
+In real life, we tend to use a guiding rule to help make our shopping decisions.
 Imagine evaluating how "good" the discount is for various items:
 * Cotton stuffing takes up a lot of space, and is very cheap.
 * Weed killer is expensive, but might weigh more than the bag can support.
@@ -162,7 +162,7 @@ In the biology we're familiar with, that is human biology, reproduction takes a 
 We can abstract this concept and turn it into a function that works against our digital genetic sequences.
 To make our work simple, we'll take half of the genetic sequence from parent A and merge it with half of the genetic sequence from parent B.
 In the interest of minimizing complexity, this is usually done by splitting sequences evenly down the middle.
-So, let's look at how this function may work with out shopping example.
+So, let's look at how this function may work without shopping example.
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
@@ -185,7 +185,7 @@ Additionally, to save computational effort, generally two complementary individu
 
 ### Fitness Based Scanning
 
-Fitness based scanning attempts to make the process of reproduction smarter, while still maintaining a probabilistic nature.
+Fitness-based scanning attempts to make the process of reproduction smarter, while still maintaining a probabilistic nature.
 As my [research advisor](https://sun.iwu.edu/~mliffito/) always said, "It's always more efficient to reuse information you already have."
 In this case, the fitness score is a prime candidate for reuse.
 We already know that solutions with better fitness scores are more likely to be selected from the population, but what if individual alleles were more likely to be chosen too?
@@ -261,7 +261,7 @@ Keep in mind that this criteria may lead to infinite execution if the criteria i
 So, what is convergence?
 It is the state when every individual in a population inherits the same genetic sequence and every solution is identical.
 This is a very hard state to break out of.
-Reproduction operators, like crossover and fitness based scanning, will return identical solutions, adding to the problem.
+Reproduction operators, like crossover and fitness-based scanning, will return identical solutions, adding to the problem.
 Mutation operators may change very small portions of solutions, but the probability of those differences propagating is small.
 Why?
 Well, unless the fitness score of a modified solution is extreme,  the selection process will still be heavily weighted towards the convergent solution.

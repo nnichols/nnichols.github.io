@@ -39,7 +39,7 @@ A young man and his son are also unable to pay into the defense fund, and a gold
 Sif manages to overhear the locket will be kept for "safekeeping" in a small encampment in the forest to the south.
 At this moment, Sif quits resisting his banishment and leaves town quickly.
 
-After a few hours on the road, Sif finds a worn down path into the forest.
+After a few hours on the road, Sif finds a worn-down path into the forest.
 He decides follow the trail from a distance, and sneaks further in.
 He eventually finds a wooden palisade encircling a small military camp at the foot of a hill.
 The camp consists of 3-4 tents, a guard tower, and a mining path cut into the hill.
@@ -60,7 +60,7 @@ The Innkeeper, an old human named Kip, is disgruntled by the outsider with no mo
 Sif explains that he is trying to help the town, but Kip believes all hope is lost.
 The soldiers have been stationed in the village for almost a year, and the last time someone tried to get involved, they were beaten half to death.
 Dismayed, Sif asks if he could at least help out to earn a room to stay in for the night.
-The innkeeper directs him to the most dire and pressing work in town: clearing his basement of rats.
+The innkeeper directs him to the direst and pressing work in town: clearing his basement of rats.
 
 [< Previous Chapter: The Alcoholic Amnesiac](/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
 |
