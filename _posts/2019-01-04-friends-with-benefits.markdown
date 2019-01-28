@@ -184,3 +184,5 @@ Thaelen asks if they can get "one for the road," and Otto falls into a fit of hi
 The party joins in for a hefty chuckle, and then poses for a freeze-framed high-five to wait until the next session.
 
 [< Previous Chapter: Where All Roads Lead](/dnd/imperial-nights/where-all-roads-lead)
+|
+[Next Chapter: The State of Things >](/dnd/imperial-nights/the-state-of-things)

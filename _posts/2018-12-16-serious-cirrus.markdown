@@ -21,7 +21,7 @@ Blackrock Heights, home of Almawt, god of death, piques his interest as somethin
 With this in mind, he commits to traveling to the mainland in search of work and exploration, but not before cracking open his bottle of wine.
 
 After sleeping beneath the stars for another night, Sif, moderately hungover, seeks out Jac.
-In exchange for help loading the *Southern Star* with crops for sale, Jac will ferry Sif to the nearest city on Ivalion's mainland, Cirrus.
+In exchange for help loading the **Southern Star** with crops for sale, Jac will ferry Sif to the nearest city on Ivalion's mainland, Cirrus.
 Both the labor and the journey are perilous for the hungover cleric with a deathly fear of the open water, but he manages to survive with his sanity intact.
 
 Upon arriving in Cirrus, a seemingly quiet and peaceful town along the coast, Sif is immediately directed to check in with Captain Orrinstander.

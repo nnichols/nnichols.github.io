@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Sif Alone"
+date:   2019-01-27 17:57:01 -0600
+categories: dungeons dragons campaign log
+permalink: /dnd/the-great-and-mighty-grok/sif-alone
+description: "Left to his own devices, Sid encounters a new, deadly foe"
+---
+
+
+
+[< Previous Chapter: A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)

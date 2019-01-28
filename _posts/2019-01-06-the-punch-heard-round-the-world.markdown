@@ -74,7 +74,7 @@ One villager claimed that he asked the monk for aide, but all he got in response
 "This is a situation of your own creation. I have no pity for you."
 
 Sif gathers further information, and learns that similarly clad monks had also stolen an unusual book that belonged to Hermaeus, God of Knowledge.
-The cleric plans to visit the Monastery of Avalon near Ishtar, but comes to the sullen realization that his pockets are empty.
+So, naturally, the cleric plans to visit the Monastery of Avalon near Ishtar, but comes to the sullen realization that his pockets are empty.
 Desperate for work or transportation, he returns to the **Red Rooster Inn.**
 A large, fully-stocked cart of expensive mining equipment and construction tools rests outside of the tavern.
 Sif begins to peer around it as a cheerful dwarven man with a large red beard greets him, asking if he has any interest in the mining trade.
@@ -87,3 +87,5 @@ They make a deal, and Aryn says the, quite possibly, most important words in all
 "Perfect. It sounds like you'll get along great with the other fella too. Hey Grok, come meet our new friend."
 
 [< Previous Chapter: A Serious Problem in Cirrus](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
+|
+[Next Chapter: A Miner Problem >](/dnd/the-great-and-mighty-grok/a-miner-problem)

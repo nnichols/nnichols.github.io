@@ -27,8 +27,8 @@ The dangers in Cirrus continue to grow, but so does Sif's power.
 With a mixture of might, magic, and cunning, our hero manages to fight back against the powers set against him.
 Join us as new allies and enemies join the fray, and as the most important introduction in history takes place.
 
-## Chapter 4: A Miner Problem
+## [Chapter 4: A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)
 Coming soon.
 
-## Chapter 5: Sif, Alone
+## [Chapter 5: Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
 Coming soon.
