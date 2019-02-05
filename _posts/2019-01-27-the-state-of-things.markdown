@@ -7,6 +7,6 @@ permalink: /dnd/imperial-nights/the-state-of-things
 description: "Everything changes."
 ---
 
-
+More is coming shortly!
 
 [< Previous Chapter: Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
