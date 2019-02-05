@@ -89,7 +89,7 @@ In return, the goblin band must ransack all caravans headed to **Gadriel’s Min
 At the very end of the document, Sif finds Werst's "signature" next to Casfar's, as well as a strange symbol of a large spider.
 Unable to recognize the significance, he pockets the information and a key the hobgoblin had tied to his belt.
 
-Following the echoes of a few whimpers, Sif and Grok are lead into a dimly lit chamber full of cages.
+Following the echoes of a few whimpers, Sif and Grok are led into a dimly lit chamber full of cages.
 Two dwarven men and a human woman are being held prisoner, and look sickly and starving.
 The cleric quickly rushes to their aid, frees them of their cells, and learns they were kidnapped after fleeing Phandalin.
 He tends to their wounds and offers them some of his rations.
@@ -123,6 +123,11 @@ Aryn believes it is possible an arm of the group could exist this far into conte
 Sif contemplates the situation, and is bothered by the news of Kythorn.
 His brief formal education over the last year had entirely skipped that region of the realm, and Sif believed that it was an intentional decision by the acolytes of his faith.
 Hungering for more information, he decides to head back to Phandalin to investigate further.
+
+Before leaving, Sif asks if Grok can continue travelling with him.
+Unfortunately, Grok is needed to help sort and resell the ore, but, after that, Aryn will be sending Grok to Phandalin once more.
+They agree to reunite at Gadriel's camp, and come up with further plans there.
+Sif signs the contract, and the crew shares in another round of ale.
 
 [< Previous Chapter: The Punch Heard Round The World](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
 |
