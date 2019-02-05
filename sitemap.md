@@ -54,8 +54,11 @@ permalink: /sitemap
 1. [Alcoholic Amnesiac](/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
 2. [A Serious Problem In Cirrus](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
 3. [The Punch Heard Round The World](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
+4. [A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)
+5. [Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
 
 ### [Imperial Nights:](/dnd/imperial-nights)
 
 1. [Where All Roads Lead](/dnd/imperial-nights/where-all-roads-lead)
 2. [Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
+3. [The State Of Things](/dnd/imperial-nights/the-state-of-things)

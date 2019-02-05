@@ -27,8 +27,13 @@ The dangers in Cirrus continue to grow, but so does Sif's power.
 With a mixture of might, magic, and cunning, our hero manages to fight back against the powers set against him.
 Join us as new allies and enemies join the fray, and as the most important introduction in history takes place.
 
-## Chapter 4: A Miner Problem
-Coming soon.
+## [Chapter 4: A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)
+Grok and Sif take back-to-back contracts with the Greyspine family:
+solving a crisis along a common trade route, and a dangerous rescue mission.
+What new foes and friends will our two intrepid adventurers encounter?
 
-## Chapter 5: Sif, Alone
-Coming soon.
+
+## [Chapter 5: Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
+With new mysteries come new opportunities.
+Sif continues to follow the threads in the Web of the Black Spider, but will it result in getting captured or discovering new power?
+Without assistance, Sif will have to rely on himself alone, even if he barely knows who that is.

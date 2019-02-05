@@ -17,4 +17,9 @@ Is anyone going to ask for their fourth companion's name?
 ## [Chapter 2: Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
 With the mysteries of Barovia growing at every turn, our heroes turn to rely on several strange bedfellows.
 Joined my an equally nameless tiefling and a towering half-orc, the party investigates the disappearance of an all-important painting, but the clock is ticking.
-They have less than two days before their new, strange friends will be thrown in jail.
+They have less than two days before their strange new friends will be thrown in jail.
+
+## [Chapter 3: The State Of Things](/dnd/imperial-nights/the-state-of-things)
+Confusion, misunderstandings, and tensions mount as Krug 'n' Krew press deeper and deeper into Barovia.
+Each day brings new mysteries and new questions into the fold.
+The time has come to discover. where our party's allegiances lie: to Barovia, to the people, or to themselves.

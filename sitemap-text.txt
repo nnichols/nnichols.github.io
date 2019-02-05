@@ -39,3 +39,6 @@ https://nnichols.github.io/nature/coverage/nature/genetic_operators.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_operators.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_presets.clj.html
 https://nnichols.github.io/nature/coverage/nature/spec.clj.html
+https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-miner-problem
+https://nnichols.github.io/dnd/the-great-and-mighty-grok/sif-alone
+https://nnichols.github.io/dnd/imperial-nights/the-state-of-things
