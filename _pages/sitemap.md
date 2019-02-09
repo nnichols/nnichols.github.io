@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Site Map
-permalink: /sitemap
+permalink: /sitemap/
 ---
 
 ## Static Pages and Roots:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legacy Blog
-permalink: /blog/legacy
+permalink: /blog/legacy/
 ---
 
 ## [Tis The Season](/blog/legacy/tis-the-season)

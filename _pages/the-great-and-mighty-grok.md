@@ -32,7 +32,6 @@ Grok and Sif take back-to-back contracts with the Greyspine family:
 solving a crisis along a common trade route, and a dangerous rescue mission.
 What new foes and friends will our two intrepid adventurers encounter?
 
-
 ## [Chapter 5: Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
 With new mysteries come new opportunities.
 Sif continues to follow the threads in the Web of the Black Spider, but will it result in getting captured or discovering new power?

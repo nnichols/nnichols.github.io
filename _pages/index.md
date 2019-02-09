@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /
+permalink: "/"
 date:   2018-10-20 08:42:26 -0600
 categories: programmer nick nichols clojure dungeons dragons eibellion grok
 description: "My personal blog, Dungeons and Dragons catalogue, and code playground"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code
-permalink: /code/nature
+permalink: /code/nature/
 ---
 
 As promised on the [README](https://github.com/nnichols/nature), nature aims to be "A simple genetic algorithms library for Clojure."

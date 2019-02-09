@@ -4,7 +4,6 @@ description: [Clojure Developer and Dungeon Master]
 google_analytics: [UA-127942415-1]
 repository: nnichols/nnichols.github.io
 
-# Name is required
 author:
   name: Nick Nichols
 
@@ -28,16 +27,16 @@ instagram_username: nickanichols
 
 permalink: /:title/
 
-# Use the following plug-ins
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
 
-# Exclude these files from your production _site
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
+
+include: ['_pages']

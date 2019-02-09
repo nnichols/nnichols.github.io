@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributions
-permalink: /contribute
+permalink: /contribute/
 ---
 
 As my personal website, blog, and documentation hub, pull requests may be rare; however, if they are in good faith, they are welcome.

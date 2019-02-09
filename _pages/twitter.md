@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Twitter Feed
-permalink: /twitter
+permalink: /twitter/
 ---
 
 <a class="twitter-timeline" href="https://twitter.com/Brainlessmunkey?ref_src=twsrc%5Etfw">Tweets by Nick Nichols</a>

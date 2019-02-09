@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributor Covenant And Code Of Conduct
-permalink: /COC
+permalink: /COC/
 ---
 
 All of my owned repositories operate under a common set of expectations, including the one behind this website.

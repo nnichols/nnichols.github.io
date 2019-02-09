@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code
-permalink: /code
+permalink: /code/
 ---
 
 ## Current Repositories:
