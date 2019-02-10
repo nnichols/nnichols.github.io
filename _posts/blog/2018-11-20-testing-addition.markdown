@@ -14,14 +14,16 @@ No, seriously, how would you go about testing something like addition?
 I know what you're thinking, "It's such a primitive language feature! Why would anyone _actually_ test that?" Obviously, I'm not advocating that you add test cases for every fundamental language feature your codes uses (unless you're writing a programming language, that is). Rather, I want to use this admittedly insane example to talk about testing practices and what gets glossed over and missed.
 
 Before we begin, take this reflective assignment as a context primer. Think over your last year of coding, QA testing, product support, etc. Now, ask yourself the three following questions:
-1. How many bugs/errors did I discover?
-2. How many were caused by trivial or silly mistakes?
-3. How many could have been caught with 1-2 more test cases?
+
+1.  How many bugs/errors did I discover?
+2.  How many were caused by trivial or silly mistakes?
+3.  How many could have been caught with 1-2 more test cases?
 
 If your experience has been anything like mine, your answers will probably look something like this:
-1. How many bugs/errors did I discover? _A handful each sprint_
-2. How many were caused by trivial or silly mistakes? _Most, maybe 80%_
-3. How many could have been caught with 1-2 more test cases? _Most, maybe 80%_
+
+1.  How many bugs/errors did I discover? _A handful each sprint_
+2.  How many were caused by trivial or silly mistakes? _Most, maybe 80%_
+3.  How many could have been caught with 1-2 more test cases? _Most, maybe 80%_
 
 Obviously, your mileage may vary. The main observation is twofold: Most bugs are caused by accidents and silly mistakes, and, once corrected, a test case is usually added to ensure they never come back. Given the amount of concurrent work most systems experience, this is a decent pattern for correction; however, I'd rather talk about prevention.
 
@@ -37,7 +39,7 @@ If we're being honest with ourselves, our first test cases probably looked like 
   (println (add a b)))
 ```
 
-These quick tests __should__ never make it into production, but we've all made that mistake once or twice. These are just quick sanity checks, but they are effectively no different than the following:
+These quick tests **should** never make it into production, but we've all made that mistake once or twice. These are just quick sanity checks, but they are effectively no different than the following:
 
 ```clojure
 (deftest dirty-test
@@ -45,7 +47,7 @@ These quick tests __should__ never make it into production, but we've all made t
     (is (= 4 (add 2 2)))))
 ```
 
-This question is the core of each testing philosophy: If I run my test cases, what can I confidently assert is true? With the above, I can safely say 2 + 2 = 4, and __that is it.__ If I want to increase my confidence in my addition function, I have to enumerate more test cases.
+This question is the core of each testing philosophy: If I run my test cases, what can I confidently assert is true? With the above, I can safely say 2 + 2 = 4, and **that is it.** If I want to increase my confidence in my addition function, I have to enumerate more test cases.
 
 ```clojure
 (deftest dirty-test
@@ -56,9 +58,10 @@ This question is the core of each testing philosophy: If I run my test cases, wh
     (is (= 4 (add 4 0)))))
 ```
 
-I think we all see where this is going. In order to get a high degree of confidence, we have to write and execute an _insane_ amount of test cases. So, in practice, it never happens. Writing and executing the tests, that is. __Enumerative testing__ is _far, far more common_ than anyone wants to admit to, because we all know it's the quick and dirty solution that we swear we're only going to do this one time because the deadlines are tight and our users are breathing down our necks. They __really, really__ want to add things together.
+I think we all see where this is going. In order to get a high degree of confidence, we have to write and execute an _insane_ amount of test cases. So, in practice, it never happens. Writing and executing the tests, that is. **Enumerative testing** is _far, far more common_ than anyone wants to admit to, because we all know it's the quick and dirty solution that we swear we're only going to do this one time because the deadlines are tight and our users are breathing down our necks. They **really, really** want to add things together.
 
 Additionally, each test case is very weak. They naively cover single problem instances, and there's no direction or reason behind each one aside from, "Well, it's something the user could want to do." The two most glaring issues with that sentiment are:
+
 1) They rely on the programmer to anticipate user behaviors
 2) They rely on the programmer to anticipate edge cases
 
@@ -98,7 +101,7 @@ While we're still using enumerated, specified test cases, our testing rigor has 
       ...  
 ```
 
-Our new tests presuppose very little. We assert these behaviors are true for __any__ integer, not just the ones we've listed. We know that our implementation _behaves_ the same way that addition should, and every observation and execution of these tests builds our confidence more and more. So, aside from running our test suite ad infinitum, how else can we build our confidence?
+Our new tests presuppose very little. We assert these behaviors are true for **any** integer, not just the ones we've listed. We know that our implementation _behaves_ the same way that addition should, and every observation and execution of these tests builds our confidence more and more. So, aside from running our test suite ad infinitum, how else can we build our confidence?
 
 ### Property Testing
 
@@ -121,26 +124,26 @@ The properties of commutativity and associativity are true, regardless of the va
 
 ### What's Next?
 
-So, we should strip out all of our tests and replace them with __Property Tests__, right?
+So, we should strip out all of our tests and replace them with **Property Tests**, right?
 
 Not exactly. Drastic action is rarely the answer. In truth, each of the three types of test above are good and necessary when used appropriately. The key is balancing work and payoff, and targeting techniques to fit the problems you're trying to solve. That's generally good advice, but here's how it specifically relates to the problem at hand.
 
-__Enumerative Testing__ is really good for quick sanity checks while coding. It helps you determine if you're on the right track and shows you what is actually happening. They're easy to do and expand upon. On top of that, I fully understand the use of paranoia/'Never Again!' test cases to make _absolutely_ certain the [big, bad bug](https://en.wikipedia.org/wiki/Big_Bad_Beetleborgs "The biggest and baddest bugs") never comes back. Been there, done that.
+**Enumerative Testing** is really good for quick sanity checks while coding. It helps you determine if you're on the right track and shows you what is actually happening. They're easy to do and expand upon. On top of that, I fully understand the use of paranoia/'Never Again!' test cases to make _absolutely_ certain the [big, bad bug](https://en.wikipedia.org/wiki/Big_Bad_Beetleborgs "The biggest and baddest bugs") never comes back. Been there, done that.
 
 The real benefit in persistent, enumerative tests are to track your edge cases. In the case of addition, the most common example is overflow. If our function handled floats and doubles, we'd also want some around rounding. If you know when a function breaks down, or where it _should_ break down, it's good to confirm that behavior. In the case of overflow, your implementation could throw an error, hard crash, or return the overflown result. It's useful to know the limitations of your code, and it helps detect underlying changes or assumptions you've made about your language and the metal it runs on.
 
-__Property Testing__ is very strong, but often limited in another way. Most functions have few invariants. Testing them is a powerful and quick way to build surety, but they are few and far between. A lot of practical application needs lack features like commutativity, idempotency, and other $10 Computer Science terms. What holds true for _every_ possible `UPDATE` statement?
+**Property Testing** is very strong, but often limited in another way. Most functions have few invariants. Testing them is a powerful and quick way to build surety, but they are few and far between. A lot of practical application needs lack features like commutativity, idempotency, and other $10 Computer Science terms. What holds true for _every_ possible `UPDATE` statement?
 
 I'm not expecting an immediate answer. It's supposed to be a difficult question. These are hard to assert and hard to write, but they cover massive ground. If there are underlying issues in the implementation, the rigidity often causes them to be the first to break. For operations grounded in mathematics, there are usually plenty of theorems you can find on Wikipedia. For more practical operations, you'll be happier the closer your implementation is to the algorithm you're implementing.
 
-__Behavior Testing__ is the nice middle-ground that will capture most of your testing needs, and may or may not require randomized data. Testing a search feature with randomized strings probably won't get you very far, unless you're really interested in the 'Not Found' path of your application. On the flip side, testing a regex against a few hard-coded strings representative of 'likely' scenario families will probably [cause more problems](https://xkcd.com/1171/ "Obligatory xkcd") than it solves.
+**Behavior Testing** is the nice middle-ground that will capture most of your testing needs, and may or may not require randomized data. Testing a search feature with randomized strings probably won't get you very far, unless you're really interested in the 'Not Found' path of your application. On the flip side, testing a regex against a few hard-coded strings representative of 'likely' scenario families will probably [cause more problems](https://xkcd.com/1171/ "Obligatory xkcd") than it solves.
 
 The relationship between input and output is where most coding starts, and it's a practical place to start your testing. The more your test cases represent behavioral scenarios, the better you'll understand the implementation and use of your functions.
 
 ### Takeaways
 
-1. A varied testing strategy will take you farther than dogma
-2. Write stronger tests before you just write more tests
-3. Use randomized data (and mutation testing, if you desire) to test the assumptions you make
+1.  A varied testing strategy will take you farther than dogma
+2.  Write stronger tests before you just write more tests
+3.  Use randomized data (and mutation testing, if you desire) to test the assumptions you make
 
 As Dijkstra says, "Testing shows the presence, not the absence of bugs." Therefore, it's important to focus on tests that target likely weak points, make bold claims, and explore as much of the application's problem domain as possible. Humans make mistakes. Your code has bugs, and finding and squashing them is crucial. The point of these test cases isn't to nit-pick through everyone else's code or testing suites, but to help search for bugs wherever they made be found.

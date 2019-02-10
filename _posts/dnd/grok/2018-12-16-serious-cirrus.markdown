@@ -51,7 +51,7 @@ He bolts up, and sees a bald gnome dressed in all black hightailing it from the 
 There appears to be a commotion and several soldiers running out, so Sif darts off too.
 The two eventually run into each other, and, due to a series of quick and incorrect assumptions by both parties, Sif ends up knocking the gnome out with his mace Estelle.
 
-Panicked, Sif stabilizes the gnome with *Spare the Dying* and hides him in a ditch.
+Panicked, Sif stabilizes the gnome with _Spare the Dying_ and hides him in a ditch.
 While moving him, Sif notices an ornate obsidian dagger with a glowing rune, and assumes that it used to belong to the soldiers, and, by extension, the villagers.
 He takes it to return, and eventually finds a quiet place to sleep for the night.
 
@@ -62,6 +62,6 @@ The soldiers have been stationed in the village for almost a year, and the last 
 Dismayed, Sif asks if he could at least help out to earn a room to stay in for the night.
 The innkeeper directs him to the direst and pressing work in town: clearing his basement of rats.
 
-[< Previous Chapter: The Alcoholic Amnesiac](/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
-|
+[&lt; Previous Chapter: The Alcoholic Amnesiac](/dnd/the-great-and-mighty-grok/the-alcoholic-amnesiac)
+\|
 [Next Chapter: The Punch Heard Round The World >](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)

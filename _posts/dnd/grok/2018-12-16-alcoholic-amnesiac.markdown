@@ -64,7 +64,7 @@ To commemorate his foe's memory, Sif takes a drink.
 The next morning, he relays the news to Tim and promises to search the rest of the island.
 After thirty minutes, he finds a cave pressed against the shoreline.
 Inside, he encounters two more goblins.
-The first one is quickly incinerated by *Sacred Flame*, and the other one is given a good taste of Estelle.
+The first one is quickly incinerated by _Sacred Flame_, and the other one is given a good taste of Estelle.
 With his foes defeated, Sif discovers why the tools had been stolen.
 All of the metal had, in a very haphazard fashion, been used to further seal shut a small crate in the corner of the cave.
 When he picks the crate up, a chill runs down his spine before he immediately bashes it open with a rock.

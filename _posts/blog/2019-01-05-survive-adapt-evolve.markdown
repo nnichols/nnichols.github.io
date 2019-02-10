@@ -129,7 +129,7 @@ How different will it be after this project?
 How different was life before we had the Internet?
 It’s natural, since that’s how we often look at species.
 
-In *Starcraft II: Heart of the Swarm* Kerrigan, the Queen of Blades and leader of the Zerg, visits Zerus, their ancient home world.
+In _Starcraft II: Heart of the Swarm_ Kerrigan, the Queen of Blades and leader of the Zerg, visits Zerus, their ancient home world.
 The jungle planet allows the player to see the Primal Zerg and how different the current race is.
 The streamlined forms to maximize aerodynamic efficiency are vastly different the spiked, hardened shells for their ancestor’s defense.
 Paleontology works the same way here on Earth.

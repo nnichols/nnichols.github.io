@@ -30,9 +30,9 @@ Left without the cash needed to secure a room for the remainder of the night, Si
 He eventually finds Gadriel studying a large pile of maps by candlelight.
 In a very long, haphazardly assembled series of slurs, Sif brings the elf up to speed.
 
-1. **Gadriel's Mineral Acquisitions** will be fully staffed after Aryn and Grok make the return trip with the rescued miners.
-2. Sif watched Grok "smash gobbies" and thinks he's a hero deserving of a raise
-3. "Some spider guys want you dead as fuck buddy"
+1.  **Gadriel's Mineral Acquisitions** will be fully staffed after Aryn and Grok make the return trip with the rescued miners.
+2.  Sif watched Grok "smash gobbies" and thinks he's a hero deserving of a raise
+3.  "Some spider guys want you dead as fuck buddy"
 
 Distraught by the news he is being hunted, Gadriel offers to pay Sif handsomely to resolve the manner and clear his mine of whatever may haunt it.
 Sif, a fully ordained priest and cleric, blessed with the sacred powers of Odo, agrees:
@@ -42,7 +42,7 @@ The elf thanks him for intervening so quickly.
 Sif walks out, saying over his shoulder, "Yeah, I'll check it out in the morning."
 
 Ignoring his own decision, Sif immediately stumbles towards the mines.
-Unable to see much of anything in the cloudy night, he casts *Light* on Estelle.
+Unable to see much of anything in the cloudy night, he casts _Light_ on Estelle.
 The mine entrance is well-supported with large wooden braces every ten feet.
 Mining picks, hammers, and other tools litter the ground.
 A strange silence fills every room, and every footstep echoes across the cold rock.
@@ -100,7 +100,7 @@ Sif peeks out and sees a goblin lazily dragging a sword stumbling into another r
 Assuming his foe is at least as drunk as he is, Sif scurries along the wall before leaping into a large dining hall.
 
 Strewn between the long benches and tables are his three foes: two goblin zombies and a large black spider with vibrant green markings along its back.
-He clasps the oak leaf carving around his neck, and it lets of a blinding burst of light as he casts *Turn Undead.*
+He clasps the oak leaf carving around his neck, and it lets of a blinding burst of light as he casts _Turn Undead._
 The zombies flee in the presence of Odo's energy, but the spider lurches forward and deals a devastating blow.
 The two trade blows, before a quick flourish of his trusty mace ends the creature's life.
 With his other foes disoriented, Sif decides to swing away with reckless abandon.
@@ -129,4 +129,4 @@ He gasps for breath, and trips over himself trying to run away.
 Crashing through the furniture he dives to the corner where he had thrown Estelle.
 After a few moments he is reunited, and is immediately over taken by a combined sense of relief of what has passed and terror of what is to come.
 
-[< Previous Chapter: A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)
+[&lt; Previous Chapter: A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)

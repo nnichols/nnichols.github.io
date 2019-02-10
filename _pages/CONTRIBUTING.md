@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributions
-permalink: /contribute/
+permalink: "/contribute/"
 ---
 
 As my personal website, blog, and documentation hub, pull requests may be rare; however, if they are in good faith, they are welcome.
@@ -14,15 +14,15 @@ Please note I have a [code of conduct](/coc), please follow it in all your inter
 
 ## Pull Requests
 
-1. Contact myself through any available means.
-2. If any change would impact the directory or URL structure of the website, be sure to update every instance of the impacted URLS to reflect any relevant differences.
-3. Build the site with jekyll to ensure no critical faults exist.
+1.  Contact myself through any available means.
+2.  If any change would impact the directory or URL structure of the website, be sure to update every instance of the impacted URLS to reflect any relevant differences.
+3.  Build the site with jekyll to ensure no critical faults exist.
 
 ### Want to contribute but don't know where to start?
 
 Improving documentation or adding examples as you learn a new project can is an easy way to pitch in. If you're looking to pitch in more extensively, check out the open [issues and feature requests](https://github.com/nnichols/nnichols.github.io/issues) and take a crack at one of them.
 
-### Our Pledge
+### Our pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 

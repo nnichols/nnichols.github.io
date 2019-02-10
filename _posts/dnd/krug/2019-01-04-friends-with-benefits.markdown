@@ -50,9 +50,10 @@ The triton motions to the tabaxi, who magically fills a phial with Krug blood.
 
 With their contract signed in literal blood, the group asks for any information that could help them locate the painting.
 Dalzos, a generous host, provides them with three leads.
-1. The Temple of the Raven Queen was robbed lost night. Believing the thieves to be amateurs, Dalzos believes they'd be dumb enough to draw that type of attention to themselves.
-2. The circus is in town, and has a less-than-stellar reputation. Even if the thieves aren't a part of the circus, nobody would notice them skulking about.
-3. Arminius is leading his own investigation, and would certainly know *something* about the suspects.
+
+1.  The Temple of the Raven Queen was robbed lost night. Believing the thieves to be amateurs, Dalzos believes they'd be dumb enough to draw that type of attention to themselves.
+2.  The circus is in town, and has a less-than-stellar reputation. Even if the thieves aren't a part of the circus, nobody would notice them skulking about.
+3.  Arminius is leading his own investigation, and would certainly know _something_ about the suspects.
 
 The group decides to talk through their plans over a drink.
 Surprising no one, they order Maltört.
@@ -65,7 +66,7 @@ A single tear rolls down the cheek of the nameless twig of a man.
 The group debates their options, but ultimately agrees the circus is the best place to start.
 The tiefling woman is excited about the prospect of finding snacks, Tlareg is excited to see a show, and Thaelen is disastrously drunk.
 Krug gives a look of disappointment.
-Acknowledging his fault, the wizard conjures up a strangely gaunt *Mage Hand* and slaps himself in the face to sober up.
+Acknowledging his fault, the wizard conjures up a strangely gaunt _Mage Hand_ and slaps himself in the face to sober up.
 
 While approaching the large yellow and red canvas tents, Thaelen passes out a silver-backed playing card to each of his associates to use as a fake ticket.
 The con-at-heart slips past the admission gate unnoticed, but the rest of the group is stopped by a seven-foot-tall orc wearing a purple and black striped vest and a clown's nose.
@@ -81,16 +82,17 @@ Thaelen decides to look for carnival games, and Tlareg wants to get his fortune 
 Thaelen finds himself walking through a sea of children playing the rigged games of his youth.
 A small child asks if the hobo wizard is his father, and Thaelen immediately walks away.
 Finding himself in a small gambling room with three total patrons, he attempts to play three card ante by using a bucket as his bet.
-He then casts *Minor Illusion* to create fake money.
-After that, he attempts to cast *Charm Person* to persuade someone, anyone to let him play.
+He then casts _Minor Illusion_ to create fake money.
+After that, he attempts to cast _Charm Person_ to persuade someone, anyone to let him play.
 Broke and denied, he decides to look for clues.
 He notices a small, goblin-like creature with dark skin dart into the shadows and assumes it is his blurred vision.
 
 Meanwhile, Tlareg finds a small, gaudy tent serving as the home of a fortune teller.
 The decorations are designed as a draw, and the entire thing reeks of a scam; however, Tlareg discerns the old, dark skinned human woman is genuine.
 He asks to see his past and his future, and, while examining his palms, she draws two tarot cards:
-1. **The Nine of Wands** - While standoffish and paranoid, it is Tlareg's resilience and determination that have driven him so far. He is focused, driven, and determined. The difficulties of his past have built up to his future.
-2. **The Ten of Wands** - The person Tlareg is looking for *can* be found; however, it will require sacrifice. Tlareg is capable of great things, but he will have to carry the weight and bear the price of his journey. In his future, he will have to decide between his destiny and accomplishments.
+
+1.  **The Nine of Wands** - While standoffish and paranoid, it is Tlareg's resilience and determination that have driven him so far. He is focused, driven, and determined. The difficulties of his past have built up to his future.
+2.  **The Ten of Wands** - The person Tlareg is looking for _can_ be found; however, it will require sacrifice. Tlareg is capable of great things, but he will have to carry the weight and bear the price of his journey. In his future, he will have to decide between his destiny and accomplishments.
 
 Tlareg reflects on the words, and asks if the woman knows of the painting.
 Seeing his all-access pass and no other customers, she offers a second telling.
@@ -121,7 +123,7 @@ They stack up at the front of the tent, and the tall man rips open the flaps.
 **"ARE YOU LITTLE BOYS BEING NAUGHTY?"**
 
 Frightened, the two Darklings try to dart away.
-The tall man casts *Eldritch Blast* and knocks the wind out of one of his foes, and yells, "Keep one safe so we can find out who's been naughty and nice!"
+The tall man casts _Eldritch Blast_ and knocks the wind out of one of his foes, and yells, "Keep one safe so we can find out who's been naughty and nice!"
 The tiefling chases after him as he tries to escape, and hefts him off the ground.
 Krug hefts 6 into the tent, and 6 attempts to tackle the other darkling.
 After seeing his half-orc brother in arms fall flat on his face, Krug roars and flies into a rage.
@@ -142,7 +144,7 @@ Tlareg, upset that he was probably ripped off, has been stuffing his bag with as
 
 After dragging the drunk back, the group makes their way back into Dalzos's lair.
 He saunters in from a back room, with his v-neck plunging to new, sleazy lows.
-With a look of shock, he asks why they brought the painting to the place he specifically *didn't* want to get raided by the city guard.
+With a look of shock, he asks why they brought the painting to the place he specifically _didn't_ want to get raided by the city guard.
 Hearing his concerns, they ask for directions to Arminius.
 They are told he stands watch at the northern gate, and that any reward they are offered should be appropriately distributed with consideration for a "consulting fee" of 20%.
 Thaelen tries to barter him down, but simultaneously agrees to pay the full 20% in Thieves' Cant.
@@ -179,10 +181,10 @@ Krug nods in approval, and they follow the man to the magistrate's estate.
 The magistrate, Otto von Westerwilt is overjoyed that the painting has been returned, and the thief apprehended.
 For their service, he hosts a small bruncheon consisting of flapjacks, eggs, coffee, and the second cheapest bottle of wine you'd find at a nice hotel bar.
 The portly, and far too cheery man grants their request, and writes a short introductory note to grant them an audience with Strahd.
-He gives them a few provisions to make the journey south, including a bottle of wine.
+He gives them a few provisions to make the journey south, including a bottle of wine and the use of one of his carts.
 Thaelen asks if they can get "one for the road," and Otto falls into a fit of high-pitched laughter.
 The party joins in for a hefty chuckle, and then poses for a freeze-framed high-five to wait until the next session.
 
-[< Previous Chapter: Where All Roads Lead](/dnd/imperial-nights/where-all-roads-lead)
-|
+[&lt; Previous Chapter: Where All Roads Lead](/dnd/imperial-nights/where-all-roads-lead)
+\|
 [Next Chapter: The State of Things >](/dnd/imperial-nights/the-state-of-things)

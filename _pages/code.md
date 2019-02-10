@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Code
-permalink: /code/
+permalink: "/code/"
 ---
 
 ## Current Repositories:
-* [nature](/code/nature)
+
+-   [nature](/code/nature)

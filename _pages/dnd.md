@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dungeons & Dragons
-permalink: /dnd/
+permalink: "/dnd/"
 ---
 
 The two campaigns I currently run are co-located on the same planet, roughly eighty years apart from each other.

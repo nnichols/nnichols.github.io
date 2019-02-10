@@ -29,7 +29,7 @@ Grok speaks little, and Sif is content to watch the rolling hills pass by.
 After camping for the night, the group prepares to set out again, but their path is blocked.
 A few felled trees stop their cart in its tracked, and the dynamic duo is ambushed by a band of goblin mercenaries.
 
-Over the next few moments, Grok sinks his axe into three of his foes, and Sif handles the remaining Goblin with *Sacred Flame.*
+Over the next few moments, Grok sinks his axe into three of his foes, and Sif handles the remaining Goblin with _Sacred Flame._
 While Grok tends to the terrified Oxen, Sif searches the bodies for treasure.
 He finds a handful of coins, as well as crude orders from a hobgoblin named Werst ordering his clan to ransack any caravans headed to Phandalin.
 Sif takes the notes, and decides he can use it to earn a larger reward, and a contract for future work.
@@ -80,7 +80,7 @@ Charging forward, they clear out the cavern until the party eventually finds the
 A flurry of slashes nearly sends Sif to his god Odo, but, thankfully, Grok saves the day.
 The unparalleled barbarian flies into a rage and crushes the hobgoblin's skull against a cavern wall.
 Sif watches on with a look of horror and astonishment.
-After tending to their injuries with *Cure Wounds*, Sif searches for information, treasure, and the missing miners.
+After tending to their injuries with _Cure Wounds_, Sif searches for information, treasure, and the missing miners.
 
 His curiosity is rewarded with a contract between Werst and a man named Casfar Felvos.
 Casfar pontificates about the dire importance of his research, before diving into the actual details of the work.
@@ -129,6 +129,6 @@ Unfortunately, Grok is needed to help sort and resell the ore, but, after that, 
 They agree to reunite at Gadriel's camp, and come up with further plans there.
 Sif signs the contract, and the crew shares in another round of ale.
 
-[< Previous Chapter: The Punch Heard Round The World](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
-|
+[&lt; Previous Chapter: The Punch Heard Round The World](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
+\|
 [Next Chapter: Sif, Alone >](/dnd/the-great-and-mighty-grok/sif-alone)

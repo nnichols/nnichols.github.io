@@ -7,7 +7,7 @@ permalink: /dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world
 description: "Sif learns that the biggest problems in life often solve themselves"
 ---
 
-Finding himself in command of the awesome and terrifying power of the gods, Sif repeatedly casts *Sacred Flame* until the diseased rats beneath the **Red Rooster Inn** are no more.
+Finding himself in command of the awesome and terrifying power of the gods, Sif repeatedly casts _Sacred Flame_ until the diseased rats beneath the **Red Rooster Inn** are no more.
 With the task at hand completed, Sif returns to Kip.
 The old man rewards Sif with a hot meal and a bed to sleep in for the night.
 Pleased with his hard work, Sif takes a drink and makes his way to his free room.
@@ -15,9 +15,9 @@ It's cramped and dark, but the mattress is soft and cool.
 
 In the middle of the night, Sif is rudely awoken by the sound of his door being kicked in.
 One of Orrinstander's soldiers has found the banished cleric.
-His foe's warhammer crushes part of the bed's frame, but Sif quickly breaks the man's will by setting him on fire a la *Sacred Flame*.
+His foe's warhammer crushes part of the bed's frame, but Sif quickly breaks the man's will by setting him on fire a la _Sacred Flame_.
 Seeing a wounded opponent Sif offers him mercy, and offers to heal him if Sif can be left alone.
-Confused, the man agrees, and Sif casts *Cure Wounds* to uphold his end of the bargain.
+Confused, the man agrees, and Sif casts _Cure Wounds_ to uphold his end of the bargain.
 He congratulates himself on another job well done, pats himself on the back, and takes another drink.
 
 The next morning, he is awoken to an even more distraught Kip yelling about the damaged door.
@@ -46,7 +46,7 @@ They're both heavily bruised, the human has a broken leg, and the young man is u
 
 "Please. Help. I don't know what he did to Terris, but he won't wake up."
 
-Sif casts *Cure Wounds* and the man begins to regain consciousness.
+Sif casts _Cure Wounds_ and the man begins to regain consciousness.
 As he wakes up, he mutters something about seeing two fish swimming in a circle over and over, and claims to have watched his soul get knocked from his body.
 The two soldiers embrace, and Sif asks what happened.
 A single human monk, dressed in solid black robes came to the camp in search of a magic torch Orrinstander owned.
@@ -56,7 +56,7 @@ When they refused again, the monk knocked the gate free with a single strike.
 While awestruck, the soldiers stood no chance, and in-turn both were knocked out in a matter of seconds.
 As the realization dawns on them, Orrinstander, horribly beaten limps out of the mining tunnel.
 Sif stands, Estelle in hand, and asks if they'll leave the village alone.
-Seeing the condition they're in, Orrinstander agrees and complains that his torch *Everbright* was stolen.
+Seeing the condition they're in, Orrinstander agrees and complains that his torch _Everbright_ was stolen.
 Sif recognizes the weapon's name as a tool of Nar, Goddess of Light, and asks what a monk would want of it.
 
 "He said he was going to destroy it. Sacrifice its power."
@@ -86,6 +86,6 @@ The cleric eagerly shares his experiences of "smashing gobbies" in Longview.
 They make a deal, and Aryn says the, quite possibly, most important words in all of Eibellion's history:
 "Perfect. It sounds like you'll get along great with the other fella too. Hey Grok, come meet our new friend."
 
-[< Previous Chapter: A Serious Problem in Cirrus](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
-|
+[&lt; Previous Chapter: A Serious Problem in Cirrus](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
+\|
 [Next Chapter: A Miner Problem >](/dnd/the-great-and-mighty-grok/a-miner-problem)

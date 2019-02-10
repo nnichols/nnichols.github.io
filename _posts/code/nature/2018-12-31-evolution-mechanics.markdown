@@ -13,35 +13,36 @@ To explain, let's start with an example not too far away from daily life: shoppi
 
 In my hometown, there was a hardware store that held a unique sale every year.
 When you walked in, you were given a brown paper grocery bag and a few simple rules:
-1. At checkout time, any item in the bag would be marked down by 11%
-2. The items in the bag couldn't pile out over the top
-3. The bag had to remain intact
-4. The offer was only good for tangible items in the store on the day of the sale
+
+1.  At checkout time, any item in the bag would be marked down by 11%
+2.  The items in the bag couldn't pile out over the top
+3.  The bag had to remain intact
+4.  The offer was only good for tangible items in the store on the day of the sale
 
 So, being well-educated consumers, we want to get the best discount possible.
 How should we formulate a strategy for picking items to go in the bag?
 In real life, we tend to use a guiding rule to help make our shopping decisions.
 Imagine evaluating how "good" the discount is for various items:
-* Cotton stuffing takes up a lot of space, and is very cheap.
-* Weed killer is expensive, but might weigh more than the bag can support.
-* A ladder can't fit in a grocery bag
-* Specialty drill bits are expensive, small, and light.
+
+-   Cotton stuffing takes up a lot of space, and is very cheap.
+-   Weed killer is expensive, but might weigh more than the bag can support.
+-   A ladder can't fit in a grocery bag
+-   Specialty drill bits are expensive, small, and light.
 
 This type of reasoning, which I like to call "napkin math," guides many of our real-life decisions: navigating, shopping, packing.
 With a bit of rigor, we can model this problem with mathematics.
 So, how do we quantify "good" and "bad" solutions?
 Let's assume we have access to the store's inventory, and can easily model each item in the store.
 For example:
-```
-{item-name: "Precision Screwdriver",
- value: $7.99,
- size: 2.3 cubic inches
- weight: 0.32 ounces
- current-stock: 8}
-```
+
+    {item-name: "Precision Screwdriver",
+     value: $7.99,
+     size: 2.3 cubic inches
+     weight: 0.32 ounces
+     current-stock: 8}
 
 From here, we could compute a relationship weighing each items value against the how much it impacts the bag's ability to fit more items.
-For example, we could say the *Precision Screwdriver* has a value of ```$7.99``` and a weighted cost of ```0.736 = 2.3 * 0.32```.
+For example, we could say the _Precision Screwdriver_ has a value of `$7.99` and a weighted cost of `0.736 = 2.3 * 0.32`.
 And now all we have to do is find the set of items with the highest value with a weighted cost that doesn't cross a specified threshold.
 Easy, right?
 
@@ -66,24 +67,23 @@ Since we're working with Genetic Algorithms, let's try to model them like our ow
 
 In our cells, each "piece" of our genetic code is marked with one of four nucleobases: adenine, cytosine, guanine, or thymine.
 You may remember seeing something like this in a Biology class:
-```
-1: A
-2: C
-3: C
-4: G
-5: C
-6: T
-...
-```
+
+    1: A
+    2: C
+    3: C
+    4: G
+    5: C
+    6: T
+    ...
+
 Often, you'd be asked to find the matching pairs; however, we can use something similar to build a genome to model solutions to our problem.
-```
-Hammers: 0
-Screwdrivers: 2
-Nails: 50
-Saw Blades: 2
-Sandpaper Sheets: 0
-...
-```
+
+    Hammers: 0
+    Screwdrivers: 2
+    Nails: 50
+    Saw Blades: 2
+    Sandpaper Sheets: 0
+    ...
 
 From here, it's very easy to imagine generating tens, hundreds, or thousands of these candidate solutions randomly.
 
@@ -103,23 +103,22 @@ Obviously, having a potential solution to a problem helps us very little if we d
 In the Knapsack Problem, we need to grade our solutions with respect to the value of all items included, how likely they are to break the bag, and if the store has enough items in stock.
 So, given each individual's genetic sequence, how can we create a relative measure of quality?
 A pseudocode evaluation function might look like the following:
-```
-score = SUM(items, ((item.count * item.value) / (item.count * item.weight)))
-```
+
+    score = SUM(items, ((item.count * item.value) / (item.count * item.weight)))
 
 In the above example, we would highly value things like portable electronics and lowly value items like insulation.
 The relationship you establish between all of your data points is crucial, because it is the criteria we're optimizing against.
 For example, the above function does not take into account the limits of our bag.
 During initialization, we may have added constraints to prevent bag-breaking solutions or more items than there are available for purchase; however, most evaluation functions allow room for solutions past problem boundaries for two reasons:
-1. The creation and modification of individuals may easily allow solutions to fall out of bounds
-2. Out-of-bound solutions may contain useful information
+
+1.  The creation and modification of individuals may easily allow solutions to fall out of bounds
+2.  Out-of-bound solutions may contain useful information
 
 That isn't to say they're allowed to cheat and get scored highly.
 In those instances, a penalty is often applied.
 For example, we could update our above score to account for the bag's weight:
-```
-score = score / (bag.capacity - items.weight)
-```
+
+    score = score / (bag.capacity - items.weight)
 
 Obviously, this solution needs to account for dividing by 0; however, it now **greatly** favors solutions close to, but under, the weight limit.
 This could be further modified to account for item inventory, or adjusted with weights to each component of a solution differently.
@@ -127,15 +126,15 @@ Tuning evaluation functions depends greatly upon the genome and problem on hand.
 Mathematic optimization functions involve simple calculations like the above, optimization functions based on real world data with constraints and other considerations is far more difficult.
 
 In parallel in biology would be very hard to compute.
-*Fitness Functions* are named as such because they model the probability an organism can survive long enough to reproduce.
-Creating a model to determine *that* probability would be very difficult, and is why Actuarial Science has spun off into its own entire field.
+_Fitness Functions_ are named as such because they model the probability an organism can survive long enough to reproduce.
+Creating a model to determine _that_ probability would be very difficult, and is why Actuarial Science has spun off into its own entire field.
 Plugging the numbers into an existing model is very easy to do.
 As was the case with **Initialization**, a lot of the work is done before coding begins.
 Thankfully, using our data model is far easier than creating it.
 
 ## [Selection](/code/nature/selection)
 
-If *Fitness Functions* are the probability model that an organism can survive long enough to reproduce, then *Selection* is the use of that model.
+If _Fitness Functions_ are the probability model that an organism can survive long enough to reproduce, then _Selection_ is the use of that model.
 By using the fitness scores we assigned in the prior phase, we have a great tool to sample our solution pool.
 For example, a solution with a very high value and little weight is more important to hold on to a bag full of hammers.
 In most implementations, each individual is selected fairly with a probability of their fitness score against the aggregate fitness score of the entire population.
@@ -150,7 +149,7 @@ In turn, each part of their genetic sequence probably solves part of our problem
 Within the realm of our example, a bag worth $500 under the weight limit is probably full of items that min-max weight:value, like batteries.
 The amount of each item we've taken contributes to the overall quality of the solution, and we want to use that meta-information to build better solutions.
 
-At a conceptual level, *Reproduction* is the name for the class of functions from 2 or more individuals mapping to 1 or more individuals.
+At a conceptual level, _Reproduction_ is the name for the class of functions from 2 or more individuals mapping to 1 or more individuals.
 Much like actual biology, we use information from multiple genomes to construct a new genome that is (hopefully) more adept at survival.
 To ground it back in a tangible example, by knowing the quantity of portable electronics and batteries purchased in two high-quality solutions, we could hypothesize a new shopping list containing both.
 
@@ -166,9 +165,9 @@ So, let's look at how this function may work without shopping example.
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
-| Child        | *0*     | *2*          | *50*   | **4**        | **10** |
+| Child        | _0_     | _2_          | _50_   | **4**        | **10** |
 
 <br />
 As you can see, the child inherits the first three alleles (Hammers, Screwdrivers, and Nails) from parent A.
@@ -178,10 +177,10 @@ Additionally, to save computational effort, generally two complementary individu
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
-| Child C      | *0*     | *2*          | *50*   | **4**        | **10** |
-| Child D      | **7**   | **0**        | **25** | *10*         | *4*    |
+| Child C      | _0_     | _2_          | _50_   | **4**        | **10** |
+| Child D      | **7**   | **0**        | **25** | _10_         | _4_    |
 
 ### Fitness Based Scanning
 
@@ -194,7 +193,7 @@ Given the following parents:
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
 
 <br />
@@ -206,9 +205,9 @@ Like selection, we're relying on the natural pressures asserted by probability a
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
-| Child        | *0*     | **0**        | *50*   | *10*         | **10** |
+| Child        | _0_     | **0**        | _50_   | _10_         | **10** |
 
 ## [Mutation](/code/nature/mutation)
 
@@ -224,10 +223,10 @@ That being said, any allele-centric function may be used.
 In the case of an integer genome, like the one in our example, we could exchange it with an incrementing or decrementing function.
 In either case, this is what the result could look like:
 
-| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
-| :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Original*   | *0*     | *2*          | *50*   | *10*         | *4*    |
-| **Mutant**   | **1**   | **2**        | **50** | **10**       | **4**  |
+| Solution ID | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :---------- | :------ | :----------- | :----- | :----------- | :----- |
+| _Original_  | _0_     | _2_          | _50_   | _10_         | _4_    |
+| **Mutant**  | **1**   | **2**        | **50** | **10**       | **4**  |
 
 <br />
 Note that the genetic sequences are nearly identical.
@@ -244,12 +243,13 @@ This cycle is ultimate architecture pattern of Genetic Algorithms.
 The passing of each generator can include transition functions of its own, this time on the scale of entire populations.
 
 To preserve the best solution(s), and ensure the algorithm's quality does not decrease over time, the elite individual from each generation is typically copied into the next generation.
-This may be further extended, copying the top *n* individuals between generations, but this must be balanced between preserving quality and premature convergence.
+This may be further extended, copying the top _n_ individuals between generations, but this must be balanced between preserving quality and premature convergence.
 
 In either case, this process often repeats until one of three criteria is met:
-1. A pre-determined number of generations has passed
-2. A fitness threshold is crossed by the elite or by the average individual
-3. Convergence
+
+1.  A pre-determined number of generations has passed
+2.  A fitness threshold is crossed by the elite or by the average individual
+3.  Convergence
 
 The first criteria is straightforward.
 Without intervention, this cycle could execute indefinitely, and execution time can easily be controlled artificially.

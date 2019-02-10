@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: "/blog/"
 ---
 
 ## [Testing Addition](/blog/testing-addition)
+
 How would you test addition?
 No, seriously, how would you go about testing something like addition?
 I know what you’re thinking, “It’s such a primitive language feature! Why would anyone actually test that?”
@@ -12,11 +13,13 @@ Obviously, I’m not advocating that you add test cases for every fundamental la
 Rather, I want to use this admittedly insane example to talk about testing practices and what gets glossed over and missed.
 
 ## [JSON Nesting](/blog/json-nesting)
+
 If you are one of the lucky ducks that uses PostgreSQL, you likely already know that as of 9.4, that Binary JSON is fully supported!
 And NoSQL… sorta.
 We’re still in Postgres, so maybe NotAllThatMuchSQL?
 
 ## [First Forty-Five](/blog/first-forty-five)
+
 I somewhat recently (within the last quarter) made a career jump; however, my transition is not what I want to talk about.
 No, today I want to talk about on-boarding and off-boarding from the perspective of an organization.
 Over my career, I’ve spent 5 summers as an intern, 5 years working with interns and recent hires, and undergone my recent transition myself.
@@ -25,6 +28,7 @@ These have always been elective duties.
 Why?
 
 ## [All Aboard](/blog/all-aboard)
+
 So, you finally got that new developer you’ve been looking for!
 This is fantastic!
 You’ll be able to chip away at your backlog (which has been growing out of control lately), get a flood of new ideas, and bring your product forward by leaps and bounds!

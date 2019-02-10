@@ -21,11 +21,13 @@ And so on and so forth until we've had our fill of data.
 Thanks to the recent updates, we can efficiently query through exciting JSON much like our plain, boring columns.
 
 **SQL**
+
 ```SQL
 SELECT * FROM table WHERE index = 1;
 ```
 
 **PostgreSQL JSON**
+
 ```SQL
 SELECT * FROM table WHERE data->>'title' = 'JSON Article';
 ```
@@ -33,11 +35,13 @@ SELECT * FROM table WHERE data->>'title' = 'JSON Article';
 We can aggregate!
 
 **Boring SQL**
+
 ```SQL
 SELECT count(*) FROM table WHERE index > 10;
 ```
 
 **Radical NoSQL**
+
 ```SQL
 SELECT count(*) FROM table WHERE data ? 'title';
 ```
@@ -45,19 +49,22 @@ SELECT count(*) FROM table WHERE data ? 'title';
 We can even index!
 
 **The SQL They Taught Your Dad**
+
 ```SQL
 CREATE INDEX idx ON table ((lower(special_identifier)));
 ```
 
 **Forbidden JSON Techniques The Man Tried To Hide From You**
+
 ```SQL
 CREATE INDEX jsonidx ON table ((data->>'title'));
 ```
 
 Okay, from a syntactic point of view, not a lot has changed. Our data is still in a table, after all. So, what's the big deal? Why do we want large, unstructured blocks of data in a paradigm based on structure and relationships? Well, if you've ever read a MongoDB forum, or visited a Slack channel for web developers, or happened to be at a bus stop with a developer who has, at one point, heard of NoSQL, you'll invariably hear one of three answers:
-1. Minimize relationship complexity
-2. Maximize schema flexibility
-3. [You turn it on and it scales right up](https://www.youtube.com/watch?v=b2F-DItXtZs "Every MongoDB argument to date")
+
+1.  Minimize relationship complexity
+2.  Maximize schema flexibility
+3.  [You turn it on and it scales right up](https://www.youtube.com/watch?v=b2F-DItXtZs "Every MongoDB argument to date")
 
 I lack the emotional fortitude to jump into raw metal v metal performance <s>pissing contests</s> discussions. We can analyze the first two points at a syntactic and ideologic level, without having to worry (too much) about configurations. With everything above in mind, let's talk about `INSERT.`
 
@@ -166,7 +173,7 @@ Humans are fickle beings, and our interests change all of the time.
 One morning, Trey decides he has had it up to here with American comedies, and binge watches a ton of Asian Rom-Coms.
 He has to tell the world about it, our website included.
 So, how do we add a show in the comedy category?
-With our large, growing website and the possibility of shared accounts, we want to make sure it's simple, thread-safe, and doesn't rely on *a priori* information.
+With our large, growing website and the possibility of shared accounts, we want to make sure it's simple, thread-safe, and doesn't rely on _a priori_ information.
 
 So, how do we do it?
 Typically, these scenarios call for the Postgres portmanteau [upsert](https://en.wiktionary.org/wiki/upsert).
@@ -226,4 +233,4 @@ DO UPDATE SET likes =
 
 In short: If you care about the structure of your data, use a structured format. In the name of never doing another join again, we've created an absolute disaster. Is this type of querying worth the flexibility when spinning up resources is so simple?
 
-The multi-paradigm approach is awkward, especially in the case of a true update. As many Java developers can tell you, it *is* possible for one framework/technology/language to support too many paradigms. In fact, any number greater than one is usually too much. Remember, using the right technology is better than using *the* technology.
+The multi-paradigm approach is awkward, especially in the case of a true update. As many Java developers can tell you, it _is_ possible for one framework/technology/language to support too many paradigms. In fact, any number greater than one is usually too much. Remember, using the right technology is better than using _the_ technology.

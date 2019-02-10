@@ -19,10 +19,10 @@ That being said, any allele-centric function may be used.
 In the case of an integer genome, like the one in our example, we could exchange it with an incrementing or decrementing function.
 In either case, this is what the result could look like:
 
-| Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
-| :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Original*   | *0*     | *2*          | *50*   | *10*         | *4*    |
-| **Mutant**   | **1**   | **2**        | **50** | **10**       | **4**  |
+| Solution ID | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
+| :---------- | :------ | :----------- | :----- | :----------- | :----- |
+| _Original_  | _0_     | _2_          | _50_   | _10_         | _4_    |
+| **Mutant**  | **1**   | **2**        | **50** | **10**       | **4**  |
 
 <br />
 Note that the genetic sequences are nearly identical.
@@ -32,9 +32,10 @@ As successful genetic patterns are copied, they may begin to prematurely converg
 With small, infrequent changes, solutions may hop towards nearby potential regions that could have been ignored.
 
 #### Genetic Algorithm Phases:
-1. [Initialization](/code/nature/initialization)
-2. [Fitness Evaluation](/code/nature/fitness-evaluation)
-3. [Selection](/code/nature/selection)
-4. [Reproduction](/code/nature/reproduction)
-5. **Mutation**
-6. [Generation Advancement and Termination](/code/nature/termination)
+
+1.  [Initialization](/code/nature/initialization)
+2.  [Fitness Evaluation](/code/nature/fitness-evaluation)
+3.  [Selection](/code/nature/selection)
+4.  [Reproduction](/code/nature/reproduction)
+5.  **Mutation**
+6.  [Generation Advancement and Termination](/code/nature/termination)

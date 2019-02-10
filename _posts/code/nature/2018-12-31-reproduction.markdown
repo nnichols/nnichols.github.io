@@ -13,7 +13,7 @@ In turn, each part of their genetic sequence probably solves part of our problem
 Within the realm of our example, a bag worth $500 under the weight limit is probably full of items that min-max weight:value, like batteries.
 The amount of each item we've taken contributes to the overall quality of the solution, and we want to use that meta-information to build better solutions.
 
-At a conceptual level, *Reproduction* is the name for the class of functions from 2 or more individuals mapping to 1 or more individuals.
+At a conceptual level, _Reproduction_ is the name for the class of functions from 2 or more individuals mapping to 1 or more individuals.
 Much like actual biology, we use information from multiple genomes to construct a new genome that is (hopefully) more adept at survival.
 To ground it back in a tangible example, by knowing the quantity of portable electronics and batteries purchased in two high-quality solutions, we could hypothesize a new shopping list containing both.
 
@@ -29,9 +29,9 @@ So, let's look at how this function may work with out shopping example.
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
-| Child        | *0*     | *2*          | *50*   | **4**        | **10** |
+| Child        | _0_     | _2_          | _50_   | **4**        | **10** |
 
 <br />
 As you can see, the child inherits the first three alleles (Hammers, Screwdrivers, and Nails) from parent A.
@@ -41,10 +41,10 @@ Additionally, to save computational effort, generally two complementary individu
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
-| Child C      | *0*     | *2*          | *50*   | **4**        | **10** |
-| Child D      | **7**   | **0**        | **25** | *10*         | *4*    |
+| Child C      | _0_     | _2_          | _50_   | **4**        | **10** |
+| Child D      | **7**   | **0**        | **25** | _10_         | _4_    |
 
 ### Fitness Based Scanning
 
@@ -57,7 +57,7 @@ Given the following parents:
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
 
 <br />
@@ -69,14 +69,15 @@ Like selection, we're relying on the natural pressures asserted by probability a
 
 | Solution ID  | Hammers | Screwdrivers | Nails  | AA Batteries | Screws |
 | :----------- | :------ | :----------- | :----- | :----------- | :----- |
-| *Parent A*   | *0*     | *2*          | *50*   | *10*         | *4*    |
+| _Parent A_   | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
-| Child        | *0*     | **0**        | *50*   | *10*         | **10** |
+| Child        | _0_     | **0**        | _50_   | _10_         | **10** |
 
 #### Genetic Algorithm Phases:
-1. [Initialization](/code/nature/initialization)
-2. [Fitness Evaluation](/code/nature/fitness-evaluation)
-3. [Selection](/code/nature/selection)
-4. **Reproduction**
-5. [Mutation](/code/nature/mutation)
-6. [Generation Advancement and Termination](/code/nature/termination)
+
+1.  [Initialization](/code/nature/initialization)
+2.  [Fitness Evaluation](/code/nature/fitness-evaluation)
+3.  [Selection](/code/nature/selection)
+4.  **Reproduction**
+5.  [Mutation](/code/nature/mutation)
+6.  [Generation Advancement and Termination](/code/nature/termination)
