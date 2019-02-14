@@ -14,7 +14,7 @@ permalink: "/sitemap/"
 -   [Blog](/blog)
 -   [Legacy Blog](/blog/legacy)
 -   [GitHub Profile](https://github.com/nnichols)
--   [Code of Conduct](/coc/)
+-   [Code of Conduct](/COC/)
 -   [Contributions](/contribute/)
 
 ## Library Pages

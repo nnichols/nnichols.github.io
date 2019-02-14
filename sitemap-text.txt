@@ -2,7 +2,7 @@ https://nnichols.github.io/index
 https://nnichols.github.io/about
 https://nnichols.github.io/sitemap
 https://nnichols.github.io/twitter
-https://nnichols.github.io/coc
+https://nnichols.github.io/COC
 https://nnichols.github.io/contribute
 https://nnichols.github.io/dnd
 https://nnichols.github.io/dnd/the-great-and-mighty-grok
