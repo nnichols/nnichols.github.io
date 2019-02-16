@@ -46,6 +46,8 @@ permalink: "/sitemap/"
 
 -   [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
 -   [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
+-   [Carras Rosestem's Anthropology Mysticum](/dnd/carras-rosestem-anthopology-mysticum)
+    -   [Animus](/dnd/carras-rosestem-anthopology-mysticum/animus)
 
 ## D&D Campaign Logs (Play Order):
 
@@ -56,9 +58,11 @@ permalink: "/sitemap/"
 3.  [The Punch Heard Round The World](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
 4.  [A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)
 5.  [Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
+6.  [Visions Of The Past](/dnd/the-great-and-mighty-grok/visions-of-the-past)
 
 ### [Imperial Nights:](/dnd/imperial-nights)
 
 1.  [Where All Roads Lead](/dnd/imperial-nights/where-all-roads-lead)
 2.  [Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
 3.  [The State Of Things](/dnd/imperial-nights/the-state-of-things)
+4.  [An Invitation](/dnd/imperial-nights/an-invitation)
