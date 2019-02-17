@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Carras Rosestem's Anthropology Mysticum"
-date:   2019-02-17 12:12:12 -0600
+title:  "Animus"
+date:   2019-02-17 02:12:12 -0600
 categories: dungeons dragons character options class race background
 permalink: /dnd/carras-rosestem-anthropology-mysticum/animus
 description: "While it is a well-known fact that many Druidic tribes can take the forms of animals, few can truly harness these abilities."

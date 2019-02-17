@@ -21,6 +21,10 @@ permalink: "/sitemap/"
 
 -   [nature](/code/nature)
     -   [Introduction](/code/nature/intro)
+    -   [Repository](https://github.com/nnichols/nature)
+    -   [Documentation](https://cljdoc.org/d/nature/nature/CURRENT)
+    -   [Unit Tests](https://nnichols.github.io/nature/coverage/index.html)
+    -   [Release](https://clojars.org/nature)
     -   [Evolution Mechanics](/code/nature/evolution-mechanics)
         -   [Initialization](/code/nature/initialization)
         -   [Fitness Evaluation](/code/nature/fitness-evaluation)
@@ -28,10 +32,6 @@ permalink: "/sitemap/"
         -   [Reproduction](/code/nature/reproduction)
         -   [Mutation](/code/nature/mutation)
         -   [Generation Advancement and Termination](/code/nature/termination)
-    -   [Repository](https://github.com/nnichols/nature)
-    -   [Documentation](https://cljdoc.org/d/nature/nature/CURRENT)
-    -   [Unit Tests](https://nnichols.github.io/nature/coverage/index.html)
-    -   [Release](https://clojars.org/nature)
 
 ## Engineering And Culture Posts (Chronologically Ordered):
 
