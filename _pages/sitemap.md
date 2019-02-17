@@ -28,6 +28,10 @@ permalink: "/sitemap/"
         -   [Reproduction](/code/nature/reproduction)
         -   [Mutation](/code/nature/mutation)
         -   [Generation Advancement and Termination](/code/nature/termination)
+    -   [Repository](https://github.com/nnichols/nature)
+    -   [Documentation](https://cljdoc.org/d/nature/nature/CURRENT)
+    -   [Unit Tests](https://nnichols.github.io/nature/coverage/index.html)
+    -   [Release](https://clojars.org/nature)
 
 ## Engineering And Culture Posts (Chronologically Ordered):
 
@@ -42,12 +46,12 @@ permalink: "/sitemap/"
 -   [Survive. Adapt. Evolve.](/blog/legacy/survive-adapt-evolve)
 -   [Pay It Back by Paying It Forward](/blog/legacy/payback)
 
-## D&D Posts (Chronologically Ordered):
+## D&D Posts:
 
 -   [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
 -   [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
--   [Carras Rosestem's Anthropology Mysticum](/dnd/carras-rosestem-anthopology-mysticum)
-    -   [Animus](/dnd/carras-rosestem-anthopology-mysticum/animus)
+-   [Carras Rosestem's Anthropology Mysticum](/dnd/carras-rosestem-anthropology-mysticum)
+    -   [Animus](/dnd/carras-rosestem-anthropology-mysticum/animus)
 
 ## D&D Campaign Logs (Play Order):
 
