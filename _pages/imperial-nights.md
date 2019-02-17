@@ -26,3 +26,10 @@ They have less than two days before their strange new friends will be thrown in 
 Confusion, misunderstandings, and tensions mount as Krug 'n' Krew press deeper and deeper into Barovia.
 Each day brings new mysteries and new questions into the fold.
 The time has come to discover. where our party's allegiances lie: to Barovia, to the people, or to themselves.
+
+## [Chapter 4: An Invitation](/dnd/imperial-nights/an-invitation)
+
+Fleeing into the night, Krug 'n' Krew now find themselves at the gates of Ravensloft.
+The ancient city is filled with rich history and dark secrets.
+As our heroes prepare to contact Count Strahd, an unsettling series of events puts them on edge.
+What unseen forces are at play?
