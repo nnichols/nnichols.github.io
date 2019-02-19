@@ -14,13 +14,17 @@ permalink: "/sitemap/"
 -   [Blog](/blog)
 -   [Legacy Blog](/blog/legacy)
 -   [GitHub Profile](https://github.com/nnichols)
--   [Code of Conduct](/COC/)
+-   [Code of Conduct](/coc/)
 -   [Contributions](/contribute/)
 
 ## Library Pages
 
 -   [nature](/code/nature)
     -   [Introduction](/code/nature/intro)
+    -   [Repository](https://github.com/nnichols/nature)
+    -   [Documentation](https://cljdoc.org/d/nature/nature/CURRENT)
+    -   [Unit Tests](https://nnichols.github.io/nature/coverage/index.html)
+    -   [Release](https://clojars.org/nature)
     -   [Evolution Mechanics](/code/nature/evolution-mechanics)
         -   [Initialization](/code/nature/initialization)
         -   [Fitness Evaluation](/code/nature/fitness-evaluation)
@@ -42,10 +46,12 @@ permalink: "/sitemap/"
 -   [Survive. Adapt. Evolve.](/blog/legacy/survive-adapt-evolve)
 -   [Pay It Back by Paying It Forward](/blog/legacy/payback)
 
-## D&D Posts (Chronologically Ordered):
+## D&D Posts:
 
 -   [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
 -   [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
+-   [Carras Rosestem's Anthropology Mysticum](/dnd/carras-rosestem-anthropology-mysticum)
+    -   [Animus](/dnd/carras-rosestem-anthropology-mysticum/animus)
 
 ## D&D Campaign Logs (Play Order):
 
@@ -56,12 +62,14 @@ permalink: "/sitemap/"
 3.  [The Punch Heard Round The World](/dnd/the-great-and-mighty-grok/the-punch-heard-round-the-world)
 4.  [A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)
 5.  [Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
+6.  [Visions Of The Past](/dnd/the-great-and-mighty-grok/visions-of-the-past)
 
 ### [Imperial Nights:](/dnd/imperial-nights)
 
 1.  [Where All Roads Lead](/dnd/imperial-nights/where-all-roads-lead)
 2.  [Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
 3.  [The State Of Things](/dnd/imperial-nights/the-state-of-things)
+4.  [An Invitation](/dnd/imperial-nights/an-invitation)
 
 ## Dark Heresy Campaign Logs (Play Order):
 

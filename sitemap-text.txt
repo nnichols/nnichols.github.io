@@ -2,7 +2,7 @@ https://nnichols.github.io/index
 https://nnichols.github.io/about
 https://nnichols.github.io/sitemap
 https://nnichols.github.io/twitter
-https://nnichols.github.io/COC
+https://nnichols.github.io/coc
 https://nnichols.github.io/contribute
 https://nnichols.github.io/dnd
 https://nnichols.github.io/dnd/the-great-and-mighty-grok
@@ -47,3 +47,7 @@ https://nnichols.github.io/dj-marky-markov/coverage/dj_marky_markov/core.clj.htm
 https://nnichols.github.io/warhammer
 https://nnichols.github.io/warhammer/ordo-ineptus
 https://nnichols.github.io/warhammer/ordo-ineptus/the-hejeria-incident
+https://nnichols.github.io/dnd/imperial-nights/an-invitation
+https://nnichols.github.io/dnd/the-great-and-mighty-grok/visions-of-the-past
+https://nnichols.github.io/dnd/carras-rosestem-anthropology-mysticum
+https://nnichols.github.io/dnd/carras-rosestem-anthropology-mysticum/animus

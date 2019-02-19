@@ -41,3 +41,9 @@ What new foes and friends will our two intrepid adventurers encounter?
 With new mysteries come new opportunities.
 Sif continues to follow the threads in the Web of the Black Spider, but will it result in getting captured or discovering new power?
 Without assistance, Sif will have to rely on himself alone, even if he barely knows who that is.
+
+## [Chapter 6: Visions Of The Past](/dnd/the-great-and-mighty-grok/visions-of-the-past)
+
+Shaken to the core, Sif must press further and further into the Web of the Black Spider to complete his mission while fighting for his very existence.
+Will the mysteries of the necromancer's lair kill the cleric, or far worse?
+The only thing he knows for certain is that the only way out is through.

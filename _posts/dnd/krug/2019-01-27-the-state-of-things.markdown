@@ -176,6 +176,8 @@ His body lies in the center of a formation not unlike that found in the book the
 They investigate the scene, but find no signs of a struggle nor clues to the identity of the murderer.
 Bemril pleads the group to seek the aid of the **Belgrave Consortium,** but the group flees the scene, fearing they'll be framed.
 
-With the horrors behind them, they press onward to Ravensloft. 
+With the horrors behind them, they press onward to Ravensloft.
 
 [&lt; Previous Chapter: Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
+|
+[Next Chapter: An Invitation](/dnd/imperial-nights/an-invitation)
