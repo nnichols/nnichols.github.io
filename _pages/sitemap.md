@@ -67,4 +67,4 @@ permalink: "/sitemap/"
 
 ### [Ordo Inpetus:](/warhammer/ordo-ineptus)
 
-1.  [Warp, Warp Baby](/warhammer/ordo-ineptus/warp-warp-baby)
+1.  [The Hejeria Incident](/warhammer/ordo-ineptus/the-hejeria-incident)

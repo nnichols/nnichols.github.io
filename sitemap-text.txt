@@ -46,4 +46,4 @@ https://nnichols.github.io/dj-marky-markov/coverage/index.html
 https://nnichols.github.io/dj-marky-markov/coverage/dj_marky_markov/core.clj.html
 https://nnichols.github.io/warhammer
 https://nnichols.github.io/warhammer/ordo-ineptus
-https://nnichols.github.io/warhammer/ordo-ineptus/warp-warp-baby
+https://nnichols.github.io/warhammer/ordo-ineptus/the-hejeria-incident
