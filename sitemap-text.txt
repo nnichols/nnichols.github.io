@@ -42,6 +42,11 @@ https://nnichols.github.io/nature/coverage/nature/spec.clj.html
 https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-miner-problem
 https://nnichols.github.io/dnd/the-great-and-mighty-grok/sif-alone
 https://nnichols.github.io/dnd/imperial-nights/the-state-of-things
+https://nnichols.github.io/dj-marky-markov/coverage/index.html
+https://nnichols.github.io/dj-marky-markov/coverage/dj_marky_markov/core.clj.html
+https://nnichols.github.io/warhammer
+https://nnichols.github.io/warhammer/ordo-ineptus
+https://nnichols.github.io/warhammer/ordo-ineptus/the-herejia-incident
 https://nnichols.github.io/dnd/imperial-nights/an-invitation
 https://nnichols.github.io/dnd/the-great-and-mighty-grok/visions-of-the-past
 https://nnichols.github.io/dnd/carras-rosestem-anthropology-mysticum

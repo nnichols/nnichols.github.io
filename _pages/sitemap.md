@@ -70,3 +70,9 @@ permalink: "/sitemap/"
 2.  [Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
 3.  [The State Of Things](/dnd/imperial-nights/the-state-of-things)
 4.  [An Invitation](/dnd/imperial-nights/an-invitation)
+
+## Dark Heresy Campaign Logs (Play Order):
+
+### [Ordo Inpetus:](/warhammer/ordo-ineptus)
+
+1.  [The Herejia Incident](/warhammer/ordo-ineptus/the-herejia-incident)
