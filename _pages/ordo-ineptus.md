@@ -9,5 +9,5 @@ Follow the story of our so-called heroes as they solve every mystery the univers
 
 ## [Missive 1: The Herejia Incident](/warhammer/ordo-ineptus/the-herejia-incident)
 
-Hot off a case on Manufactora, the gang follows their next hottest lead: skyrocketing numbers of slaves ordered to fulfil the Holy Emporer's will, but no requisite increase in the production of servitors.
+Hot off a case on Manufactora, the gang follows their next hottest lead: skyrocketing numbers of slaves ordered to fulfill the Holy Emporer's will, but no requisite increase in the production of servitors.
 As the investigation unfolds, a darker fate is revealed in a new, bloody encounter.

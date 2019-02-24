@@ -11,7 +11,7 @@ description: "Chaos holds nothing sacred, not even grenades."
 
 **ISSUING AUTHORITY:** Inquisitor Farnsworth, Ordo Hereticus
 
-**AFFECTED WORLD:** HEJERIA, CLASS ETA
+**AFFECTED WORLD:** HEREJIA, CLASS ETA
 
 After the events on Manufactora, Ordo Ineptus began sifting through the dataslates and intelligence collected from the Mago's office.
 After two days, the only clue they found was an increase in the number of slaves being requisitioned from a neighboring planet, Herejia.
