@@ -75,4 +75,4 @@ permalink: "/sitemap/"
 
 ### [Ordo Inpetus:](/warhammer/ordo-ineptus)
 
-1.  [The Hejeria Incident](/warhammer/ordo-ineptus/the-hejeria-incident)
+1.  [The Herejia Incident](/warhammer/ordo-ineptus/the-herejia-incident)
