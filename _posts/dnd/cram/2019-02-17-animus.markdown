@@ -7,4 +7,434 @@ permalink: /dnd/carras-rosestem-anthropology-mysticum/animus
 description: "While it is a well-known fact that many Druidic tribes can take the forms of animals, few can truly harness these abilities."
 ---
 
-More coming soon!
+The sun was slowly falling beyond the rolling dunes when I first laid eyes upon Marachesia.
+I don't know if it was a hallucination from the two weeks I had spent in the desert, an arcane trick, or a fortunate wind, but the faint scents of beautiful spices and exquisite perfumes still reached my nose.
+In a trance, I shuffled down towards the city as small lanterns and torches began to flicker with light.
+As I was lead towards the city gates I could begin to make out tapestries and banners of all shades and colors: purples, teals, greens, and yellows.
+Each caught the sun's final rays and glistened like gems.
+Each danced in the momentary desert breeze.
+
+As night settled in, I was able to make my way to the Runic Alley- a proud and storied arcane market.
+The sounds of laughter and music echoed in the otherwise empty and still pathway.
+Somewhere in this tangled mess of oddly shaped and styled buildings, I would find my contact.
+As I began to fumble my way through my hastily recorded directions, a stranger knocked into me.
+"Many apologies," he whispered as he slunk away.
+
+No stranger to the ways of the cities, I managed to grab him by the hand.
+Well, paw that is.
+I found a small satchel of residuum I normally carry firmly caught between his nimble fingers.
+As I met his eyes, a toothy smile spread across his face, "Turu said you would be fast."
+His fingers loosened, and the pouch dropped into my hands.
+"He said the same about you," I replied.
+After a short moment, he led me from the dark passage and into a dingy bar a few block down.
+
+I reached for the door, but found his arm in the way.
+"Before you go in, know this.
+Many come to stare and point, but they do not stay for long.
+You understand this?"
+
+"Yes. I'm here for research, not mockery."
+
+"Good answer."
+As the door swung open, I took a moment to let reality catch up to me.
+There, in the middle of the desert, I saw a race of humanoids so elusive, many believed them to be bar tales-  half-human, half-animal.
+The Animus blend the physiologies of their forms perfectly, taking strength from both halves of their blood.
+As my eyes quickly glanced across the room, I saw the forms of canines, owls, and many more beasts.
+
+Realizing I had stopped moving, I composed myself.
+I nodded to the few who made eye contact with me, and took a seat in the corner with my strange new friend.
+"So," he started, "where should we begin?"
+
+### The Strength of The Many
+
+Unlike the Tabaxi, Lizardfolk, and Kenku, the peoples joined under the umbrella title of Animus were not originally born in these forms.
+According to the little research I've been able to find, the Animus first emerged from the Druidic tribes near Bal'Gorod.
+After an unknown conflict, a smaller group splintered off and began their journey east.
+As they wandered the vastly complex geography from the bogs, through the mountains, drylands, and deserts they began to intentionally shape their bodies.
+
+While it is a well-known fact that many Druidic tribes can take the forms of animals, few can truly harness these abilities.
+Over a long time, the wanderers began to change their forms permanently- taking strengths and inspiration from nature.
+From their original forms, they maintained their mental prowess and bipedal nature.
+Thus, they adapted to thrive in the darkness and live off of the wilderness.
+
+Each form of Animus is unique, and brings individual strengths to the tribe.
+The physical forms of the Bovus and Equus clans are specimens to behold.
+The Raccatoo and Stirixi peoples bring deftness and cunning.
+The social and communal fabric is the product of the Canus and the Hominus.
+
+As the acolytes of the goddess Shu know, "All things are connected."
+This could not be more true of the Animus.
+Their unique society exists because of the individual talents of those who make up the race.
+While virtually all members are now naturally born into this race, there are still some that know the ancient magics.
+I feel this fits the proud people of this community.
+They are born of a unique gift that all too many have forgotten.
+
+#### Other Subraces
+While I have done my best to identify each of the major subraces of the Animus, it is possible I may have missed some.
+Many are fiercely independent, and guard their true natures carefully.
+I may have also missed the odd passer-by in my ignorance.
+Should you uncover any specimens of this race not cataloged here, please direct them to Kern's Curio in Ishtar.
+Inform them, if they are willing, that Carras Rosestem will offer them mystical services for their troubles in exchange for the opportunity to learn from them.
+
+### All Things Are Earned
+
+It is an unfortunate truth that the world is cruel.
+It is far more unfortunate that cruelty is often a choice.
+As is all too often the case, the Animus have learned to be cautious and distrusting of outsiders.
+It is not meant as a token of disrespect, but a mechanism for survival.
+When I first entered Marachesia, I was the outsider.
+It took many weeks of cooperative research, favors, and purchased drinks to earn a place among these fascinating souls.
+
+The Animus are proud of their communities, and share an incredible bond between one another.
+But, nobody eats for free.
+Individuals must earn their place in the group, and respect is the most valuable social currency.
+Once earned, it cannot be ignored.
+One lost, it cannot be regained.
+In human society, it is common to introduce yourself with you family's name.
+In this community, you share your contributions to the whole.
+Carras Rosestem was meaningless.
+Carras the Researcher placed me in the social standings.
+
+When establishing a relationship, don't jump to personal stories or financial offerings.
+Instead, offer a minor service.
+The cooking of a meal or the completion of a simple task.
+During my first few days, simple cantrips to mend and clean earned me more notability than ever before.
+In most societies, this would be as bartering.
+In this case, I was proving my genuine interest in their culture by investing my time and labor.
+As one put it, "Spending money is easy. Spending time is hard."
+
+## Unifying Traits
+
+### Personality
+While mostly taking personality traits from their humanoid halves, the Animus are still influenced by animalistic natures.
+Even those born naturally to long blood lines display leftover quirks.
+The most common behaviors are noted below:
+
+| d8 | Vestigial Behavior                                                                               |
+|:-- |:------------------------------------------------------------------------------------------------ |
+| 1  | I find beds uncomfortable, and prefer to sleep on something sturdy.                              |
+| 2  | Sleeping during the day feels natural. I'd rather stay up all night.                             |
+| 3  | Strange things startle me. I feel anxious/defensive at the drop of a hat.                        |
+| 4  | My home is my space. Outsiders aren't welcome.                                                   |
+| 5  | It doesn't take much to entertain me. I could spend all day jogging and feel content.            |
+| 6  | My feet are very dexterous. They're a second set of hands. I feel no shame using them.           |
+| 7  | In times of stress and excitement, I make strange noises.                                        |
+| 8  | I prefer to spend my time higher up. Towers and rooftops feel natural to me.                     |
+
+
+### Physicality
+While each subrace is unique, the Animus have many common traits across bloodlines.
+Within the race, I've noticed the following common characteristics and measurements.
+
+**Age:**
+The magic nature of their being actually taxes them physically.
+Most Animus live shorter lives than humans, but not by much; however, they mature much faster.
+Most individuals are fully grown by age 10, and live to be 60 years old.
+
+**Alignment:**
+Morality is an interesting subject within the Animus.
+Their strong communal bonds often drive them to what most research describes as a "Lawful" nature; however, this may not extend to a respect of the law.
+Allegiances exist between individuals, not abstract entities such as the state.
+Others feel shunned by society, and seek to return to nature and their Druidic pasts.
+In both cases, few Animus are truly maleficent.
+In general, they tend towards neutrality, if not seeking the benefit of the whole.
+As noted above, this extends to trusted individuals primarily.
+Those who haven't earned the respect of an Animus may be treated indifferently or with mild contempt.
+
+**Size:**
+The height of an Animus can vary greatly.
+On average, they are taller than Humans but shorter than Orcs.
+In the standard classification system, their size is Medium.
+
+**Speed:**
+The Animus are capable of quick movement that outpaces most humans.
+I've consistently measured a base walking speed of 35 feet.
+
+**Darkvision and Colorless Vision:**
+As is true with other races that have taken on animalistic characteristics, the Animus have considerably better low-light vision than humans.
+In dim light, they can see up to 60 feet as if it were brightly lit.
+In darkness, they are capable of sight as if there were poor lighting available.
+An interesting note is that most of the species is entirely colorblind.
+To my knowledge, this is a leftover trait, but only manifests in four of five individuals.
+More research is needed to determine the root cause.
+
+**Pure Instinct:**
+As is the case with their personalities, the survival traits of the predecessor animals shine through.
+While uniquely skilled, most Animus are proficient in one of the following knowledge or skill domains: Nature, Stealth, Survival, or Perception.
+
+**Language:**
+The Animus I interacted with all spoke and wrote Common.
+When they communicated with each other, they also utilized a complex language heavily reliant upon gesturing.
+This language was later identified as Myyra, and is a descendent of the Druidic languages found in the west.
+
+**Spiritual Connection:**
+As descendants of animals, each subrace has a particular affinity to their sister species.
+Animus may freely communicate with beasts of their connected physiology.
+Additionally, the are generally considered proficient in the trade of Animal Handling with the same group of creatures.
+
+## Subraces
+### Bovus
+
+The first note I will make about the Bovus is a warning to the reader: Do not mistake these proud people for the Minotaur.
+This particular subrace, while sharing many physical characteristics with the Minotaur, is a distinct and unique population.
+The most notable differences are the lack of hoofed feet and the reduced physical stature.  
+
+The fur patterns of the Bovus can be quite distinct, but most individuals are solid brown or black.
+Horns also appear as secondary sex characteristics, and often grow to a maximum of eight inches.
+In one rare case, I met a bartender whose horns measured one and a half feet.
+Apiece.
+Many individuals are born with tails, but this is not universal.
+
+The Bovus are physically impressive, and are often the tallest and strongest members of the race.
+They can weather incredible conditions without the slightest complaint.
+Their willpower and endurance is something to behold.
+While many find them stubborn, I find them proud and determined.
+
+#### Bovus Names
+Most genealogies link the Bovus back to the Orcs and Goliaths of the Razor Fang Druids.
+As such, they typically pick their first names from these two races.
+These names are usually unique within communities, only repeated after a generation or two has passed.
+Family names are uncommon, but first names may borrow portions from those of the parents.
+
+#### Common Traits
+The Bovus share many traits with one another.
+A few examples have been catalogued below:
+
+**Ability Scores:**
+After measuring the six core abilities of the subrace on Ilythyrra's scale, I consistently found that Bovus displayed a 2 point bonus in the Strength dimension, and a 1 point bonus in the Constitution dimension.
+
+**Acclimation:**
+The physical endurance of the Bovus have adapted them for cold climates.
+They appear to be resistant to Cold damage and weather patterns.
+
+**Test of Might:**
+In dire straights, the Bovus are able to display extraordinary feats of strength.
+They have a natural advantage when making Saving Throws with their Strength.
+Additionally, few can truly wrestle or fight with a Bovus.
+Those attempting to grapple or restrain one will face an innate disadvantage unless they are at least considered Large.
+
+### Raccatoo
+
+My first contact with the Animus, as journaled above, was with a Raccatoo named Sulmit.
+As their name suggests, they take after the Raccoons found in cities across the continent.
+Unlike the other subraces noted here, their individual physical characteristics are the hardest to spot with an untrained eye.
+The black and white "masks" along their eyes and snouts are unique to each individual, as are the rings around their tails.
+The rest of their fur blends from a soft grey to a warm brown.
+
+Their hands, or paws, are the most fascinating aspect of their physiology.
+As Sulmit and I spoke, he effortlessly wove coins between his fingers at incredible speeds.
+They are nimble but steady, and constantly in motion.
+As I discovered, most Raccatoo are innately restless.
+They bore quickly, especially if they are waiting on someone else.   
+
+#### Raccatoo Names
+
+Unlike their compatriots, the Raccatoo take no single source of inspiration for their names.
+It is quite common for parents to create unique names for their children.
+It is also quite common for individuals to choose their own names as they mature.
+In this regard, the Raccatoo name themselves quite like the Tabaxi peoples.
+
+#### Common Traits
+
+Raccatoo share many traits with one another.
+A few examples have been catalogued below:
+
+**Ability Scores:**
+After measuring the six core abilities of the subrace on Ilythyrra's scale, I consistently found that Raccatoo displayed a 2 point bonus in the Dexterity dimension, with an additional 1 point bonus in the Wisdom dimension.
+
+**Nimble Curiosity:**
+The nimble hands of the Raccatoo give them an innate proficiency with Sleight of Hand games and tricks.
+A profound sense of curiosity is also common.
+Members of this subrace find a natural advantage when attempting to understand the workings of simple contraptions, traps, and locks.
+
+**Scavengers:**
+Spoiled food seems to have little effect on the stomachs of Raccatoo.
+They are immune to minor diseases and food poisoning.
+
+### Equus
+
+Of all subraces, the Equus have faced the most unique challenges.
+Conventional fashion and armor does not accommodate their long faces, and custom designs are necessary.
+Unfortunately, this places an increased and undue financial burden on them.
+I don't know if it's a product of their blood or their culture, but the Equus have shouldered this burden with dignity.
+They are durable and stoic, even when compared to the Bovus.
+
+Much like the horses they molded themselves after, the Equus come in all shapes and sizes.
+Furs stretch across a large array of colors, patterns, and lengths.
+The coarse hair that runs down their neck is just as varied too.
+The rest of their physiology, much like the Bovus, tends towards a humanoid nature.
+Their feet resemble those of a human, and are never hoofed.
+
+#### Equus Names
+
+The Equus differ from the other Animus subraces in their nomenclature.
+Most of their ancestors are human, and so they do value their family names.
+Much like the Dwarves, they pride themselves not only on their proud lineage, but also on their unique talents and crafts.
+
+#### Common Traits
+
+Equus share many traits with one another.
+A few examples have been catalogued below:
+
+**Ability Scores:**
+
+After measuring the six core abilities of the subrace on Ilythyrra's scale, I consistently found that Equus displayed a 2 point bonus in the Constitution dimension.
+Individuals were split down the middle on their secondary trait.
+Some were born with 1 additional point in the Strength dimension and others had 1 point in the Charisma dimension.
+
+**Fleet of Foot:**
+
+The Equus are able to far outpace any other race I've seen.
+When dashing, they were able to run an additional 10 feet every six seconds.
+
+**Powerful Build:**
+
+A profound endurance has blessed these people.
+When calculating their carrying capacity, and abilities to push, drag, and lift, I found they met the physical characteristics of a being in the Large category.
+
+### Hominus
+
+While I have never spent much time studying the animals of this world, the great apes of the drylands have always piqued my interest.
+They remind me so much of my own race.
+Perhaps a link exists between our two species- but, I digress.
+The animalistic legacy of the Hominus is quite evident.
+
+Most of the individuals I had met resembled orangutans and gorillas; however, there is representation across all apes.
+This has lead to a wide spectrum of heights, weights, and abilities.
+The unifying thread, aside from their shared physicality, of course, was a remarkable intellect.
+Naturally, this has lead to a fierce sense of independence.
+
+This makes the Hominus a difficult people to describe.
+Much like humans, I find them caught amongst many contradictions.
+Independent, yet firmly invested in their communities.
+Deeply connected to their heritage, but born of two pasts.
+Traditional, but forward-thinking.
+
+#### Hominus Names
+
+Given their independence, it's no surprise that the Hominus prefer to stick to unique names.
+Ironically, this has driven them to select names much in the way the Dragonborn do.
+The clan or family name usually precedes the given name, and it's not uncommon for children to use long-lasting nicknames.
+
+**Clan Names:** Awa, Bibi, Diba, Dorakshan, Farzan, Goli, Gulshan, Hasti, Javanam, Kukrit, Noshin, Parsa, Tanaz, Yar, Zhala
+
+**Given Names:** Aaufa, Adofo, Anaa, Benpe, Caana, Dagon, Ebo, Farideh, Haas, Hammu, Kau, Khait, Namerta, Nane, Mehen, Mesu, Ottah, Ouza, Petiri, Ruti, Senna, Tehak, Ufa, Uska, Zaid
+
+#### Common Traits
+
+Hominus share many traits with one another.
+A few examples have been catalogued below:
+
+**Ability Scores:**
+
+After measuring the six core abilities of the subrace on Ilythyrra's scale, I consistently found that Hominus displayed a 2 point bonus in the Intelligence dimension.
+Given a wildly diverse bloodline and upbringing, they displayed no consistent secondary trait.
+Each individual had, on average, a 1 point bonus in one of the five remaining dimensions of Strength, Dexterity, Constitution, Wisdom, and Charisma.
+This may be tied to their animalistic legacy, but I cannot confirm that hypothesis at this time.
+
+**Tree Born:**
+
+The Hominus display an incredible affinity for climbing.
+So much so that they can move equally fast up a tree or uneven wall as they could walking.
+Even in difficult situations, they seemed to suffer no penalties when focused on the task.
+
+**Throwing Arms:**
+
+An unparalleled hand-eye coordination has made the Hominus naturally proficient in throwing small items, daggers, and darts.
+
+### Stirixi
+
+It should come as no surprise that the Elves found their strongest kinship with the owls.
+Their feathers form beautiful and nuanced patterns in a stunning array of colors.
+Their eyes are piercing and sharp.
+Their beaks are subtle yet powerful.
+Unfortunately, their bloodline does not carry forth the gift of flight like that of the Aarakocra.
+
+The feathering continues through the lower torso and down the arms, and goes through a regular cycle of molting.
+The longest feathers measure approximately eight inches in length, and coloring remains uniform.
+In addition to feathers, the Stirixi have also inherited the amazingly nimble necks of owls.
+Individuals can rotate their head on all three axes far more than any other race.
+
+Oddly enough, while it is most likely that the Wood Elves belonged to the Razor Fangs, the Stirixi more closely resemble the Drow.
+Nocturnal habits and an aversion to sunlight are uncomfortable truths; however, this has made them uniquely qualified to take up the nightly watch over Marachesia.
+Their ability to turn a disadvantage in their favor is the true marking of their elvish blood and their quick wit.  
+
+#### Stirixi Names
+
+Elvish names are quite common among the Stirixi; however, they are usually modified to accommodate a very different mouth shape.
+This modification can be most easily described as the inverse of a lisp- sharper sounds and metered names are often changed to flow and roll of the tongue.
+For example, the name Aelith might turn into Aelis, Riardon adapts into Riaro, and so on.
+
+#### Common Traits
+
+Stirixi share many traits with one another.
+A few examples have been catalogued below:
+
+**Ability Scores:**
+
+After measuring the six core abilities of the subrace on Ilythyrra's scale, I consistently found that Stirixi displayed a 2 point bonus in the Wisdom dimension.
+They also displayed an additional 1 point in the Intelligence dimension.
+
+**Noctural:**
+
+As stated earlier, the Stirixi are extremely sensitive to bright light, and often choose to live nocturnally.
+In they daylight, they were at a constant disadvantage on all tests of Perception that relied upon sight.
+In critical moments of self-defense, this disadvantage could prove quite harmful.
+
+In the darkness, their darkvision is far superior to most other races.
+Stirixi can consistently perceive object up to 120 feet away in darkness, and have a natural proficiency in Perception in dimly lit conditions.
+
+**Razor Beak:**
+
+The beaks of the Stirixi can be used as a final form of unarmed self-defense.
+When a bite connects with a foe, it can be as deadly as a piercing dagger with the addition of their Strength behind it. (1d4 + Strength Modifier)
+
+**Natural Predator:**
+
+The hunting prowess of the owl is not lost on the Stirixi people.
+The Stirixi's sharp eyes and near-perfect hearing grant them a natural advantage, when actively tracking a target.
+
+### Canus
+
+There is a saying that dog is man's best friend.
+This unwavering charisma has passed directly on to the Canus people, who have a wonderful appreciation for the gift of life.
+They remind me of the Halflings with their constant cheer; however, not all Canus are alike.
+In dire straights, they can peel away your mental self-defense with as little as a snarl.
+
+Like the Stirixi and Hominus, their bodies take on many shapes and sizes.
+As noted previously, this is probably connected to the original breeds of dogs the Animus molded themselves after.
+Fur may range from short and streamlined to long and majestic.
+Colors and patterns vary just as much.
+
+Of all the animal-like features, the snout, tail, and ears are the most pronounced.
+Similar to the Tabaxi, the Canus have little direct control over them.
+Instead of blushing, the ears may perk directly up and their tails may wag.
+The exaggerated physical emotions are deeply tied to Canus culture, where self-expression is vital to survival.
+The Canus are the social glue that binds Animus communities together, and a crucial part of their communal lives.
+
+#### Canus Names
+
+The Canus had no single race of predecessors.
+Therefore, their names are often tributes to legendary figures, old family friends, and relatives no longer with us.
+Names may come from any culture or language, and are frequently mixed within family units.
+
+#### Common Traits
+
+Canus share many traits with one another.
+A few examples have been catalogued below:
+
+**Ability Scores:**
+
+After measuring the six core abilities of the subrace on Ilythyrra's scale, I consistently found that Canus displayed a 2 point bonus in the Charisma dimension.
+They also displayed an additional 1 point in the Wisdom dimension.
+
+**Socialites:**
+
+The Canus culture develops many natural social skills.
+They can read social cues and facial emotions with ease, and have proficiency with gleaning personal Insight.
+Their lifestyles also make Canus proficient in one form of Charismatic influence; be it Persuasion, Deception, or Intimidation.
+
+**Super Sniffer:**
+
+The powerful and precise noses of their ancestors give Canus the ability to pick up on scents lost to all others.
+Their Perception extends beyond that of a Human or an Elf, and have an advantage when searching via their noses.
