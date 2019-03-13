@@ -70,6 +70,7 @@ permalink: "/sitemap/"
 2.  [Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
 3.  [The State Of Things](/dnd/imperial-nights/the-state-of-things)
 4.  [An Invitation](/dnd/imperial-nights/an-invitation)
+5.  [The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
 
 ## Dark Heresy Campaign Logs (Play Order):
 

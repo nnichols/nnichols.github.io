@@ -33,3 +33,5 @@ Fleeing into the night, Krug 'n' Krew now find themselves at the gates of Ravens
 The ancient city is filled with rich history and dark secrets.
 As our heroes prepare to contact Count Strahd, an unsettling series of events puts them on edge.
 What unseen forces are at play?
+
+## [Chapter 5: The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
