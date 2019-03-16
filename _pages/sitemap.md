@@ -50,6 +50,7 @@ permalink: "/sitemap/"
 
 -   [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
 -   [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
+-   [Common Campaign Rules](/dnd/common-dnd-rules)
 -   [Carras Rosestem's Anthropology Mysticum](/dnd/carras-rosestem-anthropology-mysticum)
     -   [Animus](/dnd/carras-rosestem-anthropology-mysticum/animus)
 

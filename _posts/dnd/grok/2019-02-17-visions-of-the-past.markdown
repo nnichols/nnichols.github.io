@@ -53,8 +53,15 @@ He is able to hitch a ride with a travelling family, and make the trip in just u
 
 As they cut into the arid grasslands of the continent's heart, Sif parts ways with his travelling companions.
 Ahead of him, he sees a sight that confirms he has reached his destination: the Wandering Market.
-For nearly a mile leading up to the city's walls, various merchants, travelers, con people, and artists have set up small, temporary stalls and shops.
+For nearly a mile leading up to the city's walls, various merchants, travelers, con-people, and artists have set up small, temporary stalls and shops.
 Feeling the coins rattle about in his purse, he decides to do some shopping.
+
+He wanders through the sea of wandering souls until he happens to find a tall, dark-skinned, gorgeous man with long, flowing locks.
+Mildly enamored, Sif approaches him and asks to see his goods.
+The human, introducing himself as Shaun Gilmore, regales Sif with some stories of his own adventures and offerings of magical wares.
+Sif quickly realizes he is out of his league, but decides to treat himself to a simple bow and a newer shield.
+Thanking Gilmore, he promises to spread the word of the shop the wizard owns in Ishtar: Gilmore's Glorious Goods.
+
 
 
 [&lt; Previous Chapter: Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
