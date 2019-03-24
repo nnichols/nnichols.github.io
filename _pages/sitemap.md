@@ -50,6 +50,7 @@ permalink: "/sitemap/"
 
 -   [The Strider](https://www.dmsguild.com/product/232669/The-Strider-Archetype-for-Fighters)
 -   [The Fey Knight](https://www.dmsguild.com/product/226748/The-Fey-Knight-Archetype-for-Rogues)
+-   [Common Campaign Rules](/dnd/common-dnd-rules)
 -   [Carras Rosestem's Anthropology Mysticum](/dnd/carras-rosestem-anthropology-mysticum)
     -   [Animus](/dnd/carras-rosestem-anthropology-mysticum/animus)
 
@@ -70,6 +71,7 @@ permalink: "/sitemap/"
 2.  [Friends With Benefits](/dnd/imperial-nights/friends-with-benefits)
 3.  [The State Of Things](/dnd/imperial-nights/the-state-of-things)
 4.  [An Invitation](/dnd/imperial-nights/an-invitation)
+5.  [The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
 
 ## Dark Heresy Campaign Logs (Play Order):
 

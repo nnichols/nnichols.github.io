@@ -150,7 +150,7 @@ The boltshell tore though a crate and a solid steel barrier along the catwalk, a
 The round also struck the ammunition and grenades he had been hoarding, causing them to explode.
 
 The upper catwalk and Jakes were ripped apart in an 8 meter wide storm of fire and steel.
-Both men, vaporized by the expanding fireball, were now free to return their bodies and souls to the Emperor.
+Both men, vaporized by the expanding fireball, [were now free to return their bodies and souls to the Emperor.](https://www.youtube.com/watch?v=7ODcC5z6Ca0)
 The Traveler, pleased with his kill, turned his attention to Gob and charged forward with his chainsword arcing through the air.
 Remembering his fallen comrades, Gob and Ishmael dug their heels into the ground and stood firm against the force of Chaos.
 They unleashed a stream of automatic fire, that ripped several fuel lines apart on the Space Marine's armor.

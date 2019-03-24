@@ -44,7 +44,9 @@ Beyond the wall, Sif sees two soldiers laid out and rushes to them.
 One of them is the man who had attacked Sif in his room, and the other is a much younger half-elf.
 They're both heavily bruised, the human has a broken leg, and the young man is unconscious.
 
-"Please. Help. I don't know what he did to Terris, but he won't wake up."
+"Please.
+Help.
+I don't know what he did to Terris, but he won't wake up."
 
 Sif casts _Cure Wounds_ and the man begins to regain consciousness.
 As he wakes up, he mutters something about seeing two fish swimming in a circle over and over, and claims to have watched his soul get knocked from his body.
@@ -59,7 +61,8 @@ Sif stands, Estelle in hand, and asks if they'll leave the village alone.
 Seeing the condition they're in, Orrinstander agrees and complains that his torch _Everbright_ was stolen.
 Sif recognizes the weapon's name as a tool of Nar, Goddess of Light, and asks what a monk would want of it.
 
-"He said he was going to destroy it. Sacrifice its power."
+"He said he was going to destroy it.
+Sacrifice its power."
 
 Feeling a chill run down his spine, Sif asks if they heard a name or an organization title.
 Orrinstander tells him that Wu Shen is the name he heard, but had never seen monks dressed in black.
@@ -84,8 +87,10 @@ Smiling, the man introduces himself as Aryn Greyspine, and offers Sif a job guar
 As they talk, Sif learns the roads have become dangerous, and several people have been kidnapped by goblins in the last few weeks.
 The cleric eagerly shares his experiences of "smashing gobbies" in Longview.
 They make a deal, and Aryn says the, quite possibly, most important words in all of Eibellion's history:
-"Perfect. It sounds like you'll get along great with the other fella too. Hey Grok, come meet our new friend."
+"Perfect.
+It sounds like you'll get along great with the other fella too.
+Hey Grok, come meet our new friend."
 
 [&lt; Previous Chapter: A Serious Problem in Cirrus](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
-\|
+|
 [Next Chapter: A Miner Problem >](/dnd/the-great-and-mighty-grok/a-miner-problem)

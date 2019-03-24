@@ -51,3 +51,5 @@ https://nnichols.github.io/dnd/imperial-nights/an-invitation
 https://nnichols.github.io/dnd/the-great-and-mighty-grok/visions-of-the-past
 https://nnichols.github.io/dnd/carras-rosestem-anthropology-mysticum
 https://nnichols.github.io/dnd/carras-rosestem-anthropology-mysticum/animus
+https://nnichols.github.io/dnd/imperial-nights/the-house-of-strahd
+https://nnichols.github.io/dnd/common-dnd-rules

@@ -90,7 +90,8 @@ Feeling bad, they decide not to kill him immediately; however, they also agree t
 
 Thaelen unveils the portrait, and the man immediately begins screaming.
 "THAT'S A PORTRAIT FROM CASTLE RAVENSLOFT!!!
-ARE YOU THE THEIVES WHO STOLE IT OR ARE YOU JUST INSANE?!"
+ARE YOU THE THEIVES WHO STOLE IT?
+OR ARE YOU JUST INSANE?!"
 
 After some quick words, they claim they're in town to return it to Strahd; however, the man wants no part of their business anymore.
 He hurriedly shoes them upstairs and kicks the party out on the street.
@@ -160,7 +161,7 @@ Werm was asked to deliver several warnings and a message from Dalzos, in the hop
 
 1.  Always know who you’re talking to.
     Establish a code.
-2.  Strahd has eyes everywhere. 
+2.  Strahd has eyes everywhere.
     Be discrete.
 3.  Nothing is what it appears to be.
     Check everything twice.
@@ -169,6 +170,8 @@ Thaelen thanks the hobgoblin, and asks what Dalzos wanted to know about in Raven
 Werm informs him that a man named Tilman has been asking similar questions to Dalzos.
 Krug 'n' Krew aren't the only ones in Barovia looking for answers, and, should they be interested, Tilman might be able to help them out.
 Should they want to meet him, they should head to the remains of the original castle on the night of the full moon.
-As Thaelen contemplates the information, Werm begins to walk away, and shouts over his shoulder, "I'll see you on the fifteenth then."
+As Thaelen contemplates the information, Werm begins to walk away, and shouts over his shoulder, "We'll see you on the fifteenth then."
 
 [&lt; Previous Chapter: The State Of Things](/dnd/imperial-nights/the-state-of-things)
+|
+[Next Chapter: The House of Strahd >](/dnd/imperial-nights/the-house-of-strahd)
