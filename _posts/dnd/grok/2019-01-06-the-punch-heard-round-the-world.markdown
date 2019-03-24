@@ -61,7 +61,7 @@ Sif stands, Estelle in hand, and asks if they'll leave the village alone.
 Seeing the condition they're in, Orrinstander agrees and complains that his torch _Everbright_ was stolen.
 Sif recognizes the weapon's name as a tool of Nar, Goddess of Light, and asks what a monk would want of it.
 
-"He said he was going to destroy it. 
+"He said he was going to destroy it.
 Sacrifice its power."
 
 Feeling a chill run down his spine, Sif asks if they heard a name or an organization title.
@@ -92,5 +92,5 @@ It sounds like you'll get along great with the other fella too.
 Hey Grok, come meet our new friend."
 
 [&lt; Previous Chapter: A Serious Problem in Cirrus](/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus)
-\|
+|
 [Next Chapter: A Miner Problem >](/dnd/the-great-and-mighty-grok/a-miner-problem)
