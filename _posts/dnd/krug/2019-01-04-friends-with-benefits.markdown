@@ -38,8 +38,8 @@ Since Dalzos has shared his home, he also insists on retrieving a blood sample f
 
 Thaelen immediately declines, and asks for "a bit of privacy" to talk it over.
 The four huddle in the corner as the other half-orc approaches them.
-The mountain of a man, calling himself Number 6, wants in and is tired of lounging around an admittedly small bar.
-Krug and 6 have a conversation in Orcish, and debate beating a stranger for their blood.
+The mountain of a man, calling himself Number Six, wants in and is tired of lounging around an admittedly small bar.
+Krug and Six have a conversation in Orcish, and debate beating a stranger for their blood.
 Tlareg, annoyed the group won't speak in common, asks Thaelen why he won't give up a little blood.
 
 "Listen, that blood hunter bitch can use that shit to track me. I ain't about that life."
@@ -76,7 +76,7 @@ Wide-eyed, Tlareg throws down enough coin to buy the unlimited gold pass.
 
 As they walk into the sea of amusements, tents, and children sprinting around, they decide to split up based on their interests.
 The tiefling woman cons a teenaged, pimple-faced human into giving her free popcorn.
-Beanstalk, Krug, and 6 decide to investigate the animals and promises of being able to pet them.
+Beanstalk, Krug, and Six decide to investigate the animals and promises of being able to pet them.
 Thaelen decides to look for carnival games, and Tlareg wants to get his fortune told.
 
 Thaelen finds himself walking through a sea of children playing the rigged games of his youth.
@@ -104,7 +104,7 @@ On the other side of the carnival, the tiefling woman decides she wants to pet a
 The four find themselves in a long tent housing an owlbear, an axe beak, several pseudodragons, and a gazer.
 While the rest continue oohing and aahing, the thin, nameless man slinks around, looking for clues.
 He notices several of the canvas flaps aren't fully tied down, leaving a three- to four-foot entrance in a few panels.
-While Krug and 6 yell at each other from across the room, he slips through the crack and finds himself near the housing portion of the carnival.
+While Krug and Six yell at each other from across the room, he slips through the crack and finds himself near the housing portion of the carnival.
 He sneaks around a few of the tents before finding one covered in mud.
 
 Leaning against the canvas, he hears a few voices muttering in Sylvan.
@@ -125,15 +125,15 @@ They stack up at the front of the tent, and the tall man rips open the flaps.
 Frightened, the two Darklings try to dart away.
 The tall man casts _Eldritch Blast_ and knocks the wind out of one of his foes, and yells, "Keep one safe so we can find out who's been naughty and nice!"
 The tiefling chases after him as he tries to escape, and hefts him off the ground.
-Krug hefts 6 into the tent, and 6 attempts to tackle the other darkling.
+Krug hefts Six into the tent, and Six attempts to tackle the other darkling.
 After seeing his half-orc brother in arms fall flat on his face, Krug roars and flies into a rage.
-The other darkling starts running away, but 6 lands a strike from the ground and Krug throws his halberd through their foe.
+The other darkling starts running away, but Six lands a strike from the ground and Krug throws his halberd through their foe.
 
 With the remaining Darkling bound in canvas and rope, they begin interrogating him.
 After seeing his impaled friend, he immediately tells the party where they can find the painting.
 They are led along the creek's path for nearly a mile, before they find a boat tied up on the shore.
 The thin man lifts a piece of canvas, and find several boxes of ceremonial tattoo ink, and a very large portrait of a woman that looks strikingly similar to Gertruda.
-6 asks if it's the right painting, and the thin man assumes the Strahd would highly value the portrait of his late wife.
+Six asks if it's the right painting, and the thin man assumes the Strahd would highly value the portrait of his late wife.
 He checks for a signature on the back of the canvas and finds the name Childris Westerwilt.
 After a brief discussion, they agree the Count would reward them for turning in the thief and decide to bring the painting, the darkling, and themselves to the **Blood on the Vine.**
 

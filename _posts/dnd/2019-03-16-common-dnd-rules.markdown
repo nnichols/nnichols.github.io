@@ -27,6 +27,6 @@ description: "Common non-PHB and DMG rules I play with"
    If you ever take your full hp in the negatives, you die.
 
 7) Currently legal player options: Player's Handbook, Xanathar's Guide to Everything, Volo's Guide to Monsters, Tal'Dorei Campaign Setting Guide, Eibellion Campaign Setting Guide (Anything on my website or DM's Guild page).
-   If you want to play something outside of these options, work with @Brainlessmunkey#6072
+   If you want to play something outside of these options, work with Brainlessmunkey
 
 8) If you miss 3 consecutive sessions (barring extreme exceptions), your character will be dead.
