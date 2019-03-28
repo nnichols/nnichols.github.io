@@ -142,7 +142,7 @@ I have been dispatched to entrust you with these funds, so you may acquire... ap
 
 The group accepts the invitation and the gold, and are also directed towards a fine tailor in the city.
 With only a few days to spare, they rush towards **Edderson's Clothiers** and put in a rush order for dinner attire.
-Krug, possessing the foresight to always travel prepared, instead purchases a signet ring.
+Krug, possessing the foresight to always travel prepared for a formal dinner, instead purchases a signet ring.
 In an attempt to bargain down the price, Thaelen succeeds in angering the tailor, who immediately kicks them out to be left alone to his work.
 
 Unsure how to spend the next two days, the group makes some half-hearted attempts at shopping; however, their minds take them elsewhere.
