@@ -75,7 +75,7 @@ Curious about the oddities of town, they ask about the deserted nature of what t
 
 He simply shakes his head, and says he doesn't have the stomach for such a conversation.
 While he's happy to house and feed some guests for a change, for a fee, he'd never speak ill about Strahd's rule.
-Realizing he is broke, Thaelen asks him to gamble, in the hopes of earning a night's stay.
+Realizing the rooms will completely bankrupt him, Thaelen asks the proprietor to gamble, in the hopes of earning a night's stay.
 Having learned a lesson from trying to gamble with nothing before, he offers to bet a piece of art against one of the paintings along the wall.
 The man agrees, as long as he can actually see the painting first.
 
