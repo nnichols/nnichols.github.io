@@ -52,7 +52,7 @@ Sif collects his things and packs up for the journey north.
 He is able to hitch a ride with a travelling family, and make the trip in just under two days.
 
 As they cut into the arid grasslands of the continent's heart, Sif parts ways with his travelling companions.
-Ahead of him, he sees a sight that confirms he has reached his destination: the Wandering Market.
+Ahead of him, he sees a sight that confirms he has reached his destination: The Wandering Market.
 For nearly a mile leading up to the city's walls, various merchants, travelers, con-people, and artists have set up small, temporary stalls and shops.
 Feeling the coins rattle about in his purse, he decides to do some shopping.
 
@@ -124,7 +124,7 @@ His mission had been to construct a teleportation circle between his underground
 Realizing the purpose of the runic circle in his lair, a bead of sweat rolled down his face.
 
 Sif continued on, and managed to work through some of the cryptic messages left behind.
-The necromancer had learned of an ancient tool of the profaned god of undeath: the Horn of Orcus.
+The necromancer had learned of an ancient tool of the profaned god of undeath: The Horn of Orcus.
 He planned on using the horn's power to raise a small army by capitalizing on the war tearing Ivalion apart.
 Fortunately for Sif, the necromancer's plans had been thwarted by the threat of a strange monk searching for artifacts of the gods banished beyond the great barrier: Nar, Nusar, Hermaeus, Huang, and Orcus.
 Unsure of his powers or purpose, the Black Spider had refused to move the horn from its current location.
