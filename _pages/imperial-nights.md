@@ -40,3 +40,9 @@ Krug 'n' Krew find themselves in the middle of Barovian tensions as a highly sou
 A band of thieves, a growing rebellion, and the count himself have all shown interest in the wayward group.
 As they're pulled further and further entwined in the nation's destiny, the pressures and paranoia mount.
 What secrets lie buried beneath the House of Strahd?
+
+## [Chapter 5: In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
+
+The party learns the nature of Strahd's power, and the absolute control he wields over his lands.
+Facing the darkest of days, the party considers their options, their futures, and their pasts.
+With their backs against the wall, Krug 'n' Krew are forced to make a decision for their very souls.

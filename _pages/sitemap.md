@@ -72,6 +72,7 @@ permalink: "/sitemap/"
 3.  [The State Of Things](/dnd/imperial-nights/the-state-of-things)
 4.  [An Invitation](/dnd/imperial-nights/an-invitation)
 5.  [The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
+6.  [In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
 
 ## Dark Heresy Campaign Logs (Play Order):
 
