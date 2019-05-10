@@ -34,7 +34,7 @@ The ancient city is filled with rich history and dark secrets.
 As our heroes prepare to contact Count Strahd, an unsettling series of events puts them on edge.
 What unseen forces are at play?
 
-## [Chapter 5: The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
+## [Chapter 6: The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
 
 Krug 'n' Krew find themselves in the middle of Barovian tensions as a highly sought after band of adventurers.
 A band of thieves, a growing rebellion, and the count himself have all shown interest in the wayward group.
