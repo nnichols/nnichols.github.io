@@ -248,6 +248,7 @@ He said you'd have some answers about what's going on here, and that you knew Da
 "We're acquainted, and share a mutual interest for the time being: the safety of our home.
 He might be paranoid, but he's right on this one I'm afraid.
 As a representative of the Belgrave Consortium, it's our sworn duty to look into such things.
+I'm afraid for the future of this country and my home.
 Oh!
 Forgive my terrible manners, this is Cecilia Baade."
 
@@ -318,6 +319,7 @@ A strange chill enters their very bones, and they help Tilman scoop up as many u
 Jack grabs a few magical items, gems, and a potion.
 Krug, left unattended, continues to stare into the armor Strahd himself had worn into battle against the Idravalli Empire.
 Struck by his beauty, he raises a single hand and extends it towards the cold metal as his feet forcibly dance beneath him.
+He does not understand why, but he feels connected to the beautiful craftsmanship before him.
 As the two connect, the horrifying sounds of twisting metal echo out into the room.
 
 [&lt; Previous Chapter: An Invitation](/dnd/imperial-nights/an-invitation)
