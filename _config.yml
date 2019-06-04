@@ -39,4 +39,4 @@ exclude:
   - README.md
   - CNAME
 
-include: ['_pages']
+include: ['_pages','_wiki']
