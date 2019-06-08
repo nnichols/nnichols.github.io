@@ -18,6 +18,12 @@ description: "Nar: The Torch of the Heavens"
 2.  Through faith, all things may be endured
 3.  Forget not the sacrifices made to preserve this land
 
+**Connections:**
+* Heaven's Gate
+* Huang (Sworn Enemy)
+* Laureline Viccar (Champion)
+* Jack Prostyson (Knight Errant)
+
 ### Synopsis
 
 To many, Nar stands as the ultimate paragon.
@@ -49,6 +55,14 @@ TODO
 
 TODO
 
-## The Third Age
+### The Third Age
+
+TODO
+
+### Worshipers Of Note
+
+TODO
+
+### Trivia
 
 TODO
