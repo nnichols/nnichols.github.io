@@ -7,6 +7,8 @@ permalink: /dnd/wiki/deities/hermaeus
 description: "Hermaeus: Seer of the Void"
 ---
 
+**Titles:** Seer Of The Void, The Writhing Chaos, The Eye Of The Void
+
 **Alignment:** Neutral Evil
 
 **Domain:** Knowledge

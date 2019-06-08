@@ -7,6 +7,8 @@ permalink: /dnd/wiki/deities/nar
 description: "Nar: The Torch of the Heavens"
 ---
 
+**Titles:** Torch Of The Heavens, All-mother
+
 **Alignment:** Lawful Good
 
 **Domains:** Light, Forge
