@@ -62,10 +62,6 @@ TODO
 
 TODO
 
-### Worshipers Of Note
-
-TODO
-
 ### Trivia
 
 TODO

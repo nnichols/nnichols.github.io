@@ -46,8 +46,7 @@ For those lucky enough to watch the blood sport, endless flagons of ale, wine, a
 
 The faith’s holy day is celebrated on the fifth day of the fifth month, and is as raucous as the rest of god’s worship.
 Celebrations begin early and often carry over into the wee hours of the next day- and sometimes the day after.
-Wrestling matches, eating and drinking competitions, and other feats of glory and strength are seldom interrupted by the quieter rituals common to other faiths. 
-
+Wrestling matches, eating and drinking competitions, and other feats of glory and strength are seldom interrupted by the quieter rituals common to other faiths.
 
 ### Pre-History
 
@@ -62,10 +61,6 @@ TODO
 TODO
 
 ### The Third Age
-
-TODO
-
-### Worshipers Of Note
 
 TODO
 
