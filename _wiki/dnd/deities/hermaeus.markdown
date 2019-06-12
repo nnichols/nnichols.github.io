@@ -21,16 +21,17 @@ description: "Hermaeus: Seer of the Void"
 3.  Knowledge is power
 
 **Connections:**
-* The Grand Arcanum
-* Vecna (Sworn Enemy)
-* Iris Vorchest (Champion)
-* Bruce (Thrall)
+
+-   The Grand Arcanum
+-   Vecna (Sworn Enemy)
+-   Iris Vorchest (Champion)
+-   Bruce (Thrall)
 
 ### Synopsis
 
 The God of Knowledge is also the deity shrouded by the most mystery.
 In Avalon’s life, he visited the god’s personal library with his scribe.
-Seeking the wisdom to drive Back the Dark Ascendant, the great monk tricked Hermaeus into revealing the secrets to the great barrier’s construction.
+Seeking the wisdom to drive back Orcus, the great monk tricked Hermaeus into revealing the secrets to the great barrier’s construction.
 As legend tells, the deity was furious over Avalon’s trickery and ripped his library from the Prime Material Plane permanently.
 
 In modern times, the worship of Hermaeus has dwindled tremendously.

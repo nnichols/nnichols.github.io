@@ -21,15 +21,18 @@ description: "Nar: The Torch of the Heavens"
 3.  Forget not the sacrifices made to preserve this land
 
 **Connections:**
-* Heaven's Gate
-* Huang (Sworn Enemy)
-* Laureline Viccar (Champion)
-* Jack Prostyson (Knight Errant)
+
+-   Heaven's Gate
+-   Huang (Sworn Enemy)
+-   Orcus (Sworn Enemy)
+-   Vecna (Sworn Enemy)
+-   Laureline Viccar (Champion)
+-   Jack Prostyson (Knight Errant)
 
 ### Synopsis
 
 To many, Nar stands as the ultimate paragon.
-Her self-sacrifice to banish The Dark Ascendant and protect the lands of Eibellion from the dangers beyond the Prime Material Plane has granted her countless worshipers.
+Her self-sacrifice to banish Orcus and protect the lands of Eibellion from the dangers beyond the Prime Material Plane has granted her countless worshipers.
 The legions of paladins, clerics, and warriors that raise her banner are dedicated to ensuring her sacrifice was not in vain, and actively hunt evil in the world.
 Above all, those who seek to undo the great barrier between the realms must meet swift justice.
 

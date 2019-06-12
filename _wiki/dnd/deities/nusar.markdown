@@ -21,12 +21,13 @@ description: "Nusar: The Iron Eagle"
 3.  Blood is the only worthy offering- yours, or theirs
 
 **Connections:**
-* The Highseer (Hierophant)
-* Hokulk (Herald of the End War)
-* Grok (Champion)
-* Yasada (Emissary)
-* General Vladimir Anulan (Worshipper)
-* Torryn Scaleslayer (Worshipper)
+
+-   The Highseer (Hierophant)
+-   Hokulk (Herald of the End War)
+-   Grok (Champion)
+-   Yasada (Emissary)
+-   General Vladimir Anulan (Worshipper)
+-   Torryn Scaleslayer (Worshipper)
 
 ### Synopsis
 
