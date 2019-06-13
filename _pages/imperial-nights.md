@@ -34,14 +34,14 @@ The ancient city is filled with rich history and dark secrets.
 As our heroes prepare to contact Count Strahd, an unsettling series of events puts them on edge.
 What unseen forces are at play?
 
-## [Chapter 6: The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
+## [Chapter 5: The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
 
 Krug 'n' Krew find themselves in the middle of Barovian tensions as a highly sought after band of adventurers.
 A band of thieves, a growing rebellion, and the count himself have all shown interest in the wayward group.
 As they're pulled further and further entwined in the nation's destiny, the pressures and paranoia mount.
 What secrets lie buried beneath the House of Strahd?
 
-## [Chapter 5: In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
+## [Chapter 6: In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
 
 The party learns the nature of Strahd's power, and the absolute control he wields over his lands.
 Facing the darkest of days, the party considers their options, their futures, and their pasts.
