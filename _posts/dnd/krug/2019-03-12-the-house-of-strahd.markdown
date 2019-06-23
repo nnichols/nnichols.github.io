@@ -323,3 +323,5 @@ He does not understand why, but he feels connected to the beautiful craftsmanshi
 As the two connect, the horrifying sounds of twisting metal echo out into the room.
 
 [&lt; Previous Chapter: An Invitation](/dnd/imperial-nights/an-invitation)
+|
+[Next Chapter: In Service of the Master >](/dnd/imperial-nights/in-service-of-the-master)

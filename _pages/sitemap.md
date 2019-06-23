@@ -74,6 +74,7 @@ permalink: "/sitemap/"
 4.  [An Invitation](/dnd/imperial-nights/an-invitation)
 5.  [The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
 6.  [In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
+7.  [A Simple Job](/dnd/imperial-nights/a-simple-job)
 
 ## Dark Heresy Campaign Logs (Play Order):
 

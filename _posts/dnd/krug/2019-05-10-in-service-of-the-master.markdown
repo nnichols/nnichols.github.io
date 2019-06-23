@@ -164,3 +164,5 @@ Krug 'n' Krew will follow Arminius to the Buxswell Duchie in Ushazan to cleanse 
 With their minds set, the party splits off and heads towards their new destiny.
 
 [&lt; Previous Chapter: The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
+|
+[Next Chapter: A Simple Job >](/dnd/imperial-nights/a-simple-job)
