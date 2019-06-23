@@ -25,6 +25,7 @@ description: "Hermaeus: Seer of the Void"
 -   The Grand Arcanum
 -   Vecna (Sworn Enemy)
 -   Iris Vorchest (Champion)
+-   Kalaesei Vestiimar (Worshipper)
 -   Bruce (Thrall)
 
 ### Synopsis

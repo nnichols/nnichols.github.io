@@ -7,7 +7,7 @@ permalink: /dnd/wiki/deities/almawt
 description: "Almawt: Guide to Oblivion"
 ---
 
-**Titles:** The Guide To Oblivion
+**Title:** The Guide To Oblivion
 
 **Alignment:** Neutral Good
 
