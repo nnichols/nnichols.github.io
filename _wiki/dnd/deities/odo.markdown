@@ -13,7 +13,7 @@ description: "Odo: Great White Elk Of The Silvermoon Forest"
 
 **Domain:** Life
 
-**Symbols:** The Oak Leaf
+**Symbol:** The Oak Leaf
 
 **Statements of Faith:**
 1.  Even the life of a pest is sacred
@@ -23,6 +23,7 @@ description: "Odo: Great White Elk Of The Silvermoon Forest"
 **Connections:**
 
 -   Heaven's Gate
+-   The Harpers
 -   Sif (Worshipper)
 -   Orcus (Sworn Enemy)
 

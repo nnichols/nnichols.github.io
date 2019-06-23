@@ -23,6 +23,7 @@ description: "Nar: The Torch of the Heavens"
 **Connections:**
 
 -   Heaven's Gate
+-   The Harpers
 -   Huang (Sworn Enemy)
 -   Orcus (Sworn Enemy)
 -   Vecna (Sworn Enemy)
