@@ -10,3 +10,8 @@
 -   [Falcon icon by Icons8](https://icons8.com/icon/5061/falcon)
 -   [Oak Leaf icon by Icons8](https://icons8.com/icon/19148/oak-leaf)
 -   [Grass icon by Icons8](https://icons8.com/icon/19069/grass)
+
+## Self-Sourced
+
+-   [Myself]
+-   [Map of Ivalion]

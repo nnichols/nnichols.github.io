@@ -160,7 +160,7 @@ I will entertain no objections to this."
 The party, seeing few other options, agrees to his demands.
 They discuss the details for a few moments, before setting off with Arminius.
 Tilman and the **Belgrave Consortium** will use the information and resources the party gathered to help the people of Barovia.
-Krug 'n' Krew will follow Arminius to the Buxswell Duchie in Ushazan to cleanse their souls, and assist the Order of the Platinum Dragon in some upcoming guard work.
+Krug 'n' Krew will follow Arminius to the Buxswell Dutchie in Ushazan to cleanse their souls, and assist the Order of the Platinum Dragon in some upcoming guard work.
 With their minds set, the party splits off and heads towards their new destiny.
 
 [&lt; Previous Chapter: The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
