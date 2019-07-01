@@ -38,7 +38,7 @@ Have you heard of them in the past?"
 "Not really," Jack replies.
 
 "They are good people, and help those in need.
-In this case, we'll be helping the dignitaries and diplomats of nations across Eibellion pay final respects to the dragon Lysanderoth.
+In this case, we'll be helping the dignitaries and diplomats of nations across Eibellion pay final respects to the dragon **Lysanderoth.**
 After more than one thousand years, the protector of our realm will be ending his watch and passing on to the Halls of Order to join Bahamut."
 The party contemplates this as they continue to the heart of town; however, not all is grim.
 A warm summer breeze and the fresh scents of flowers lifts their spirits.
@@ -53,6 +53,35 @@ A large, heavy oak table overflowing with maps, reports, and requests is place i
 Several knights watch their leader, a short woman with fiery red hair, walks through the most recent orders she has drawn up for the region.
 
 Arminius briefly introduces the party as temporary help for the next few days, and then drags Thaelen to the stations of worship.
-Jack, Krug, and Tlareg
+Jack, Krug, and Tlareg snicker as their almost zombie-like is yelled at.
+The captain, Marie Osterlen, begins to lay out the job our not-so-brave party has been tasked with.
+
+"With such a historic occasion upon us, the Queen has called in as many soldiers as we can properly recruit.
+Thankfully, with so much international attention and talent in the area, we're not expecting much excitement.
+We're stretching ourselves along the many side roads leading to Whitestone, and the formal army will be watching the main paths.
+Your duty is simple.
+For the day before through the day after, keep watch and report anything suspicious to us as quickly as possible.
+There may be a few locals around, but be on guard for anyone suspicious or armed."
+
+Krug nods along, "What if we find someone?
+And they start giving us trouble?
+Can we, uh...," while pointing to his halberd.
+
+Jack agrees, "Yeah, we just want to be crystal clear with how in our rights we are to... defend ourselves."
+
+"Certainly you are well within your rights to defend yourselves, but the Harpers aren't in the business of starting fights.
+We'd rather prevent them, and, if we cannot achieve that, we end them.
+Our continent has known peace for some time, and some of Eibellion's greatest warriors will be paying their respects."
+
+Jack gives the thumbs up, "Got it.
+Now, where do we need to be?"
+
+"The path I've chosen for you sits just along the hills to the southeast.
+It's about a two days walk, and you're needed there by the end of the week.
+We have capacity for you all to rest here, and have enough supplies to outfit you for your time.
+When all is said and done, simply return back here and your service will be complete.
+If you need anything else, Sir Bertrand will be able to help you."
+
+Thaelen, freshly shown the wonders of religion, returns to the group, and they decide to head out into the town.
 
 [&lt; Previous Chapter: In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
