@@ -47,3 +47,9 @@ Without assistance, Sif will have to rely on himself alone, even if he barely kn
 Shaken to the core, Sif must press further and further into the Web of the Black Spider to complete his mission while fighting for his very existence.
 Will the mysteries of the necromancer's lair kill the cleric, or far worse?
 The only thing he knows for certain is that the only way out is through.
+
+## [Chapter 7a: The Price Of Pride](/dnd/the-great-and-mighty-grok/the-price-of-pride)
+
+Far to the north, the royalty of the Empire of the First Sun prepare to celebrate their family's achievements and status.
+A young dragonborn by the name of Barommakat seeks to earn the attention of the Empress; however, his cousin Daragathel is always one step ahead of him.
+With his pride bruised, the young noble lets his emotions get the better of him.

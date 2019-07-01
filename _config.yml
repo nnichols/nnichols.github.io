@@ -38,5 +38,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - icon-list.md
 
-include: ['_pages']
+include: ['_pages','_wiki']

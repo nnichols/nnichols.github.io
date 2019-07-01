@@ -64,6 +64,7 @@ permalink: "/sitemap/"
 4.  [A Miner Problem](/dnd/the-great-and-mighty-grok/a-miner-problem)
 5.  [Sif, Alone](/dnd/the-great-and-mighty-grok/sif-alone)
 6.  [Visions Of The Past](/dnd/the-great-and-mighty-grok/visions-of-the-past)
+7.  [The Price of Pride](/dnd/the-great-and-mighty-grok/the-price-of-pride)
 
 ### [Imperial Nights:](/dnd/imperial-nights)
 
@@ -73,6 +74,7 @@ permalink: "/sitemap/"
 4.  [An Invitation](/dnd/imperial-nights/an-invitation)
 5.  [The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
 6.  [In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
+7.  [A Simple Job](/dnd/imperial-nights/a-simple-job)
 
 ## Dark Heresy Campaign Logs (Play Order):
 

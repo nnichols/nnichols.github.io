@@ -46,3 +46,5 @@ What secrets lie buried beneath the House of Strahd?
 The party learns the nature of Strahd's power, and the absolute control he wields over his lands.
 Facing the darkest of days, the party considers their options, their futures, and their pasts.
 With their backs against the wall, Krug 'n' Krew are forced to make a decision for their very souls.
+
+## [Chapter 7: A Simple Job](/dnd/imperial-nights/a-simple-job)
