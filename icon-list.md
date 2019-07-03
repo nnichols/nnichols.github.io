@@ -13,5 +13,5 @@
 
 ## Self-Sourced
 
--   [Myself]
--   [Map of Ivalion]
+-   [Myself](https://nnichols.github.io/images/nick_nichols.jpg)
+-   [Map of Ivalion](https://nnichols.github.io/images/Ivalice.png)
