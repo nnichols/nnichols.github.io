@@ -123,7 +123,7 @@ After trading blows for a few more moments, the masked man uses _Inflict Wounds_
 Conjuring the might of his benefactor, Jack unleashes a chilling _Hellish Rebuke_ disintegrating the cloaked man as a hollow laugh rings in their ears.
 Suddenly terrified, his two subordinates begin fleeing but barely make any distance before getting cut down.
 Everyone takes a moment to compose themselves before looking for clues.
-Krug pokes through the cloaked mans remains, and only finds a few torn patches of Shimmerweave, several silver dragon scales, and a slightly cracked pale white mask.
+Krug pokes through the cloaked man's remains, and only finds a few torn patches of Shimmerweave, several silver dragon scales, and a slightly cracked pale white mask.
 
 Recognizing the need of those in Whitestone, the party limps forward to find disorganized chaos.
 Harpers and clerics alike are tending to wounded, and guards are doing their best to guide fleeing civilians to safety.
