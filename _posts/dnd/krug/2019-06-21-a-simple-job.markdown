@@ -83,5 +83,53 @@ When all is said and done, simply return back here and your service will be comp
 If you need anything else, Sir Bertrand will be able to help you."
 
 Thaelen, freshly shown the wonders of religion, returns to the group, and they decide to head out into the town.
+Curious about the state of affairs in the new, strange land, they dive into the alleyways to glimpse real life.
+Most of the streets are cleaned and the people generally seem happy; however, they eventually find posters decrying the "New Gods."
+Jack takes one of them, and folds it up into his book.
+As he does, a pair of drunk human men chide them.
+Ever eager to spread the good word about his patron deity, the thin man whips around and strikes up a conversation.
+
+The pair rebuke him at first, but eventually wear down and provide some answers.
+During the calamity between the second and third ages, several deities born during the **Everdawn** met their end.
+At the same time, new gods and daemons rose to fill their ranks; however, worship did not immediately follow.
+Many are skeptical of entities such as Bahamut, Grokkush, Tiamat, and the Anathema.
+With no historic context, no proof of power, and no trust established, common folk are left wondering how and if their lives will improve.
+Groups like the Harpers were quick to include members of the new pantheon into their daily worship, but most aren't convinced.
+
+With thorough notes recorded, Jack thanks the men and reminds them that they ought to be nice.
+Satisfied with the information, the party returns to the Harpers for food and rest.
+Additionally, each of the party members manages to accomplish a few personal tasks.
+Thaelen takes the opportunity to bring his BAC back to healthy levels.
+Krug attempts to learn from Sir Bertrand.
+Jack requisitions some good, strong rope.
+
+The next day, Krug 'n' Krew make their way to the narrow pass they're meant to watch: a thin dirt road cut into the hillside.
+Seeing few avenues other than the present path, they decide to man alternating shifts to cover a bend in the road.
+Most of the time is uneventful and quiet.
+Jack and Tlareg stare off into the distance and watch the outlines of tents and seating get constructed on the rolling meadows before Whitestone's gates.
+They're temporarily disturbed by a man passing with a cart of vegetables, but after (literally) poking around with their blades, they give him the all clear to continue on.
+During the next shift, Krug paces in circles while Thaelen drinks himself to sleep.
+
+As they begin switching the guard again, they take a look out over the hills and through the woods at Lysanderoth's funeral.
+Even from their great distance, they see masses gathering to mourn the passing of their ancient protector.
+As their eyes focus, they see an eruption of orange light as several _Fireballs_ erupt in the crowd.
+Seeing the threat, the adventurers leap to their feet and begin sprinting towards the capital.
+After running for nearly two miles, they run headlong into three suspicious individuals headed their way: two woodsmen and a strange, cloaked figure.
+The party orders them to halt, and fighting shortly erupts.
+
+Krug and Jack charge forward towards the cloaked figure, who responds with a _Shocking Grasp_.
+Tlareg and Thaelen use their _Create Bonfire_ and _Magic Missile_ spells to the rangers at bay.
+After trading blows for a few more moments, the masked man uses _Inflict Wounds_ to bring Krug to his knees as a few loose arrows cripple Thaelen.
+Conjuring the might of his benefactor, Jack unleashes a chilling _Hellish Rebuke_ disintegrating the cloaked man as a hollow laugh rings in their ears.
+Suddenly terrified, his two subordinates begin fleeing but barely make any distance before getting cut down.
+Everyone takes a moment to compose themselves before looking for clues.
+Krug pokes through the cloaked mans remains, and only finds a few torn patches of Shimmerweave, several silver dragon scales, and a slightly cracked pale white mask.
+
+Recognizing the need of those in Whitestone, the party limps forward to find disorganized chaos.
+Harpers and clerics alike are tending to wounded, and guards are doing their best to guide fleeing civilians to safety.
+The group eventually find Marie organizing the relief, and Arminius tending to the recently passed.
+They admit they were blindsided by the attack, and know very little themselves.
+To their knowledge, a man wearing a mask like the one Krug found shattered a strange necklace before the blast.
+During the confusion, they lost track of that man and his associates, and are trying to get through the immediate chaos to begin investigating further.
 
 [&lt; Previous Chapter: In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)

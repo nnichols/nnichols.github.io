@@ -52,6 +52,8 @@ https://nnichols.github.io/dnd/wiki/deities/nar
 https://nnichols.github.io/dnd/wiki/deities/nusar
 https://nnichols.github.io/dnd/wiki/deities/odo
 https://nnichols.github.io/dnd/wiki/deities/shu
+https://nnichols.github.io/images/nick_nichols.jpg
+https://nnichols.github.io/images/Ivalice.png
 https://nnichols.github.io/index
 https://nnichols.github.io/nature/coverage/index.html
 https://nnichols.github.io/nature/coverage/nature/core.clj.html

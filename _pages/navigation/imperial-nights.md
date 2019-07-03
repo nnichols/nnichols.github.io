@@ -48,3 +48,8 @@ Facing the darkest of days, the party considers their options, their futures, an
 With their backs against the wall, Krug 'n' Krew are forced to make a decision for their very souls.
 
 ## [Chapter 7: A Simple Job](/dnd/imperial-nights/a-simple-job)
+
+With their hearts set elsewhere, Krug 'n' Krew leave Toramand for brighter shores.
+The paladin Arminius aids them, but not for free.
+In return, he expects them to help him with a very simple job: guard duty.
+What could possibly go wrong?
