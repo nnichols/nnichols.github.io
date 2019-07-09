@@ -40,7 +40,7 @@ permalink: "/sitemap/"
 -   [Postgres JSON Nesting: 2018-11-27](/blog/json-nesting)
 -   [Testing Addition: 2018-11-20](/blog/testing-addition)
 
-### Legacy Posts:
+### Legacy Blog Posts:
 
 -   [Tis The Season](/blog/legacy/tis-the-season)
 -   [Survive. Adapt. Evolve.](/blog/legacy/survive-adapt-evolve)
@@ -53,6 +53,7 @@ permalink: "/sitemap/"
 -   [Common Campaign Rules](/dnd/common-dnd-rules)
 -   [Carras Rosestem's Anthropology Mysticum](/dnd/carras-rosestem-anthropology-mysticum)
     -   [Animus](/dnd/carras-rosestem-anthropology-mysticum/animus)
+-   [Source Control for Dungeon Masters](/dnd/source-control-for-dungeon-masters)
 
 ## D&D Campaign Logs (Play Order):
 
