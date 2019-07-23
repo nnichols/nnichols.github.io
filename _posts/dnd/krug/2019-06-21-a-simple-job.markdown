@@ -53,7 +53,7 @@ A large, heavy oak table overflowing with maps, reports, and requests is place i
 Several knights watch their leader, a short woman with fiery red hair, walks through the most recent orders she has drawn up for the region.
 
 Arminius briefly introduces the party as temporary help for the next few days, and then drags Thaelen to the stations of worship.
-Jack, Krug, and Tlareg snicker as their almost zombie-like is yelled at.
+Jack, Krug, and Tlareg snicker as their almost zombie-like wizard is yelled at.
 The captain, Marie Osterlen, begins to lay out the job our not-so-brave party has been tasked with.
 
 "With such a historic occasion upon us, the Queen has called in as many soldiers as we can properly recruit.
