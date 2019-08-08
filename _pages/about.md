@@ -12,4 +12,4 @@ permalink: "/about/"
 
 [Clojurists Together](https://www.clojuriststogether.org/members/)
 
-[Wall Brew](https://wallbrew.wordpress.com/)
+[Wall Brew](https://www.wallbrew.com/)
