@@ -36,6 +36,7 @@ https://nnichols.github.io/dnd/imperial-nights/the-house-of-strahd
 https://nnichols.github.io/dnd/imperial-nights/the-state-of-things
 https://nnichols.github.io/dnd/imperial-nights/where-all-roads-lead
 https://nnichols.github.io/dnd/ruminations-of-avalon
+https://nnichols.github.io/dnd/source-control-for-dungeon-masters
 https://nnichols.github.io/dnd/the-great-and-mighty-grok
 https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-miner-problem
 https://nnichols.github.io/dnd/the-great-and-mighty-grok/a-serious-problem-in-cirrus
@@ -57,7 +58,10 @@ https://nnichols.github.io/images/Ivalice.png
 https://nnichols.github.io/index
 https://nnichols.github.io/nature/coverage/index.html
 https://nnichols.github.io/nature/coverage/nature/core.clj.html
+https://nnichols.github.io/nature/coverage/nature/fitness_functions.clj.html
 https://nnichols.github.io/nature/coverage/nature/genetic_operators.clj.html
+https://nnichols.github.io/nature/coverage/nature/initialization_operators.clj.html
+https://nnichols.github.io/nature/coverage/nature/monitors.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_operators.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_presets.clj.html
 https://nnichols.github.io/nature/coverage/nature/spec.clj.html

@@ -8,7 +8,7 @@ As my personal website, blog, and documentation hub, pull requests may be rare; 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with me before making a change.
 If you are generating new pages, please attribute yourself as the primary author, and discuss how you wish to be credited in your pull request.
 If you are editing a page, especially one related to project documentation, please let me know, and I will make sure you are credited for your contributions as well.
-Because this site is meant to represent myself professionally across multiple communities, the pull request will have more rigid parameters set around language, authorship and
+Because this site is meant to represent myself professionally across multiple communities, the pull request will have more rigid parameters set around language, authorship and content.
 
 Please note I have a [code of conduct](/coc), please follow it in all your interactions with the project.
 
@@ -20,7 +20,8 @@ Please note I have a [code of conduct](/coc), please follow it in all your inter
 
 ### Want to contribute but don't know where to start?
 
-Improving documentation or adding examples as you learn a new project can is an easy way to pitch in. If you're looking to pitch in more extensively, check out the open [issues and feature requests](https://github.com/nnichols/nnichols.github.io/issues) and take a crack at one of them.
+Improving documentation or adding examples as you learn a new project can is an easy way to pitch in.
+If you're looking to pitch in more extensively, check out the open [issues and feature requests](https://github.com/nnichols/nnichols.github.io/issues) and take a crack at one of them.
 
 ### Our pledge
 
