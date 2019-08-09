@@ -30,7 +30,7 @@ description: "Feng: Chaser of the Wind"
 For centuries, the feared storms of the Arkellian Ridge kept all but the bravest souls from wandering south towards Marachesia.
 Dagger-like winds and flash floods made an otherwise short journey perilous.
 While these storms are fierce, they are mere echoes of the true destruction Feng is capable of.
-The massive, travelling maelstrom off the southwestern shores of Ivalion stands as a testament to the gods true power.
+The massive, traveling maelstrom off the southwestern shores of Ivalion stands as a testament to the gods true power.
 While Ivalion has thousands of miles of coastlines, this storm has effectively cut the continent off from the rest of Eibellion.
 
 The rough conditions weed out the weakest of Feng's followers, and those who brave the storm are rewarded.
