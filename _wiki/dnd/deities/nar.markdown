@@ -7,7 +7,7 @@ permalink: /dnd/wiki/deities/nar
 description: "Nar: The Torch of the Heavens"
 ---
 
-**Titles:** Torch Of The Heavens, All-mother
+**Titles:** Torch Of The Heavens, All-Mother
 
 **Alignment:** Lawful Good
 
@@ -24,7 +24,8 @@ description: "Nar: The Torch of the Heavens"
 
 -   Heaven's Gate
 -   The Harpers
--   Huang (Sworn Enemy)
+-   [Huang (Sworn Enemy)](/dnd/wiki/deities/huang)
+-   [Nusar (Sworn Enemy)](/dnd/wiki/deities/nusar)
 -   Orcus (Sworn Enemy)
 -   Vecna (Sworn Enemy)
 -   Laureline Viccar (Champion)
@@ -67,4 +68,4 @@ TODO
 
 ### Trivia
 
-TODO
+-  Nar was originally conceptualized as an evil deity, representing the fires of the Nine Hells.
