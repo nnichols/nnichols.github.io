@@ -21,7 +21,7 @@ I'm sensing something pretty dangerous around here, have you found anything?"
 "Maybe.
 What's it to ya?"
 
-
+Clegane / Birdie
 
 Marie Osterlen and Arminius Wintergale explain the attack on Whitestone with the details they know:
 1) Five masked men, like the ones KnK already encountered announced their presence after Lysanderoth's final speech.
