@@ -19,6 +19,7 @@ Chicago, Illinois
 
 -   Intelligent Workflow Management SPA
 -   Work Lifecycle Rules Engine
+-   Real-Time Notification Service
 
 **Primary Skills Utilized**
 
@@ -105,7 +106,7 @@ Central Illinois
 -   Assign and grade coursework
 -   Assist students studying, applying for universities, and applying for careers
 
-### Illinois Wesleyan University - Mathematic Teaching Assistant
+### Illinois Wesleyan University - Mathematics Teaching Assistant
 
 January 2013 - May 2013 <br />
 Bloomington, Illinois
@@ -153,7 +154,7 @@ GPA: 3.35/4.0
 
 ## Research Experience
 
--   Multivariable Travelling Salesperson Problem, January 2011 - May 2011
+-   Multivariable Traveling Salesperson Problem, January 2011 - May 2011
 -   Ant Colony Optimization, August 2011 - December 2011
 
 ## Publications
