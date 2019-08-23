@@ -32,8 +32,10 @@ https://nnichols.github.io/dnd/imperial-nights/an-invitation
 https://nnichols.github.io/dnd/imperial-nights/a-simple-job
 https://nnichols.github.io/dnd/imperial-nights/friends-with-benefits
 https://nnichols.github.io/dnd/imperial-nights/in-service-of-the-master
+https://nnichols.github.io/dnd/imperial-nights/the-five-claws
 https://nnichols.github.io/dnd/imperial-nights/the-house-of-strahd
 https://nnichols.github.io/dnd/imperial-nights/the-state-of-things
+https://nnichols.github.io/dnd/imperial-nights/the-thief-and-the-knight
 https://nnichols.github.io/dnd/imperial-nights/where-all-roads-lead
 https://nnichols.github.io/dnd/ruminations-of-avalon
 https://nnichols.github.io/dnd/source-control-for-dungeon-masters

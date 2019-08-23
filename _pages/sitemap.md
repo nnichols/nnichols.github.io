@@ -76,6 +76,8 @@ permalink: "/sitemap/"
 5.  [The House of Strahd](/dnd/imperial-nights/the-house-of-strahd)
 6.  [In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
 7.  [A Simple Job](/dnd/imperial-nights/a-simple-job)
+8.  [The Five Claws](/dnd/imperial-nights/the-five-claws)
+9.  [The Thief and The Knight](/dnd/imperial-nights/the-thief-and-the-knight)
 
 ## Dark Heresy Campaign Logs (Play Order):
 
