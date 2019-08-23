@@ -8,6 +8,12 @@ https://nnichols.github.io/blog/legacy/payback
 https://nnichols.github.io/blog/legacy/survive-adapt-evolve
 https://nnichols.github.io/blog/legacy/tis-the-season
 https://nnichols.github.io/blog/testing-addition
+https://nnichols.github.io/brew-bot/coverage/brew_bot/core.clj.html
+https://nnichols.github.io/brew-bot/coverage/brew_bot/generators.clj.html
+https://nnichols.github.io/brew-bot/coverage/brew_bot/ingredients.clj.html
+https://nnichols.github.io/brew-bot/coverage/brew_bot/spec.clj.html
+https://nnichols.github.io/brew-bot/coverage/brew_bot/util.clj.html
+https://nnichols.github.io/brew-bot/coverage/index.html
 https://nnichols.github.io/coc
 https://nnichols.github.io/code
 https://nnichols.github.io/code/nature
@@ -32,8 +38,10 @@ https://nnichols.github.io/dnd/imperial-nights/an-invitation
 https://nnichols.github.io/dnd/imperial-nights/a-simple-job
 https://nnichols.github.io/dnd/imperial-nights/friends-with-benefits
 https://nnichols.github.io/dnd/imperial-nights/in-service-of-the-master
+https://nnichols.github.io/dnd/imperial-nights/the-five-claws
 https://nnichols.github.io/dnd/imperial-nights/the-house-of-strahd
 https://nnichols.github.io/dnd/imperial-nights/the-state-of-things
+https://nnichols.github.io/dnd/imperial-nights/the-thief-and-the-knight
 https://nnichols.github.io/dnd/imperial-nights/where-all-roads-lead
 https://nnichols.github.io/dnd/ruminations-of-avalon
 https://nnichols.github.io/dnd/source-control-for-dungeon-masters
@@ -53,6 +61,7 @@ https://nnichols.github.io/dnd/wiki/deities/nar
 https://nnichols.github.io/dnd/wiki/deities/nusar
 https://nnichols.github.io/dnd/wiki/deities/odo
 https://nnichols.github.io/dnd/wiki/deities/shu
+https://nnichols.github.io/dnd/wiki/religion
 https://nnichols.github.io/images/nick_nichols.jpg
 https://nnichols.github.io/images/Ivalice.png
 https://nnichols.github.io/index
@@ -65,6 +74,15 @@ https://nnichols.github.io/nature/coverage/nature/monitors.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_operators.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_presets.clj.html
 https://nnichols.github.io/nature/coverage/nature/spec.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/index.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/core.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/forms.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/beings.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/descriptors.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/player_attributes.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/titles.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/twitter_interface.clj.html
+https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/utility.clj.html
 https://nnichols.github.io/sitemap
 https://nnichols.github.io/twitter
 https://nnichols.github.io/warhammer

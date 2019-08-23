@@ -133,3 +133,5 @@ To their knowledge, a man wearing a mask like the one Krug found shattered a str
 During the confusion, they lost track of that man and his associates, and are trying to get through the immediate chaos to begin investigating further.
 
 [&lt; Previous Chapter: In Service Of The Master](/dnd/imperial-nights/in-service-of-the-master)
+|
+[Next Chapter: The Five Claws >](/dnd/imperial-nights/the-five-claws)

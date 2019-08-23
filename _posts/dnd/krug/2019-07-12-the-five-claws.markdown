@@ -137,3 +137,23 @@ What brings you to my Ivory Tower?"
 
 He turns to greet them, but the low lighting casts a shadow over Ioctal's face, completely obscuring it from view.
 Thaelen, in awe of the resources before him, is the first to speak, "Uhhh, we found this and wanted to see where it came from."
+
+After a few minutes of examination, Ioctal explains that they are in possession of a cracked _Bead of Fireball._
+The wizard assumes the rest was detonated as part of the attack, and a structural flaw in this particular bead kept it from firing as expected.
+He offers to dispel any of the lingering magic, as it isn't stable; however, Thaelen keeps it while chuckling to himself.
+Most of the party stares in wide-eyed horror, and Jack notes this down as well.
+Ioctal then explains his protections at the **Cerulean Lyceum** would have alerted him, so it must have been smuggled in some time earlier.
+Knowing this, he recommends they search out any local fences and ne'er-do-wells, as it would have been difficult to accomplish with such high security present without local contacts.
+
+The party thanks him for a time, and tries to leave, but Thaelen asks Ioctal about his alma mater: the **College of Izzet** in Abberion.
+Ioctal has a long working relationship with the college; however, he has little memory of the past.
+In general, he has found it to be a solid program, and much of their research has uncovered major breakthroughs.
+Thaelen thanks him for the info and offers a swig of ill-begotten wine.
+Ioctal declines, stating it would do little for his current form.
+Thaelen, bewildered by the concept of abstinence, asks why.
+Ioctal pulls his hood back, revealing empty robes, and apologizes for any social transgression he may have committed.
+The party, thoroughly freaked out, returns to the platform and descends back to the city streets.
+
+[&lt; Previous Chapter: A Simple Job](/dnd/imperial-nights/a-simple-job)
+|
+[Next Chapter: The Thief and The Knight >](/dnd/imperial-nights/the-thief-and-the-knight)
