@@ -8,12 +8,7 @@ https://nnichols.github.io/blog/legacy/payback
 https://nnichols.github.io/blog/legacy/survive-adapt-evolve
 https://nnichols.github.io/blog/legacy/tis-the-season
 https://nnichols.github.io/blog/testing-addition
-https://nnichols.github.io/brew-bot/coverage/brew_bot/core.clj.html
-https://nnichols.github.io/brew-bot/coverage/brew_bot/generators.clj.html
-https://nnichols.github.io/brew-bot/coverage/brew_bot/ingredients.clj.html
-https://nnichols.github.io/brew-bot/coverage/brew_bot/spec.clj.html
-https://nnichols.github.io/brew-bot/coverage/brew_bot/util.clj.html
-https://nnichols.github.io/brew-bot/coverage/index.html
+https://nnichols.github.io/brew-bot
 https://nnichols.github.io/coc
 https://nnichols.github.io/code
 https://nnichols.github.io/code/nature
