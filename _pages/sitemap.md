@@ -17,6 +17,10 @@ permalink: "/sitemap/"
 -   [Code of Conduct](/coc/)
 -   [Contributions](/contribute/)
 
+## Hosted Applications:
+
+-   [brew-bot](https://nnichols.github.io/brew-bot/)
+
 ## Library Pages
 
 -   [nature](/code/nature)
