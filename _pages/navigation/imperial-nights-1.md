@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperial Nights
-permalink: "/dnd/imperial-nights/"
+permalink: "/dnd/imperial-nights/1"
 ---
 
 New heroes in a new age.

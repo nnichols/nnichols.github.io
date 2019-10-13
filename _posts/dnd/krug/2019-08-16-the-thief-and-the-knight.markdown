@@ -121,10 +121,10 @@ In a cold even tone, the man brings forth his accusations, "You will submit to m
 Tell me when you were first corrupted by these dark powers."
 
 The man begins to stutter a response, but begins choking on his tears.
-Thaelen, now too drunk to respond to the better judgement he alleges to posses, accosts the Inquisitor, "Ayy, you looking for them guys too?"
+Thaelen, now too drunk to respond to the better judgement he alleges to possess, accosts the Inquisitor, "Ayy, you looking for them guys too?"
 
 Stricken with rage, the man turns around, "I seek all who would obstruct our lord's will.
-What allegiance do you poses with these heretics."
+What allegiance do you possess with these heretics."
 
 "I, uhh, none?
 Just wanted to see if we could help."
@@ -141,47 +141,25 @@ This investigation is our charter."
 "Very well.
 I shall respect your queen's wishes, for the moment."
 He walks away, and his acolytes follow him without question.
+As the Inquisitor walks away, he turns his head and stares deep into Thaelen's soul.
+Disturbed by the entire encounter, Thaelen turns to the guard that intervened, "What's up that guy's ass?"
 
+The young man, a human with dusty blonde hair, goatee, and the armor of a conscript, sighs, "They're the representatives of the Idravalli Empire here for Lysanderoth's passing.
+The queen insisted upon their presence as a sign of good will, but I knew this would happen.
+They're dangerous, even to their own kind, so I'd steer clear.
+Every day they stay here, they take over more and more of this investigation.
+It'd be best if we got to the bottom of this quickly: people are getting restless."
 
+Jack slinks forward revealing his surprising charm, "Agreed!
+We should find those naughty ne'er-do-well's and put them in their place.
+There's a lead we're following that could put an end to this.
+What do you say?
+Could you help us out?"
 
-The Orders of the God Emperor’s Holy Inquisition
+The man nods to himself, "Very well.
+I shall assist you on this quest.
+Marion Theodred, at your service!"
 
-
-Recap:
-Captain Marie Osterlen hired Krug ‘n’ Krew on recommendation from Arminius Wintergale
-Threatened Eothan Millard to gain info on the Five Claws.
-Antagonized Lord Inquisitor Draelen Thrax
-Convinced a local guard, Marion Langley to join them
-Five Claws base of operations is the Jaded Knoll, a cave to the west of Whitestone
-Killed the three last Claws, final one performed a dark ritual and began ascending
-
-Other side of battle room: similar door leading to upper area.
-Found Treasure: 1500 copper, 500 silver, and 50 gold
-                +1 dagger
-                Immovable Rod
-                Cryptic orders (Plant the second seed of the Zodiac)
-                Altar to Tiamat
-
-When they return with the masks, as soon as the news of the quest’s resolution is known shuffle to the court of Castle Whitestone (District of Commons -> Lords -> Cloudtop -> Palace)
-
-Brought forth before the high court and international guests to explain what happened. Most questioning done within a Zone of Truth (DC: 15, if they choose to resist, which they will) by Arbiter Ariel Denome. At conclusion, general murmurs, and request to question from Thrax.
-
-Local court will object, but Queen Wighland will allow, since it is the Empire’s specialty
-
-ZONE OF TRUTH FADES
-
-Thrax Questions:
-When did these heretics first contact you?
-How were you corrupted by the dark icons of faith and covetous rituals of the Five Claws?
-Did you have unholy assistance in this quest?
-
-	Arminius will interject, using the credit of the Harpers and the Temple of the Platinum Dragon to end the questioning early. After deliberations, the party will earn an additional 50 gold as well as permanent rights to visit the inner districts of the city.
-
-Future hooks:
-HARPERS: Plenty of danger around the world, and in need of good help. Looking to reclaim a hold they once held in Eastmarh.
-ARMINIUS: Visiting the Winters’ Circle druids in Eastmarch- they will be announcing the guiding element of the next Draconic Guardian and officially commencing the third age
-QUEEN ARAMIR WIGHLAND: Cautious of the recent violence. The once peaceful Ushazan is experiencing tension for the first time in centuries
-RUMORS: A temple unearthed in Sembal, and rumors of disappearances. One of the Anathema’s sons is said to be investigating
-
-
-[&lt; Previous Chapter: The Five Claws >](/dnd/imperial-nights/the-five-claws)
+[&lt; Previous Chapter: The Five Claws](/dnd/imperial-nights/the-five-claws)
+|
+[Next Chapter: Error And Trial >](/dnd/imperial-nights/error-and-trial)

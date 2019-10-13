@@ -78,6 +78,7 @@ permalink: "/sitemap/"
 7.  [A Simple Job](/dnd/imperial-nights/a-simple-job)
 8.  [The Five Claws](/dnd/imperial-nights/the-five-claws)
 9.  [The Thief and The Knight](/dnd/imperial-nights/the-thief-and-the-knight)
+10. [Error and Trial](/dnd/imperial-nights/error-and-trial)
 
 ## Dark Heresy Campaign Logs (Play Order):
 
