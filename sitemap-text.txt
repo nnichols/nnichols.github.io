@@ -29,8 +29,10 @@ https://nnichols.github.io/dnd/carras-rosestem-anthropology-mysticum
 https://nnichols.github.io/dnd/carras-rosestem-anthropology-mysticum/animus
 https://nnichols.github.io/dnd/common-dnd-rules
 https://nnichols.github.io/dnd/imperial-nights
+https://nnichols.github.io/dnd/imperial-nights/1
 https://nnichols.github.io/dnd/imperial-nights/an-invitation
 https://nnichols.github.io/dnd/imperial-nights/a-simple-job
+https://nnichols.github.io/dnd/imperial-nights/error-and-trial
 https://nnichols.github.io/dnd/imperial-nights/friends-with-benefits
 https://nnichols.github.io/dnd/imperial-nights/in-service-of-the-master
 https://nnichols.github.io/dnd/imperial-nights/the-five-claws
