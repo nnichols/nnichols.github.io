@@ -16,14 +16,15 @@ description: "Almawt: Guide to Oblivion"
 **Symbols:** The Caduceus, The Serpent
 
 **Statements of Faith:**
-1.  The halls of the dead are filled with the echoes of the living
-2.  Death comes to all without exception
-3.  The dead have earned their rest
+
+1. The halls of the dead are filled with the echoes of the living
+2. Death comes to all without exception
+3. The dead have earned their rest
 
 **Connections:**
 
--   Heaven's Gate
--   [Nusar (Sworn Enemy)](/dnd/wiki/deities/nusar)
+- Heaven's Gate
+- [Nusar (Sworn Enemy)](/dnd/wiki/deities/nusar)
 
 ### Synopsis
 

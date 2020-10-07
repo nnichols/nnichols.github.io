@@ -20,10 +20,10 @@ The gods and daemons of Eibellion are living, breathing entities, and their will
 
 In general, all deities, wether gods or daemons, share these common traits:
 
-1.  Immortality, and immunity from aging and disease
-2.  A reliance upon worship for power
-3.  A deep connection to the Fold
-4.  A means of bestowing and revoking power to their followers
+1. Immortality, and immunity from aging and disease
+2. A reliance upon worship for power
+3. A deep connection to the Fold
+4. A means of bestowing and revoking power to their followers
 
 Beyond this, each divine entity's power, realm, and appearance differs wildly.
 And what an individual calls a god will depend upon their tribe.
