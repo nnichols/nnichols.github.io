@@ -51,9 +51,9 @@ The triton motions to the tabaxi, who magically fills a phial with Krug blood.
 With their contract signed in literal blood, the group asks for any information that could help them locate the painting.
 Dalzos, a generous host, provides them with three leads.
 
-1.  The Temple of the Raven Queen was robbed lost night. Believing the thieves to be amateurs, Dalzos believes they'd be dumb enough to draw that type of attention to themselves.
-2.  The circus is in town, and has a less-than-stellar reputation. Even if the thieves aren't a part of the circus, nobody would notice them skulking about.
-3.  Arminius is leading his own investigation, and would certainly know _something_ about the suspects.
+1. The Temple of the Raven Queen was robbed lost night. Believing the thieves to be amateurs, Dalzos believes they'd be dumb enough to draw that type of attention to themselves.
+2. The circus is in town, and has a less-than-stellar reputation. Even if the thieves aren't a part of the circus, nobody would notice them skulking about.
+3. Arminius is leading his own investigation, and would certainly know _something_ about the suspects.
 
 The group decides to talk through their plans over a drink.
 Surprising no one, they order Maltört.
@@ -91,8 +91,8 @@ Meanwhile, Tlareg finds a small, gaudy tent serving as the home of a fortune tel
 The decorations are designed as a draw, and the entire thing reeks of a scam; however, Tlareg discerns the old, dark skinned human woman is genuine.
 He asks to see his past and his future, and, while examining his palms, she draws two tarot cards:
 
-1.  **The Nine of Wands** - While standoffish and paranoid, it is Tlareg's resilience and determination that have driven him so far. He is focused, driven, and determined. The difficulties of his past have built up to his future.
-2.  **The Ten of Wands** - The person Tlareg is looking for _can_ be found; however, it will require sacrifice. Tlareg is capable of great things, but he will have to carry the weight and bear the price of his journey. In his future, he will have to decide between his destiny and accomplishments.
+1. **The Nine of Wands** - While standoffish and paranoid, it is Tlareg's resilience and determination that have driven him so far. He is focused, driven, and determined. The difficulties of his past have built up to his future.
+2. **The Ten of Wands** - The person Tlareg is looking for _can_ be found; however, it will require sacrifice. Tlareg is capable of great things, but he will have to carry the weight and bear the price of his journey. In his future, he will have to decide between his destiny and accomplishments.
 
 Tlareg reflects on the words, and asks if the woman knows of the painting.
 Seeing his all-access pass and no other customers, she offers a second telling.

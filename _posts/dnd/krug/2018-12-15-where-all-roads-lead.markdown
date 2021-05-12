@@ -76,11 +76,11 @@ Mikhail, the Inn's proprietor, pays them additional 12 gold and points to a smal
 
 The party discusses their options:
 
-1.  An oddly lucrative contract for any and all adventurers on a jungle island in the north
-2.  The **Ordo Inquisitas** offering bounties on any and all heretics
-3.  A missing person case in **Ravensloft**, the capital of Barovia
-4.  An opportunity to mediate a dispute between a logging company and some local druids
-5.  Guard work for the **Ordo Administorum**
+1. An oddly lucrative contract for any and all adventurers on a jungle island in the north
+2. The **Ordo Inquisitas** offering bounties on any and all heretics
+3. A missing person case in **Ravensloft**, the capital of Barovia
+4. An opportunity to mediate a dispute between a logging company and some local druids
+5. Guard work for the **Ordo Administorum**
 
 Realizing they aren't familiar with the current state of affairs in Barovia, they ask Mikhail for his thoughts.
 He warns the group that nobody has ever been seen coming back from the first contract, and that it is likely a scam; however, he seems hesitant to discuss local matters.
@@ -122,9 +122,9 @@ Thaelen drinks heavily.
 Krug tries his hardest to remember his own name.
 Eventually she draws the following cards, representing the three phases of life- Past, Present, and Future.
 
-1.  **The Page of Wands** - He has a strange enthusiasm and eagerness, and a willingness to learn what most would ignore or fear. While there are some scars from this time, they will heal into something greater.
-2.  **The High Priestess** - His insight into the souls of others is a source of power rarely shared. While he says little, he knows much. He acts as a benign aide to those in need, if they deserve it.
-3.  **The Magician** - Studiousness is rewarded, and in the arcane, it can mean nearly limitless power; however, it comes from a temperamental source. Should he falter, he may peak early or far worse.
+1. **The Page of Wands** - He has a strange enthusiasm and eagerness, and a willingness to learn what most would ignore or fear. While there are some scars from this time, they will heal into something greater.
+2. **The High Priestess** - His insight into the souls of others is a source of power rarely shared. While he says little, he knows much. He acts as a benign aide to those in need, if they deserve it.
+3. **The Magician** - Studiousness is rewarded, and in the arcane, it can mean nearly limitless power; however, it comes from a temperamental source. Should he falter, he may peak early or far worse.
 
 Tlareg asks Lise about her knowledge of the arcane, but she responds coyly.
 There is a slight unease, and the party decides to drink it off.

@@ -159,11 +159,11 @@ Dalzos is worried about current events, and has started sending people into the 
 The ringmaster is following up on reports of stranger-than-normal happenings across the nation.
 Werm was asked to deliver several warnings and a message from Dalzos, in the hopes of directing the party's attention to one such manner.
 
-1.  Always know who you’re talking to.
+1. Always know who you’re talking to.
     Establish a code.
-2.  Strahd has eyes everywhere.
+2. Strahd has eyes everywhere.
     Be discrete.
-3.  Nothing is what it appears to be.
+3. Nothing is what it appears to be.
     Check everything twice.
 
 Thaelen thanks the hobgoblin, and asks what Dalzos wanted to know about in Ravensloft.

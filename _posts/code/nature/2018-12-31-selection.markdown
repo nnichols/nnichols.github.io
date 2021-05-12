@@ -14,11 +14,11 @@ In most implementations, each individual is selected fairly with a probability o
 
 It's as easy as that.
 
-#### Genetic Algorithm Phases:
+#### Genetic Algorithm Phases
 
-1.  [Initialization](/code/nature/initialization)
-2.  [Fitness Evaluation](/code/nature/fitness-evaluation)
-3.  **Selection**
-4.  [Reproduction](/code/nature/reproduction)
-5.  [Mutation](/code/nature/mutation)
-6.  [Generation Advancement and Termination](/code/nature/termination)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. **Selection**
+4. [Reproduction](/code/nature/reproduction)
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)

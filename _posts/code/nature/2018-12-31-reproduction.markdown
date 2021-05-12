@@ -73,11 +73,11 @@ Like selection, we're relying on the natural pressures asserted by probability a
 | **Parent B** | **7**   | **0**        | **25** | **4**        | **10** |
 | Child        | _0_     | **0**        | _50_   | _10_         | **10** |
 
-#### Genetic Algorithm Phases:
+#### Genetic Algorithm Phases
 
-1.  [Initialization](/code/nature/initialization)
-2.  [Fitness Evaluation](/code/nature/fitness-evaluation)
-3.  [Selection](/code/nature/selection)
-4.  **Reproduction**
-5.  [Mutation](/code/nature/mutation)
-6.  [Generation Advancement and Termination](/code/nature/termination)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. [Selection](/code/nature/selection)
+4. **Reproduction**
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)

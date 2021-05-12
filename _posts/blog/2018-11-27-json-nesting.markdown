@@ -62,9 +62,9 @@ CREATE INDEX jsonidx ON table ((data->>'title'));
 
 Okay, from a syntactic point of view, not a lot has changed. Our data is still in a table, after all. So, what's the big deal? Why do we want large, unstructured blocks of data in a paradigm based on structure and relationships? Well, if you've ever read a MongoDB forum, or visited a Slack channel for web developers, or happened to be at a bus stop with a developer who has, at one point, heard of NoSQL, you'll invariably hear one of three answers:
 
-1.  Minimize relationship complexity
-2.  Maximize schema flexibility
-3.  [You turn it on and it scales right up](https://www.youtube.com/watch?v=b2F-DItXtZs "Every MongoDB argument to date")
+1. Minimize relationship complexity
+2. Maximize schema flexibility
+3. [You turn it on and it scales right up](https://www.youtube.com/watch?v=b2F-DItXtZs "Every MongoDB argument to date")
 
 I lack the emotional fortitude to jump into raw metal v metal performance <s>pissing contests</s> discussions. We can analyze the first two points at a syntactic and ideologic level, without having to worry (too much) about configurations. With everything above in mind, let's talk about `INSERT.`
 

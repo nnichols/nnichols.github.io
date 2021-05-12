@@ -19,8 +19,8 @@ The relationship you establish between all of your data points is crucial, becau
 For example, the above function does not take into account the limits of our bag.
 During initialization, we may have added constraints to prevent bag-breaking solutions or more items than there are available for purchase; however, most evaluation functions allow room for solutions past problem boundaries for two reasons:
 
-1.  The creation and modification of individuals may easily allow solutions to fall out of bounds
-2.  Out-of-bound solutions may contain useful information
+1. The creation and modification of individuals may easily allow solutions to fall out of bounds
+2. Out-of-bound solutions may contain useful information
 
 That isn't to say they're allowed to cheat and get scored highly.
 In those instances, a penalty is often applied.
@@ -40,11 +40,11 @@ Plugging the numbers into an existing model is very easy to do.
 As was the case with **Initialization**, a lot of the work is done before coding begins.
 Thankfully, using our data model is far easier than creating it.
 
-#### Genetic Algorithm Phases:
+#### Genetic Algorithm Phases
 
-1.  [Initialization](/code/nature/initialization)
-2.  **Fitness Evaluation**
-3.  [Selection](/code/nature/selection)
-4.  [Reproduction](/code/nature/reproduction)
-5.  [Mutation](/code/nature/mutation)
-6.  [Generation Advancement and Termination](/code/nature/termination)
+1. [Initialization](/code/nature/initialization)
+2. **Fitness Evaluation**
+3. [Selection](/code/nature/selection)
+4. [Reproduction](/code/nature/reproduction)
+5. [Mutation](/code/nature/mutation)
+6. [Generation Advancement and Termination](/code/nature/termination)

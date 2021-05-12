@@ -14,20 +14,20 @@ To explain, let's start with an example not too far away from daily life: shoppi
 In my hometown, there was a hardware store that held a unique sale every year.
 When you walked in, you were given a brown paper grocery bag and a few simple rules:
 
-1.  At checkout time, any item in the bag would be marked down by 11%
-2.  The items in the bag couldn't pile out over the top
-3.  The bag had to remain intact
-4.  The offer was only good for tangible items in the store on the day of the sale
+1. At checkout time, any item in the bag would be marked down by 11%
+2. The items in the bag couldn't pile out over the top
+3. The bag had to remain intact
+4. The offer was only good for tangible items in the store on the day of the sale
 
 So, being well-educated consumers, we want to get the best discount possible.
 How should we formulate a strategy for picking items to go in the bag?
 In real life, we tend to use a guiding rule to help make our shopping decisions.
 Imagine evaluating how "good" the discount is for various items:
 
--   Cotton stuffing takes up a lot of space, and is very cheap.
--   Weed killer is expensive, but might weigh more than the bag can support.
--   A ladder can't fit in a grocery bag
--   Specialty drill bits are expensive, small, and light.
+- Cotton stuffing takes up a lot of space, and is very cheap.
+- Weed killer is expensive, but might weigh more than the bag can support.
+- A ladder can't fit in a grocery bag
+- Specialty drill bits are expensive, small, and light.
 
 This type of reasoning, which I like to call "napkin math," guides many of our real-life decisions: navigating, shopping, packing.
 With a bit of rigor, we can model this problem with mathematics.
@@ -111,8 +111,8 @@ The relationship you establish between all of your data points is crucial, becau
 For example, the above function does not take into account the limits of our bag.
 During initialization, we may have added constraints to prevent bag-breaking solutions or more items than there are available for purchase; however, most evaluation functions allow room for solutions past problem boundaries for two reasons:
 
-1.  The creation and modification of individuals may easily allow solutions to fall out of bounds
-2.  Out-of-bound solutions may contain useful information
+1. The creation and modification of individuals may easily allow solutions to fall out of bounds
+2. Out-of-bound solutions may contain useful information
 
 That isn't to say they're allowed to cheat and get scored highly.
 In those instances, a penalty is often applied.
@@ -247,9 +247,9 @@ This may be further extended, copying the top _n_ individuals between generation
 
 In either case, this process often repeats until one of three criteria is met:
 
-1.  A pre-determined number of generations has passed
-2.  A fitness threshold is crossed by the elite or by the average individual
-3.  Convergence
+1. A pre-determined number of generations has passed
+2. A fitness threshold is crossed by the elite or by the average individual
+3. Convergence
 
 The first criteria is straightforward.
 Without intervention, this cycle could execute indefinitely, and execution time can easily be controlled artificially.

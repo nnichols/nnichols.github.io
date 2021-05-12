@@ -24,18 +24,17 @@ In either case, this is what the result could look like:
 | _Original_  | _0_     | _2_          | _50_   | _10_         | _4_    |
 | **Mutant**  | **1**   | **2**        | **50** | **10**       | **4**  |
 
-<br />
 Note that the genetic sequences are nearly identical.
 This is intentional, as many Genetic Algorithms choose a mutation rate equal to 1 divided by the length of the genetic sequence; however, [better strategies may exist.](http://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/Needle/back.pdf)
 Mutation, as a class of operators, serves the purpose of breaking out of local optima.
 As successful genetic patterns are copied, they may begin to prematurely converge towards a good-but-not-great region.
 With small, infrequent changes, solutions may hop towards nearby potential regions that could have been ignored.
 
-#### Genetic Algorithm Phases:
+#### Genetic Algorithm Phases
 
-1.  [Initialization](/code/nature/initialization)
-2.  [Fitness Evaluation](/code/nature/fitness-evaluation)
-3.  [Selection](/code/nature/selection)
-4.  [Reproduction](/code/nature/reproduction)
-5.  **Mutation**
-6.  [Generation Advancement and Termination](/code/nature/termination)
+1. [Initialization](/code/nature/initialization)
+2. [Fitness Evaluation](/code/nature/fitness-evaluation)
+3. [Selection](/code/nature/selection)
+4. [Reproduction](/code/nature/reproduction)
+5. **Mutation**
+6. [Generation Advancement and Termination](/code/nature/termination)

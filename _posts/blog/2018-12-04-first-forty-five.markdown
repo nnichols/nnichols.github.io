@@ -11,9 +11,9 @@ I somewhat recently (within the last quarter) made a career jump; however, _my_ 
 
 Over my career, I've spent 5 summers as an intern, 5 years working with interns and recent hires, and undergone my recent transition myself. I am not an HR specialist, nor have I ever been a part of "Workforce", "Recruiting", "Resource Management", or whatever linguistic veneer your company wraps around the job duties of "people management that excludes hiring, firing, and payroll." These have always been elective duties. Why?
 
-1.  "Culture" as a broad, vague term rarely has the organizational focus to become the responsibility of a standalone team, department, etc. Outside of the nameless start-ups featured in Forbes, it is still a nebulous concept that's rarely owned or tracked on paper.
-2.  Culture tracking, autoethnography, etc. typically falls to informal communication channels, which used to be called water-cooler talk, for a good reason. The "official" label of a culture department often stifles the real conversations that need to happen, especially in unhealthy environments.
-3.  I enjoyed the work associated with **1** and **2**, had capacity and enthusiasm, and nobody explicitly said I couldn't. After all, why wouldn't you want an employee doing extra work?
+1. "Culture" as a broad, vague term rarely has the organizational focus to become the responsibility of a standalone team, department, etc. Outside of the nameless start-ups featured in Forbes, it is still a nebulous concept that's rarely owned or tracked on paper.
+2. Culture tracking, autoethnography, etc. typically falls to informal communication channels, which used to be called water-cooler talk, for a good reason. The "official" label of a culture department often stifles the real conversations that need to happen, especially in unhealthy environments.
+3. I enjoyed the work associated with **1** and **2**, had capacity and enthusiasm, and nobody explicitly said I couldn't. After all, why wouldn't you want an employee doing extra work?
 
 Given that many of my peers have very recently made career hops as well, I've noticed a few trends and opportunities on both ends of an employee's tenure with your organization. Let's deal with the uncomfortable one first.
 
@@ -31,8 +31,8 @@ Whether it's because they quit, retired, got fired, or whatever, eventually ever
 
 As most businesses probably say, we should seize every opportunity we can. In most organizations, voluntary termination takes one of two forms:
 
-1.  Piling on the hardest, shittiest, most repetitive work
-2.  Exit Interviews
+1. Piling on the hardest, shittiest, most repetitive work
+2. Exit Interviews
 
 Obviously **1** is a bad idea, because a) that employee now hates you, and b) they will feel no obligation to do it (well). After all, what are you going to do? Fire them?
 
@@ -42,9 +42,9 @@ The core issues span both sides of the spectrum: people lie and metrics for this
 
 So, what incentivizes people to lie during an exit interview?
 
-1.  Things may not work out at their new job, life phase, etc. and they want an open door to come back through
-2.  They don't believe the organization is capable of change
-3.  They're so mentally and emotionally "over it" that they'll choose the path of least resistance
+1. Things may not work out at their new job, life phase, etc. and they want an open door to come back through
+2. They don't believe the organization is capable of change
+3. They're so mentally and emotionally "over it" that they'll choose the path of least resistance
 
 It's way too late to do anything about **3**. If some-to-most of your employees are leaving in this state, your organization has severe, systemic deficiencies and needs more intense triaging than gentle reflection.
 
@@ -56,9 +56,9 @@ This is where things become difficult. When handling in-person exit interviews, 
 
 It's not even worth talking about electronic and paper surveys, as nothing say "We really don't give a shit" quite like a SurveyMonkey link sent on your last day in the office. If you want to understand the motivating emotional and cognitive factors behind an employee's decision to leave your organization voluntarily, you need to engage with them on an emotional and cognitive level. This is the time to ask the questions you **should** have been along the way:
 
--   How did you feel working here? Are you glad to be leaving?
--   Did you feel included in the organization? Did we do **anything** keeping you from feeling that way?
--   When and how did we fail you? What motivated you to leave?
+- How did you feel working here? Are you glad to be leaving?
+- Did you feel included in the organization? Did we do **anything** keeping you from feeling that way?
+- When and how did we fail you? What motivated you to leave?
 
 I know. You're feeling defensive, aren't you?
 
@@ -84,17 +84,17 @@ I can't take credit for this idea: my new boss tried me as a guinea pig for this
 
 In this meeting, it's important that anyone with elevated status or power (be it perceived or organizationally enforced) to ensure that everyone feels comfortable being honest **without fear of reproach for being honest**. Often, this means listening and not speaking. Once that's out of the way, set the following ground rules:
 
-1.  Everyone should act in good faith, and believe whatever is said, even if they disagree
-2.  Do your best to build off of other's examinations in a "Yes, and..." fashion
-3.  Don't get defensive, attempt to quell discussion, or distracted.
+1. Everyone should act in good faith, and believe whatever is said, even if they disagree
+2. Do your best to build off of other's examinations in a "Yes, and..." fashion
+3. Don't get defensive, attempt to quell discussion, or distracted.
 
 From there, kick off the first few questions to start discussion. Once everyone hits a self-sustaining level of dialogue, back off. There's no need to finish every question or to hit a certain time limit. Leave well enough alone. Here are some example questions:
 
-1.  How has your first &lt;&lt; Insert timeframe here >> gone?
-2.  What do we do well? What do we do poorly?
-3.  How was your last organization, job, etc. compared to your current one?
-4.  What would you change, stop, or start if you could?
-5.  What was difficult about on-boarding? What went well? Are you settling in okay?
+1. How has your first &lt;&lt; Insert timeframe here >> gone?
+2. What do we do well? What do we do poorly?
+3. How was your last organization, job, etc. compared to your current one?
+4. What would you change, stop, or start if you could?
+5. What was difficult about on-boarding? What went well? Are you settling in okay?
 
 The discussion can go in _a lot_ of different directions, but regardless of what is said, there is one thing that must be done. **Notes must be taken and followed up on.** You, as a team, have to make a commitment to addressing what is brought up. This is vital. Without action, this becomes just another navel-gazing circle-jerk. During my discussion, we found action items to be owned and handled by a swath of people. I'm re-writing a few training documents to get rid of repetitive segments. My boss is looking into a few of our rituals/meetings for new employees. My team is re-inspecting how it handles our product model. From there, it falls into your work management flow of choice: kanban, agile, etc.
 

@@ -16,17 +16,18 @@ description: "Hermaeus: Seer of the Void"
 **Symbols:** The All-Seeing Eye
 
 **Statements of Faith:**
-1.  All knowledge comes at a price. To learn, one must teach
-2.  The Fold is a tapestry of all things that are, all things that have been, and all things that will be.
-3.  Knowledge is power
+
+1. All knowledge comes at a price. To learn, one must teach
+2. The Fold is a tapestry of all things that are, all things that have been, and all things that will be.
+3. Knowledge is power
 
 **Connections:**
 
--   The Grand Arcanum
--   Vecna (Sworn Enemy)
--   Iris Vorchest (Champion)
--   Kalaesei Vestiimar (Worshipper)
--   Bruce (Thrall)
+- The Grand Arcanum
+- Vecna (Sworn Enemy)
+- Iris Vorchest (Champion)
+- Kalaesei Vestiimar (Worshipper)
+- Bruce (Thrall)
 
 ### Synopsis
 

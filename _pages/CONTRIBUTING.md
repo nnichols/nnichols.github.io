@@ -14,9 +14,9 @@ Please note I have a [code of conduct](/coc), please follow it in all your inter
 
 ## Pull Requests
 
-1.  Contact myself through any available means.
-2.  If any change would impact the directory or URL structure of the website, be sure to update every instance of the impacted URLS to reflect any relevant differences.
-3.  Build the site with jekyll to ensure no critical faults exist.
+1. Contact myself through any available means.
+2. If any change would impact the directory or URL structure of the website, be sure to update every instance of the impacted URLS to reflect any relevant differences.
+3. Build the site with jekyll to ensure no critical faults exist.
 
 ### Want to contribute but don't know where to start?
 

@@ -16,14 +16,15 @@ description: "Feng: Chaser of the Wind"
 **Symbol:** The Maelstrom
 
 **Statements of Faith:**
-1.  Spin free the wheel of chaos
-2.  The storm culls the weak
-3.  Stagnation is death
+
+1. Spin free the wheel of chaos
+2. The storm culls the weak
+3. Stagnation is death
 
 **Connections:**
 
--   Razor Fang
--   Winter's Circle
+- Razor Fang
+- Winter's Circle
 
 ### Synopsis
 

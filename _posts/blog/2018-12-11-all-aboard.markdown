@@ -25,11 +25,11 @@ Why do I bring this up? To underscore the concept of a front-end load investment
 
 Once your employees walk through the door, you'll continue to have costs. Here are a few quick examples that, while mostly focused on developers, span most functions and job duties:
 
-1.  Industry Education - What does your company do? How does it accomplish that? What data matters?
-2.  Mandated Training - HIPAA, RESPA, or anything else the government generally requires of your industry
-3.  Team Training - How do we contribute to the company? What software/platforms/etc do we use? How are responsibilities shared?
-4.  Individual Training - What frameworks/tools do I need to learn? What skills do I need to sharpen? What habits do I need to break?
-5.  Day-to-Day Adjustments - Where do I get coffee? Who runs the retirement plan? How often do I meet with my boss?
+1. Industry Education - What does your company do? How does it accomplish that? What data matters?
+2. Mandated Training - HIPAA, RESPA, or anything else the government generally requires of your industry
+3. Team Training - How do we contribute to the company? What software/platforms/etc do we use? How are responsibilities shared?
+4. Individual Training - What frameworks/tools do I need to learn? What skills do I need to sharpen? What habits do I need to break?
+5. Day-to-Day Adjustments - Where do I get coffee? Who runs the retirement plan? How often do I meet with my boss?
 
 All of these involve people spending time explaining things. Sure, you can (and should) write a lot of this down, but manual documentation is only as good as the people writing and updating it. It's one of the first things to fall by the wayside, and one-on-one explanations and walkthroughs are a great way to start relationships. Either way, you're spending the time of multiple people, which you are paying for. This is a good and healthy investment. Throwing a new employee in the corner with a pile of documentation is a quick way to build resentment, and that's it. If your organization is willing to commit to hiring a new employee, you must also be ready to commit to making them a good employee.
 
@@ -47,21 +47,21 @@ I've said this before, but it bears repeating, Human Resources should focus on _
 
 Just by changing jobs, they may be running into some of the following problems:
 
-1.  They have to roll their retirement accounts over
-2.  They have to figure out which doctors, dentists, optometrists, etc. are in their new benefits package
-3.  They need to figure out a new commute, daily schedule, lunch group, etc.
-4.  They need to follow-up on hiring documentation
-5.  They have to learn a new framework, language, tool, etc.
+1. They have to roll their retirement accounts over
+2. They have to figure out which doctors, dentists, optometrists, etc. are in their new benefits package
+3. They need to figure out a new commute, daily schedule, lunch group, etc.
+4. They need to follow-up on hiring documentation
+5. They have to learn a new framework, language, tool, etc.
 
 If there's a relocation, this can telescope out into bigger and longer questions:
 
-1.  What am I going to do with my old house?
-2.  Which schools should my kids go to?
-3.  When am I going to find new friends, new restaurants, etc?
-4.  Where is the closest DMV that isn't always busy?
+1. What am I going to do with my old house?
+2. Which schools should my kids go to?
+3. When am I going to find new friends, new restaurants, etc?
+4. Where is the closest DMV that isn't always busy?
 
 In either case, there's a very large stressor underlining all of these decisions and questions:
 
-1.  Having to internalize and adapt to all of this, and feeling pressure to do it as quickly as possible
+1. Having to internalize and adapt to all of this, and feeling pressure to do it as quickly as possible
 
 Even if you perfect your on-boarding process, there will be some underlying stress and an adjustment phase. It's all part of the investment you've made. Recognize that the organization, the team, and the individual need time to adjust and adapt. Even if it's not a metric that shows up on your biggest and brightest dashboard, it's a vital part of your organization's health.

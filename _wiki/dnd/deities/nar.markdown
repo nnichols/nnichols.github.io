@@ -16,20 +16,21 @@ description: "Nar: The Torch of the Heavens"
 **Symbols:** The Torch, The Sun
 
 **Statements of Faith:**
-1.  Shine as an example of the virtues of the heavens, and drive out the darkness of the hells
-2.  Through faith, all things may be endured
-3.  Forget not the sacrifices made to preserve this land
+
+1. Shine as an example of the virtues of the heavens, and drive out the darkness of the hells
+2. Through faith, all things may be endured
+3. Forget not the sacrifices made to preserve this land
 
 **Connections:**
 
--   Heaven's Gate
--   The Harpers
--   [Huang (Sworn Enemy)](/dnd/wiki/deities/huang)
--   [Nusar (Sworn Enemy)](/dnd/wiki/deities/nusar)
--   Orcus (Sworn Enemy)
--   Vecna (Sworn Enemy)
--   Laureline Viccar (Champion)
--   Jack Prostyson (Knight Errant)
+- Heaven's Gate
+- The Harpers
+- [Huang (Sworn Enemy)](/dnd/wiki/deities/huang)
+- [Nusar (Sworn Enemy)](/dnd/wiki/deities/nusar)
+- Orcus (Sworn Enemy)
+- Vecna (Sworn Enemy)
+- Laureline Viccar (Champion)
+- Jack Prostyson (Knight Errant)
 
 ### Synopsis
 
@@ -68,4 +69,4 @@ TODO
 
 ### Trivia
 
--  Nar was originally conceptualized as an evil deity, representing the fires of the Nine Hells.
+- Nar was originally conceptualized as an evil deity, representing the fires of the Nine Hells.

@@ -62,9 +62,9 @@ Left without the cash needed to secure a room for the remainder of the night, Si
 He eventually finds Gadriel studying a large pile of maps by candlelight.
 In a very long, haphazardly assembled series of slurs, Sif brings the elf up to speed.
 
-1.  **Gadriel's Mineral Acquisitions** will be fully staffed after Aryn and Grok make the return trip with the rescued miners.
-2.  Sif watched Grok "smash gobbies" and thinks he's a hero deserving of a raise
-3.  "Some spider guys want you dead as fuck buddy"
+1. **Gadriel's Mineral Acquisitions** will be fully staffed after Aryn and Grok make the return trip with the rescued miners.
+2. Sif watched Grok "smash gobbies" and thinks he's a hero deserving of a raise
+3. "Some spider guys want you dead as fuck buddy"
 
 As you can see, the formatting takes up little space compared to the written text, and lacks the portability issues of formats like _.doc_ and _.odf_
 It's slim enough that I use Markdown for most of my digital note-taking, but in a very specific way.

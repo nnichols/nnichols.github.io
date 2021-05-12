@@ -16,16 +16,17 @@ description: "Odo: Great White Elk Of The Silvermoon Forest"
 **Symbol:** The Oak Leaf
 
 **Statements of Faith:**
-1.  Even the life of a pest is sacred
-2.  Heed the calls of the wild
-3.  Like drops in the ocean, all life is bound as one
+
+1. Even the life of a pest is sacred
+2. Heed the calls of the wild
+3. Like drops in the ocean, all life is bound as one
 
 **Connections:**
 
--   Heaven's Gate
--   The Harpers
--   Sif (Worshipper)
--   Orcus (Sworn Enemy)
+- Heaven's Gate
+- The Harpers
+- Sif (Worshipper)
+- Orcus (Sworn Enemy)
 
 ### Synopsis
 

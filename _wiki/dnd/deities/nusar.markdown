@@ -16,18 +16,19 @@ description: "Nusar: The Iron Eagle"
 **Symbols:** The Eagle, The Axe
 
 **Statements of Faith:**
-1.  All life is a struggle towards perfection.
-2.  True warriors gain advantage through strength, not petty tricks
-3.  Blood is the only worthy offering- yours, or theirs
+
+1. All life is a struggle towards perfection.
+2. True warriors gain advantage through strength, not petty tricks
+3. Blood is the only worthy offering- yours, or theirs
 
 **Connections:**
 
--   The Highseer (Hierophant)
--   Hokulk (Herald of the End War)
--   Grok (Champion)
--   Yasada (Emissary)
--   General Vladimir Anulan (Worshipper)
--   Torryn Scaleslayer (Worshipper)
+- The Highseer (Hierophant)
+- Hokulk (Herald of the End War)
+- Grok (Champion)
+- Yasada (Emissary)
+- General Vladimir Anulan (Worshipper)
+- Torryn Scaleslayer (Worshipper)
 
 ### Synopsis
 

@@ -16,14 +16,15 @@ description: "Huang: Jester Of The Hells"
 **Symbols:** Twin Masks of Tragedy and Comedy
 
 **Statements of Faith:**
-1.  Chaos is the natural order of things
-2.  Destruction is the grandest entertainment
-3.  Death should be agonizing, and beautiful
+
+1. Chaos is the natural order of things
+2. Destruction is the grandest entertainment
+3. Death should be agonizing, and beautiful
 
 **Connections:**
 
--   Kato Island Players
--   Nar (Sworn Enemy)
+- Kato Island Players
+- Nar (Sworn Enemy)
 
 ### Synopsis
 

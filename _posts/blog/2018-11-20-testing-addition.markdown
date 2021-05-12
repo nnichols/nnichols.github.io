@@ -15,15 +15,15 @@ I know what you're thinking, "It's such a primitive language feature! Why would 
 
 Before we begin, take this reflective assignment as a context primer. Think over your last year of coding, QA testing, product support, etc. Now, ask yourself the three following questions:
 
-1.  How many bugs/errors did I discover?
-2.  How many were caused by trivial or silly mistakes?
-3.  How many could have been caught with 1-2 more test cases?
+1. How many bugs/errors did I discover?
+2. How many were caused by trivial or silly mistakes?
+3. How many could have been caught with 1-2 more test cases?
 
 If your experience has been anything like mine, your answers will probably look something like this:
 
-1.  How many bugs/errors did I discover? _A handful each sprint_
-2.  How many were caused by trivial or silly mistakes? _Most, maybe 80%_
-3.  How many could have been caught with 1-2 more test cases? _Most, maybe 80%_
+1. How many bugs/errors did I discover? _A handful each sprint_
+2. How many were caused by trivial or silly mistakes? _Most, maybe 80%_
+3. How many could have been caught with 1-2 more test cases? _Most, maybe 80%_
 
 Obviously, your mileage may vary. The main observation is twofold: Most bugs are caused by accidents and silly mistakes, and, once corrected, a test case is usually added to ensure they never come back. Given the amount of concurrent work most systems experience, this is a decent pattern for correction; however, I'd rather talk about prevention.
 
@@ -80,7 +80,7 @@ I want to pause and mention that this _is not_ the meant to be the same as Behav
   (testing "Adding a smaller positive number and a larger negative number, makes a negative number"
     (is (< -3 (add 1 -3) 0 1)))
   (testing "Adding two positive numbers makes a bigger negative number"
-    (is (< (add -1 -3) -1 -3))))    
+    (is (< (add -1 -3) -1 -3))))
 ```
 
 While we're still using enumerated, specified test cases, our testing rigor has increased. Why? Because we're testing _behaviors_ against each other, not just values. In order to get _any_ value from randomized testing, we need to know and understand general behaviors of our programs.
@@ -94,11 +94,11 @@ While we're still using enumerated, specified test cases, our testing rigor has 
         (testing "Adding two positive numbers makes a bigger positive number"
           (is (< a (add a b)))
           (is (< b (add a b)))
-      (and (neg? a) (neg? b))    
+      (and (neg? a) (neg? b))
         (testing "Adding two negative numbers makes a bigger negative number"
           (is (< (add a b) a))
           (is (< (add a b) b)))
-      ...  
+      ...
 ```
 
 Our new tests presuppose very little. We assert these behaviors are true for **any** integer, not just the ones we've listed. We know that our implementation _behaves_ the same way that addition should, and every observation and execution of these tests builds our confidence more and more. So, aside from running our test suite ad infinitum, how else can we build our confidence?
@@ -117,7 +117,7 @@ In general, if we understand the relationship between our inputs and outputs wel
     (testing "Addition is associative"
       (is (= (add (add a b) c) (add a (add b c)))))
     (testing "0 is the identity element for addition"
-      (is (= a (add 0 a))))))         
+      (is (= a (add 0 a))))))
 ```
 
 The properties of commutativity and associativity are true, regardless of the values, or even family of values, we use. The above tests are useful since they test the consistency of the function against strong, mathematical invariants. We're no longer tracking attributes of our test data, or making statements that are conditionally true.
@@ -142,8 +142,8 @@ The relationship between input and output is where most coding starts, and it's 
 
 ### Takeaways
 
-1.  A varied testing strategy will take you farther than dogma
-2.  Write stronger tests before you just write more tests
-3.  Use randomized data (and mutation testing, if you desire) to test the assumptions you make
+1. A varied testing strategy will take you farther than dogma
+2. Write stronger tests before you just write more tests
+3. Use randomized data (and mutation testing, if you desire) to test the assumptions you make
 
 As Dijkstra says, "Testing shows the presence, not the absence of bugs." Therefore, it's important to focus on tests that target likely weak points, make bold claims, and explore as much of the application's problem domain as possible. Humans make mistakes. Your code has bugs, and finding and squashing them is crucial. The point of these test cases isn't to nit-pick through everyone else's code or testing suites, but to help search for bugs wherever they made be found.

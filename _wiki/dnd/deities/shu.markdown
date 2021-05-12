@@ -16,17 +16,18 @@ description: "Shú: Strangleroot Of The Bog Of Bal’Gorod"
 **Symbols:** The Vine, The Moon
 
 **Statements of Faith:**
-1.  The world was here before us, and will survive after us
-2.  All things are connected
-3.  Seek to undo corruption and blight
+
+1. The world was here before us, and will survive after us
+2. All things are connected
+3. Seek to undo corruption and blight
 
 **Connections:**
 
--   Heaven's Gate
--   Razor Fang
--   Lord Ravenscroft (Worshipper)
--   Orcus (Sworn Enemy)
--   Vecna (Sworn Enemy)
+- Heaven's Gate
+- Razor Fang
+- Lord Ravenscroft (Worshipper)
+- Orcus (Sworn Enemy)
+- Vecna (Sworn Enemy)
 
 ### Synopsis
 
