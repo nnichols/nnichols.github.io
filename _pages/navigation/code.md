@@ -4,6 +4,6 @@ title: Code
 permalink: "/code/"
 ---
 
-## Current Repositories:
+## Current Repositories
 
--   [nature](/code/nature)
+- [nature](/code/nature)

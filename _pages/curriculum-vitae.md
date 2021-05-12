@@ -10,7 +10,32 @@ Genetic Algorithms, Evolutionary Computing, Technical Education, Linguistics, an
 
 ## Work History
 
-### Guaranteed Rate - LeadSoftware Engineer
+### Start Up - Senior Software Engineer
+
+October 2020 - Present
+
+Chicago, Illinois
+
+#### Software Products
+
+- Core Infrastructure Libraries
+- Central Infrastructure-as-Code Repository
+- Clojure Build Tools
+
+#### Primary Skills Utilized
+
+- Clojure / Clojurescript
+- Bash
+- PostgreSQL
+- Terrafom
+- Node.js
+
+#### Job Duties
+
+- Create and issue cross-team utilities, tools, and solutions to common technical needs and problems
+- Create and maintain infrastructure-as-code modules and central resources
+
+### Guaranteed Rate - Lead Software Engineer
 
 September 2018 - October 2020
 
