@@ -71,15 +71,6 @@ https://nnichols.github.io/nature/coverage/nature/monitors.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_operators.clj.html
 https://nnichols.github.io/nature/coverage/nature/population_presets.clj.html
 https://nnichols.github.io/nature/coverage/nature/spec.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/index.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/core.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/forms.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/beings.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/descriptors.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/player_attributes.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/story_elements/titles.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/twitter_interface.clj.html
-https://nnichols.github.io/rpg-story-bot/coverage/rpg_story_bot/utility.clj.html
 https://nnichols.github.io/sitemap
 https://nnichols.github.io/twitter
 https://nnichols.github.io/warhammer
