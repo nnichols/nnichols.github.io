@@ -23,7 +23,7 @@ A supply boat has been chartered to Elenmar in the Buxswell Dutchie, and if they
 
 After a few hours of honest labor, they hit the open seas and begin the long journey north.
 Over the next few weeks, Krug attempts to learn how to sail as Jack reads up on the state of the world.
-Thaelen, left liquor-less, is forced into a spiritually, emotionally, and physically draining state known as "drying out."
+Thaelen, left liquor-less, is forced into a spiritually, emotionally, and physically draining state known as "drying out"- Arminius glaring over him the entire time.
 After a few days, the party, unsure what to do with their time, explores the ship and finds a prisoner being transported to **the Harpers.**
 Despite his advanced age, the shackled Drow, is surprisingly in-shape and his scars tell of a life's worth of experiences.
 He introduces himself as the thief Juib.
@@ -92,7 +92,7 @@ Ever eager to spread the good word about his patron deity, the thin man whips ar
 The pair rebuke him at first, but eventually wear down and provide some answers.
 During the calamity between the second and third ages, several deities born during the **Everdawn** met their end.
 At the same time, new gods and daemons rose to fill their ranks; however, worship did not immediately follow.
-Many are skeptical of entities such as Bahamut, Grokkush, Tiamat, and the Anathema.
+Many are skeptical of entities such as Bahamut, Grokkush, Tiamat, and the God-Emperor of the Idravalli.
 With no historic context, no proof of power, and no trust established, common folk are left wondering how and if their lives will improve.
 Groups like the Harpers were quick to include members of the new pantheon into their daily worship, but most aren't convinced.
 
@@ -114,7 +114,7 @@ As they begin switching the guard again, they take a look out over the hills and
 Even from their great distance, they see masses gathering to mourn the passing of their ancient protector.
 As their eyes focus, they see an eruption of orange light as several _Fireballs_ erupt in the crowd.
 Seeing the threat, the adventurers leap to their feet and begin sprinting towards the capital.
-After running for nearly two miles, they run headlong into three suspicious individuals headed their way: two woodsmen and a strange, cloaked figure.
+After running for nearly two miles, they run headlong into three suspicious individuals headed their way: two woodsmen and a strange, cloaked figure with a mask made of pearl.
 The party orders them to halt, and fighting shortly erupts.
 
 Krug and Jack charge forward towards the cloaked figure, who responds with a _Shocking Grasp_.

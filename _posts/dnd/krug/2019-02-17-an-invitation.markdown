@@ -42,7 +42,7 @@ A moment of silence passes before a nearby bush responds, "Krug."
 
 The apparition approaches them and once again demands information, "Who... Dare... Trespass... Here?"
 
-The silence is deafening, until Krug leaps out with a hearty, "Hey."
+The silence is deafening, until Krug leaps out with a hearty, "KRUG."
 The barbarian slowly and stealthily reaches for the bush, and with profound speed rips the tall man back onto his feet.
 
 Sensing his intellect is needed, he asks the specter for its name.
@@ -53,7 +53,7 @@ The devil Strahd took my life, and now I am a prisoner here."
 
 The tall man mutters some words into his book, and begins turning the pages.
 Eventually, he comes to the page he was looking for and looks into the man's sins.
-Cortessio Valdar had been a lieutenant of an Imperial detachment ordered to claim Barovia some 60 years earlier.
+Cortessio Valdar had been a lieutenant of an Imperial detachment known as the Vyka Fenryka ordered to claim Barovia some 60 years earlier.
 By every Imperial statute and decree, Cortessio would have been a dedicated soul to his nation.
 While misguided in the invasion, he had performed his duty as expected and served honorably.
 Unable to discern any reason why his soul would be bound to the Material Plane, the thin man asks how him and Krug can help.
@@ -90,7 +90,7 @@ Feeling bad, they decide not to kill him immediately; however, they also agree t
 
 Thaelen unveils the portrait, and the man immediately begins screaming.
 "THAT'S A PORTRAIT FROM CASTLE RAVENSLOFT!!!
-ARE YOU THE THEIVES WHO STOLE IT?
+ARE YOU THE THIEVES WHO STOLE IT?
 OR ARE YOU JUST INSANE?!"
 
 After some quick words, they claim they're in town to return it to Strahd; however, the man wants no part of their business anymore.
@@ -133,7 +133,7 @@ Krug passes around a note he found slipped beneath their door:
 As they soak in the news, they hear a knocking at the door and a stuffy voice of a high class echoing out, "May I enter?"
 
 The party looks at each other before Krug answers for them, "Sure."
-An elderly gnome in extravagant formalwear enters, and approaches their table.
+An elderly gnome in extravagant formal wear enters, and approaches their table.
 
 "Greeting, children of Barovia.
 No doubt, your invitation to the dinner being held in your honor has found you.
@@ -150,7 +150,7 @@ The sudden invitation has startled most of them, and they spend several hours mu
 
 Eventually, they bump into a short, hooded figure walking through the city.
 He excuses himself, explaining he's looking for a man selling a dog.
-Thaelen, understanding the calling of his chapter, returns the sign, "Oh, so you like dogs, huh?"
+Thaelen, understanding the calling of his chapter, returns the sign, "Oh, so you fuckin' like dogs, huh?"
 The two share a brief sequence of coded messages before agreeing to meet in an alley.
 Everyone else decides to stand watch over the cart, fearing a robbery.
 

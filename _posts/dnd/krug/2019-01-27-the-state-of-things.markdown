@@ -76,7 +76,8 @@ Tlareg sounds worried by the strange occurrence, "Where I grew up, there were st
 None of them end well.
 We should move on."
 
-Thaelen agrees in his own, unusual way, "It ain't no thing."
+Thaelen agrees in his own, unusual way, "It ain't no thing.
+I've never seen a windmill in my fucking life."
 
 Marion and Harolt are terrified, and ask to get moving once more.
 Bemril asks what the commotion is, and that he only hears the creaking of the blades turning.

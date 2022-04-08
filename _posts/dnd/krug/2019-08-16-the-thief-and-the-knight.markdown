@@ -107,7 +107,7 @@ You take care of this, but never mention my name, alright?
 We're friends helping friends here."
 
 The barbarians relent, and let the halfling jump back to his feet.
-Thaelen agrees to the terms, "Yeah, friends helping friends to some drinks."
+Thaelen agrees to the terms, "Yeah, friends helping friends to some drinks, bitch."
 He continues laughing to himself as the group gives him an estranged look.
 The halfling nods, and he charges upstairs to have his fill.
 The rest of the group eventually joins him, but are quickly distracted by a commotion in the streets.
@@ -146,8 +146,9 @@ Disturbed by the entire encounter, Thaelen turns to the guard that intervened, "
 
 The young man, a human with dusty blonde hair, goatee, and the armor of a conscript, sighs, "They're the representatives of the Idravalli Empire here for Lysanderoth's passing.
 The queen insisted upon their presence as a sign of good will, but I knew this would happen.
-They're dangerous, even to their own kind, so I'd steer clear.
-Every day they stay here, they take over more and more of this investigation.
+They're dangerous, even to their own people, so I'd steer clear.
+Rumor has it the crazy one you were talking to burned an entire city to the ground as part of a murder investigation.
+Every day they stay here, they take over more and more of our work and resources.
 It'd be best if we got to the bottom of this quickly: people are getting restless."
 
 Jack slinks forward revealing his surprising charm, "Agreed!

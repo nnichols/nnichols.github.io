@@ -27,7 +27,7 @@ With each successful blow, the distortion grows and grows; however, the Helmed H
 Pinned in a corner, it lashes out with two skillful strikes that knock both Tlareg and Krug unconscious.
 Misha dashes forward as Thaelen and Jack cover her with _Ray of Frost_ and _Hellish Rebuke_ respectively.
 
-She begins to pour a potion down Krug's throat, but the guardan of Castle Ravensloft intervenes.
+She begins to pour a potion down Krug's throat, but the guardian of Castle Ravensloft intervenes.
 The great sword swings down, and a sickening shriek rings out as her life is taken from her; however, her sacrifice was not in vein.
 The moment of distraction buys just enough time for the remaining casters to strike their foe down.
 As the now-dormant fragments of plate mail strike the ground, a soft whisper rings through their ears, "Thank you."
@@ -124,7 +124,7 @@ Tlareg scoffs, "Yeah, you can say that again."
 Thaelen takes the opportunity to share a drink with his kindred spirit.
 
 Ignoring the criticism, the gunslinger continues, "That being said, we've begun to uncover Strahd's true plans.
-There's a thread connecting the portraits, that armor, and the strange disposition of everyone in this country.
+There's a red thread connecting the portraits, that armor, and the strange disposition of everyone in this country.
 We need to act quickly, or it may effect us too."
 
 Jack begins shaking his head, "Let me stop you right there.
@@ -132,7 +132,7 @@ This is way over our head, and we need to get out of dodge."
 
 Cecilia takes offense, "This is your home as well as ours!"
 
-"Yeah, and I'd rather not die here too."
+"Yeah, and I'd rather not have it be my grave too."
 
 Frustrated, Tilman continues, "We'll need help continuing this work.
 You are good people, and we have allies.

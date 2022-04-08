@@ -112,7 +112,8 @@ Upon seeing the mask, she confirms the party's suspicions, and tells them about 
 When asked about her boyfriend, she explains that Zherulius is a kind soul, but his work in the capital has made his visits irregular.
 As a trader, he can often only stay for a few hours overnight.
 The party suspects he is connected to the beasts, but needs to get more information.
-They ask her to visit them at the Rounded Antlers Inn that evening, and Thaelen asks her to buy drinks. She agrees.
+They ask her to visit them at the Rounded Antlers Inn that evening, and Thaelen asks her to buy drinks.
+She agrees.
 
 Over the next few hours, the party discusses their plans and begins contemplating how they can find an audience with Count Strahd.
 As they pass the time, Lise offers to read their fortunes.

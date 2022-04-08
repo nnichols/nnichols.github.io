@@ -42,11 +42,12 @@ The mountain of a man, calling himself Number Six, wants in and is tired of loun
 Krug and Six have a conversation in Orcish, and debate beating a stranger for their blood.
 Tlareg, annoyed the group won't speak in common, asks Thaelen why he won't give up a little blood.
 
-"Listen, that blood hunter bitch can use that shit to track me. I ain't about that life."
+"Listen, that blood hunter bitch can use that shit to track me.
+I ain't about that life."
 
 He alludes to a prior incident that drove him out of the Idravalli Empire, and insinuates he had to pay a small fortune in bribes to make it to Barovia.
 Krug, not getting to Krug anything, decides to offer them to draw from his bandaged leg.
-The triton motions to the tabaxi, who magically fills a phial with Krug blood.
+The triton motions to the tabaxi, who magically fills a phial with Krug's blood.
 
 With their contract signed in literal blood, the group asks for any information that could help them locate the painting.
 Dalzos, a generous host, provides them with three leads.
@@ -65,7 +66,8 @@ A single tear rolls down the cheek of the nameless twig of a man.
 
 The group debates their options, but ultimately agrees the circus is the best place to start.
 The tiefling woman is excited about the prospect of finding snacks, Tlareg is excited to see a show, and Thaelen is disastrously drunk.
-Krug gives a look of disappointment.
+Krug gives a look of disappointment, but is secretly hopeful that there will be a petting zoo.
+After all, Krug does like soft things.
 Acknowledging his fault, the wizard conjures up a strangely gaunt _Mage Hand_ and slaps himself in the face to sober up.
 
 While approaching the large yellow and red canvas tents, Thaelen passes out a silver-backed playing card to each of his associates to use as a fake ticket.
@@ -89,10 +91,11 @@ He notices a small, goblin-like creature with dark skin dart into the shadows an
 
 Meanwhile, Tlareg finds a small, gaudy tent serving as the home of a fortune teller.
 The decorations are designed as a draw, and the entire thing reeks of a scam; however, Tlareg discerns the old, dark skinned human woman is genuine.
-He asks to see his past and his future, and, while examining his palms, she draws two tarot cards:
+He asks to see his past and his future, and, while examining his palms, she draws three tarot cards:
 
 1. **The Nine of Wands** - While standoffish and paranoid, it is Tlareg's resilience and determination that have driven him so far. He is focused, driven, and determined. The difficulties of his past have built up to his future.
-2. **The Ten of Wands** - The person Tlareg is looking for _can_ be found; however, it will require sacrifice. Tlareg is capable of great things, but he will have to carry the weight and bear the price of his journey. In his future, he will have to decide between his destiny and accomplishments.
+2. **The Two of Pentacles** - Tlareg is at a crossroads in his life. While he is capable of achieving anything, he cannot do everything. He is at a juncture in which he must decide his priorities.
+3. **The Ten of Wands** - The person Tlareg is looking for _can_ be found; however, it will require sacrifice. Tlareg is capable of great things, but he will have to carry the weight and bear the price of his journey. In his future, he will have to decide between his destiny and accomplishments.
 
 Tlareg reflects on the words, and asks if the woman knows of the painting.
 Seeing his all-access pass and no other customers, she offers a second telling.
@@ -123,7 +126,7 @@ They stack up at the front of the tent, and the tall man rips open the flaps.
 **"ARE YOU LITTLE BOYS BEING NAUGHTY?"**
 
 Frightened, the two Darklings try to dart away.
-The tall man casts _Eldritch Blast_ and knocks the wind out of one of his foes, and yells, "Keep one safe so we can find out who's been naughty and nice!"
+The tall man casts _Eldritch Blast_ and knocks the wind out of one of his foes, and yells, "Keep one safe so we can find out who has been naughty and who has been nice!"
 The tiefling chases after him as he tries to escape, and hefts him off the ground.
 Krug hefts Six into the tent, and Six attempts to tackle the other darkling.
 After seeing his half-orc brother in arms fall flat on his face, Krug roars and flies into a rage.
@@ -153,7 +156,7 @@ They seek out Arminius, and Thaelen decides to hang back a little.
 He begins resting against a lamp post while the rest of the party talks to the silver dragonborn they had met earlier.
 While disappointed he didn't get to exact holy vengeance, Arminius is pleased that the painting has been recovered.
 He has been granted authority to produce a reward they can collect from city hall, but needs to know a name to address it to.
-After a short pause, their champion, and voice of reason, steps forward: "We're Krug 'n' Krew."
+After a short pause, their champion, their voice of reason, the true hero of this story, steps forward: "We're Krug 'n' Krew."
 Thaelen falls in the snow and begins yelling to himself.
 Used to the wizard's antics, the group also turns the darkling over to Arminius.
 The group decides to collect their 42 gold, and returns to the tavern.

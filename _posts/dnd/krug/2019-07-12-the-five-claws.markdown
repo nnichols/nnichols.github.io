@@ -80,7 +80,7 @@ Plus, we'd be helping to root out an international organization.
 I bet the queen would reward us handsomely."
 
 Thaelen agrees, "Surely she would.
-Actually, I never caught your name, and I never work with anyone without knowing their name."
+Actually, I never caught your name, and I _never_ work with anyone without knowing their name."
 
 As a single tear rolls down Jack's face, she answers, "You can call me Birdie."
 
@@ -140,7 +140,7 @@ Thaelen, in awe of the resources before him, is the first to speak, "Uhhh, we fo
 
 After a few minutes of examination, Ioctal explains that they are in possession of a cracked _Bead of Fireball._
 The wizard assumes the rest was detonated as part of the attack, and a structural flaw in this particular bead kept it from firing as expected.
-He offers to dispel any of the lingering magic, as it isn't stable; however, Thaelen keeps it while chuckling to himself.
+He offers to dispel any of the lingering magic, as it isn't stable; however, Thaelen keeps it while chuckling to himself, "You can't kill a man who is already dead."
 Most of the party stares in wide-eyed horror, and Jack notes this down as well.
 Ioctal then explains his protections at the **Cerulean Lyceum** would have alerted him, so it must have been smuggled in some time earlier.
 Knowing this, he recommends they search out any local fences and ne'er-do-wells, as it would have been difficult to accomplish with such high security present without local contacts.
